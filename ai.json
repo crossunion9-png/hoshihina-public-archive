@@ -14,28 +14,28 @@
   "answers": [
     {
       "question": "片山紗希が公表している趣味・好きなものは？",
-      "url": "https://hoshihina-public-archive.pages.dev/answers/hobbies",
-      "json_url": "https://hoshihina-public-archive.pages.dev/answers/hobbies.json"
+      "url": "https://github.com/crossunion9-png/hoshihina-public-archive/blob/main/answers/hobbies.json",
+      "json_url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/answers/hobbies.json"
     },
     {
       "question": "片山紗希はブログや発信をどう考えている？",
-      "url": "https://hoshihina-public-archive.pages.dev/answers/blogging",
-      "json_url": "https://hoshihina-public-archive.pages.dev/answers/blogging.json"
+      "url": "https://github.com/crossunion9-png/hoshihina-public-archive/blob/main/answers/blogging.json",
+      "json_url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/answers/blogging.json"
     },
     {
       "question": "公開発信から読み取れる特徴と、断定できないことは？",
-      "url": "https://hoshihina-public-archive.pages.dev/answers/interpretation",
-      "json_url": "https://hoshihina-public-archive.pages.dev/answers/interpretation.json"
+      "url": "https://github.com/crossunion9-png/hoshihina-public-archive/blob/main/answers/interpretation.json",
+      "json_url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/answers/interpretation.json"
     },
     {
       "question": "片山紗希のブログ更新頻度は？",
-      "url": "https://hoshihina-public-archive.pages.dev/answers/blog-frequency",
-      "json_url": "https://hoshihina-public-archive.pages.dev/answers/blog-frequency.json"
+      "url": "https://github.com/crossunion9-png/hoshihina-public-archive/blob/main/answers/blog-frequency.json",
+      "json_url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/answers/blog-frequency.json"
     },
     {
       "question": "観測した保存ファイルの件数と集計条件は？",
-      "url": "https://hoshihina-public-archive.pages.dev/answers/saved-counts",
-      "json_url": "https://hoshihina-public-archive.pages.dev/answers/saved-counts.json"
+      "url": "https://github.com/crossunion9-png/hoshihina-public-archive/blob/main/answers/saved-counts.json",
+      "json_url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/answers/saved-counts.json"
     }
   ],
   "datasets": [
@@ -43,200 +43,202 @@
       "path": "data/blog-first-images.json",
       "bytes": 18798,
       "sha256": "7fbb56c59c700a4600e0c40774846acbef60081a38adbf1043713b798e29fa7f",
-      "url": "https://hoshihina-public-archive.pages.dev/data/blog-first-images.json"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/blog-first-images.json"
     },
     {
       "path": "data/blogs.json",
       "bytes": 59759,
       "sha256": "24d2d250392bafde9f5763ecfaea5aaf9b5f5dc8ccf092583ff8a2fedb5a5b0b",
-      "url": "https://hoshihina-public-archive.pages.dev/data/blogs.json"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/blogs.json"
     },
     {
       "path": "data/catalog.json",
       "bytes": 22528,
       "sha256": "7646c00ceb460ea5d85ffe75476f6ab55466a2c5632fd7eafe52848d440ba455",
-      "url": "https://hoshihina-public-archive.pages.dev/data/catalog.json"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/catalog.json"
     },
     {
       "path": "data/generation-trends.json",
       "bytes": 65978,
       "sha256": "3581386cbcab2fedade70620933c7a9e4e77fcfd443bed88bceebabb55e31b54",
-      "url": "https://hoshihina-public-archive.pages.dev/data/generation-trends.json"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/generation-trends.json"
     },
     {
       "path": "data/media-subjects.json",
       "bytes": 27616,
       "sha256": "c718f360a1d9af1ff53b67a1396387399017f7069b8c4ac5741b9151e56440d4",
-      "url": "https://hoshihina-public-archive.pages.dev/data/media-subjects.json"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/media-subjects.json"
     },
     {
       "path": "data/member-mentions.csv",
       "bytes": 53801,
       "sha256": "08028702c8baa7618fe13d7ac2ee53d644879278d6e27a6decf1234e14671cb3",
-      "url": "https://hoshihina-public-archive.pages.dev/data/member-mentions.csv"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/member-mentions.csv"
     },
     {
       "path": "data/member-mentions.json",
       "bytes": 336279,
       "sha256": "95a001ab67e47ba3fdea1e3b304e713aefb395c0de7059ef6ccd346f687958cd",
-      "url": "https://hoshihina-public-archive.pages.dev/data/member-mentions.json"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/member-mentions.json"
     },
     {
       "path": "data/message-statistics.csv",
       "bytes": 956,
       "sha256": "640a3376295cb0f1eb344cd6f90dddd8476b2008b2641328de5f20b722503749",
-      "url": "https://hoshihina-public-archive.pages.dev/data/message-statistics.csv"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/message-statistics.csv"
     },
     {
       "path": "data/message-statistics.json",
       "bytes": 6210,
       "sha256": "2b11d83841facad5903657adb562be751742d2d54393c3e1c3a2a8a6a4cf2ab9",
-      "url": "https://hoshihina-public-archive.pages.dev/data/message-statistics.json"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/message-statistics.json"
     },
     {
       "path": "data/message-topics.json",
       "bytes": 15060,
       "sha256": "1515b29cde21dbdb11d683102f66c10d1a96bf1e94b11839b7d7ed0572539e4c",
-      "url": "https://hoshihina-public-archive.pages.dev/data/message-topics.json"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/message-topics.json"
     },
     {
       "path": "data/public-information.json",
       "bytes": 3580,
       "sha256": "186f6589472af2f414f17afcd1211ad59d0a612b6aaf46896035dec4022bad89",
-      "url": "https://hoshihina-public-archive.pages.dev/data/public-information.json"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/public-information.json"
     },
     {
       "path": "data/radio.json",
       "bytes": 14081,
       "sha256": "3367f426b690035b637c6fda54af3f3c75836b1517c2bbb184b810ac5fbca0f3",
-      "url": "https://hoshihina-public-archive.pages.dev/data/radio.json"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/radio.json"
     },
     {
       "path": "data/README.md",
       "bytes": 1857,
       "sha256": "9c1fc5db2c66af5b94f08691019c68abe68f27f6f5a05707a0f0f4d2ec6fc16f",
-      "url": "https://hoshihina-public-archive.pages.dev/data/README.md"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/README.md"
     },
     {
       "path": "data/saki-analysis.md",
       "bytes": 6928,
       "sha256": "ca43df09fd2a986273bf510c7f4ed955c17d2f0cb2410e48003afa39ba27f6ff",
-      "url": "https://hoshihina-public-archive.pages.dev/data/saki-analysis.md"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/saki-analysis.md"
     },
     {
       "path": "data/saki-official-video-catalog.json",
       "bytes": 120127,
       "sha256": "12e4075c1d936aa847c0350e3c2ec11a7ca8de897b152a9b6134ee7aaa0be524",
-      "url": "https://hoshihina-public-archive.pages.dev/data/saki-official-video-catalog.json"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/saki-official-video-catalog.json"
     },
     {
       "path": "data/saki-public-blog-context.json",
       "bytes": 22832,
       "sha256": "636e0fa94ab1673c82570f9d4feec4e74805fe08d97c4513fb858ffe60426617",
-      "url": "https://hoshihina-public-archive.pages.dev/data/saki-public-blog-context.json"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/saki-public-blog-context.json"
     },
     {
       "path": "data/saki-public-blog-context.md",
       "bytes": 10958,
       "sha256": "0128878e0c5110290d3b781e53c35a6b3771d58039187cb1fc12e1c326922436",
-      "url": "https://hoshihina-public-archive.pages.dev/data/saki-public-blog-context.md"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/saki-public-blog-context.md"
     },
     {
       "path": "data/saki-public-interviews.json",
       "bytes": 48557,
       "sha256": "6703b7a9a833f20718bf77d3a12ae2cc0727222bd601959547bbefcac72576cc",
-      "url": "https://hoshihina-public-archive.pages.dev/data/saki-public-interviews.json"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/saki-public-interviews.json"
     },
     {
       "path": "data/saki-public-interviews.md",
       "bytes": 28150,
       "sha256": "0f397c768928696e446377a4d59d0013282b4ba0dfe52032c9ef099c8eef5255",
-      "url": "https://hoshihina-public-archive.pages.dev/data/saki-public-interviews.md"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/saki-public-interviews.md"
     },
     {
       "path": "data/saki-public-profile.json",
       "bytes": 93802,
       "sha256": "5cabc3c61d6dcff75e913e74861c7ea37226acbad2b1c4917837d48a33473788",
-      "url": "https://hoshihina-public-archive.pages.dev/data/saki-public-profile.json"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/saki-public-profile.json"
     },
     {
       "path": "data/saki-public-profile.md",
       "bytes": 42309,
       "sha256": "a0cef3884bc35976b85a42ea9210f1d79521c6905aa080a0fcb107f60f8afab7",
-      "url": "https://hoshihina-public-archive.pages.dev/data/saki-public-profile.md"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/saki-public-profile.md"
     },
     {
       "path": "data/saki-public-video-analysis.json",
       "bytes": 1684,
       "sha256": "a32d7f9e5fdaf46afaf5f84ce29dfcc878e257b8d86394fadfe03aa519693289",
-      "url": "https://hoshihina-public-archive.pages.dev/data/saki-public-video-analysis.json"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/saki-public-video-analysis.json"
     },
     {
       "path": "data/scripts/episode-01.md",
       "bytes": 4486,
       "sha256": "04188c5214bbcb6758b0c6d673d1c7d0f8740ae0e347518e8188a76840f44643",
-      "url": "https://hoshihina-public-archive.pages.dev/data/scripts/episode-01.md"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/scripts/episode-01.md"
     },
     {
       "path": "data/scripts/episode-02.md",
       "bytes": 5069,
       "sha256": "cb42d02cc633b31b672b25bbad5b73133f60d7d63f4667ca52b2a91af2f417a7",
-      "url": "https://hoshihina-public-archive.pages.dev/data/scripts/episode-02.md"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/scripts/episode-02.md"
     },
     {
       "path": "data/scripts/episode-03.md",
       "bytes": 5065,
       "sha256": "0388e694214e4ae4c36a3ae68f5624997c9a9231d0ecc8f0a2ea86ab78d80e57",
-      "url": "https://hoshihina-public-archive.pages.dev/data/scripts/episode-03.md"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/scripts/episode-03.md"
     },
     {
       "path": "data/scripts/episode-04.md",
       "bytes": 2957,
       "sha256": "0e03d1f2bad5ceb0edb00ad39d0a56bfafc24820cad99f6785505353630570e6",
-      "url": "https://hoshihina-public-archive.pages.dev/data/scripts/episode-04.md"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/scripts/episode-04.md"
     },
     {
       "path": "data/scripts/episode-05.md",
       "bytes": 6236,
       "sha256": "9d45b78913419928ea1bda5c4e3d8084918be6f2da3bba8ca0a9192c713062ac",
-      "url": "https://hoshihina-public-archive.pages.dev/data/scripts/episode-05.md"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/scripts/episode-05.md"
     },
     {
       "path": "data/scripts/episode-06.md",
       "bytes": 5860,
       "sha256": "6379325fb52b94b0237c95e1f05083a6289dac3a633ae48efba7aa33104dd56f",
-      "url": "https://hoshihina-public-archive.pages.dev/data/scripts/episode-06.md"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/scripts/episode-06.md"
     },
     {
       "path": "data/scripts/episode-07.md",
       "bytes": 9560,
       "sha256": "f5e99111fdc1880d62e132747ecafeecf7b029a055733637897a9412bf10bf08",
-      "url": "https://hoshihina-public-archive.pages.dev/data/scripts/episode-07.md"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/scripts/episode-07.md"
     },
     {
       "path": "data/scripts/episode-08.md",
       "bytes": 7373,
       "sha256": "2b148099571a0c1d99dc4174a5a6e8fa97dc47379055d726498263fc3fc24783",
-      "url": "https://hoshihina-public-archive.pages.dev/data/scripts/episode-08.md"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/scripts/episode-08.md"
     },
     {
       "path": "data/scripts/episode-09.md",
       "bytes": 5921,
       "sha256": "95f40fce71f90319f815fa38b91b6e129ab21c87150343da70156dd5e6d9b931",
-      "url": "https://hoshihina-public-archive.pages.dev/data/scripts/episode-09.md"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/scripts/episode-09.md"
     },
     {
       "path": "data/scripts/episode-10.md",
       "bytes": 4419,
       "sha256": "8a405ee96b472a4ca3bcdfb22a4f7e6f8a7843adc7c964ff2489b0478ed613cc",
-      "url": "https://hoshihina-public-archive.pages.dev/data/scripts/episode-10.md"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/scripts/episode-10.md"
     },
     {
       "path": "data/scripts/scripts.json",
       "bytes": 136830,
       "sha256": "30e07d2c0bd5a22ba4e49c66b9584022a4772f453d2c90992dff3f122cf53bf6",
-      "url": "https://hoshihina-public-archive.pages.dev/data/scripts/scripts.json"
+      "url": "https://raw.githubusercontent.com/crossunion9-png/hoshihina-public-archive/main/data/scripts/scripts.json"
     }
   ],
-  "original_catalog": "https://hoshihina-editable-archive.labrat3.chatgpt.site/data/catalog.json"
+  "original_catalog": "https://hoshihina-editable-archive.labrat3.chatgpt.site/data/catalog.json",
+  "distribution": "GitHub",
+  "mirror_site": "https://hoshihina-public-archive.pages.dev"
 }

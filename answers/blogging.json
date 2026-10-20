@@ -1,0 +1,65 @@
+{
+  "id": "blogging",
+  "question": "片山紗希はブログや発信をどう考えている？",
+  "kind": "本人が公表した発信方針",
+  "url": "https://hoshihina-editable-archive.labrat3.chatgpt.site/answers/blogging",
+  "json_url": "https://hoshihina-editable-archive.labrat3.chatgpt.site/answers/blogging.json",
+  "publisher": "ホシヒナRadio資料室（非公式）",
+  "answer": "個人ブログ開始1周年には、少し時間ができた時にすぐ読める新しい記事がある状態と、出演・締切の案内を目標として説明。\n\n本人は2026年10月1日の公開ブログで、トークに食べ物や自撮り、夕食当てなどの日常を載せていると説明。有料配信の実物を読んだ結果ではない。",
+  "evidence": [
+    {
+      "id": "blog-policy",
+      "label": "ブログの目標",
+      "value": "個人ブログ開始1周年には、少し時間ができた時にすぐ読める新しい記事がある状態と、出演・締切の案内を目標として説明。",
+      "source_ids": [
+        "blog-71207"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/71207"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "message-public-policy",
+      "label": "トークの公開説明",
+      "value": "本人は2026年10月1日の公開ブログで、トークに食べ物や自撮り、夕食当てなどの日常を載せていると説明。有料配信の実物を読んだ結果ではない。",
+      "source_ids": [
+        "blog-71207"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/71207"
+      ],
+      "confidence": "本人明言"
+    }
+  ],
+  "sources": [
+    {
+      "id": "blog-71207",
+      "title": "10月！個人ブログが始まってから1年らしい🎵",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/71207",
+      "date": "2026-10-01",
+      "type": "公式ブログ",
+      "summary": "個人ブログ開始から1年。短く頻繁に読める更新、出演・締切案内などの発信方針を説明。",
+      "tags": [
+        "ブログ",
+        "発信"
+      ],
+      "checked_at": "2026-10-03"
+    }
+  ],
+  "limitations": [
+    "本人の公表した自己説明と分析者の解釈を区別する。私的な本心、臨床的特性、親密さや不仲の判定ではない。",
+    "各出典の公開日・確認日を保持。全ブログ本文の完全な精読、最新の全映像を視聴済みという意味ではない。",
+    "同じ公演の事前・事後記事、同じ取材の転載は独立した実証として重複計上しない。",
+    "公開写真は選定された6記事12画像の確認に限る。現在地や非公開施設の推定に用いない。",
+    "動画由来の分析は検証済み自動字幕の区間に限定し、誤認可能性を残す。",
+    "この公開文章版は公開一次資料で裏付け可能な記述を採用。限定配信のみの個別内容は含めない。"
+  ],
+  "provenance": {
+    "source_url": "https://hoshihina-editable-archive.labrat3.chatgpt.site/data/saki-public-profile.json",
+    "revision": 0,
+    "content_updated_at": null,
+    "exported_at": "2026-10-19T19:32:00+09:00"
+  },
+  "time_note": "exported_atはデータ書き出し日時。情報の対象時点は各出典のdate・checked_atと本文を参照。"
+}

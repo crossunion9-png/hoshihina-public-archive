@@ -1,0 +1,6 @@
+/ai.json
+  Content-Type: application/json; charset=utf-8
+/data/*.md
+  Content-Type: text/plain; charset=utf-8
+/llms.txt
+  Content-Type: text/plain; charset=utf-8

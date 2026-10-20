@@ -1,0 +1,713 @@
+{
+  "schema_version": "1.0",
+  "verified_at": "2026-10-19T19:29:00+09:00",
+  "publisher_note": "サイト運営者による非公式の独自分析。公式公認ではありません。",
+  "source_snapshot_revision": 368,
+  "analysis_updated_at": "2026-10-19T10:15:18.346354+09:00",
+  "unit": "one_primary_topic_per_observed_text",
+  "denominator": 3687,
+  "period": {
+    "start": "2025-11-01",
+    "end": "2026-10-18",
+    "time_basis": "元記録ファイル名日時raw、タイムゾーン未確定"
+  },
+  "categories": [
+    {
+      "id": "greetings",
+      "label": "挨拶・応援",
+      "definition": "定型の朝夜の挨拶、労い、読み手への応援が中心。"
+    },
+    {
+      "id": "fan",
+      "label": "ファンとの会話",
+      "definition": "夕食当て、質問回答、レター、会話の感謝、写真配信など読み手とやりとりする内容。"
+    },
+    {
+      "id": "daily",
+      "label": "食事・日常",
+      "definition": "本人の食事、睡眠、天候、移動、家族・友人との日常。"
+    },
+    {
+      "id": "activity",
+      "label": "活動・告知",
+      "definition": "自身の出演・公演・制作物・ブログの告知、参加した仕事の報告。"
+    },
+    {
+      "id": "appearance",
+      "label": "服・髪・美容",
+      "definition": "服、髪型、メイク、美容、身につける品の紹介。"
+    },
+    {
+      "id": "members",
+      "label": "メンバーの話",
+      "definition": "特定メンバーとの場面、関係、称賛が中心。主題分類と実交流の有無は別。"
+    },
+    {
+      "id": "unknown",
+      "label": "その他・話題不明",
+      "definition": "絵文字だけ、対象不明の反応、本文だけでは話題が決まらない断片。"
+    },
+    {
+      "id": "hobbies",
+      "label": "趣味・好きなもの",
+      "definition": "音楽・テレビ・映画・読書の鑑賞、キャラクターや収集等。自身の出演告知は含めない。"
+    },
+    {
+      "id": "goals",
+      "label": "目標・振り返り",
+      "definition": "活動の目標、経験の意味、自身の課題と向き合う長文・実質的な内省。"
+    }
+  ],
+  "months": [
+    {
+      "month": "2025-11",
+      "status": "observed",
+      "denominator": 143,
+      "counts": [
+        {
+          "id": "greetings",
+          "count": 32,
+          "percent": 22.38
+        },
+        {
+          "id": "fan",
+          "count": 44,
+          "percent": 30.77
+        },
+        {
+          "id": "daily",
+          "count": 22,
+          "percent": 15.38
+        },
+        {
+          "id": "activity",
+          "count": 12,
+          "percent": 8.39
+        },
+        {
+          "id": "appearance",
+          "count": 2,
+          "percent": 1.4
+        },
+        {
+          "id": "members",
+          "count": 7,
+          "percent": 4.9
+        },
+        {
+          "id": "unknown",
+          "count": 5,
+          "percent": 3.5
+        },
+        {
+          "id": "hobbies",
+          "count": 9,
+          "percent": 6.29
+        },
+        {
+          "id": "goals",
+          "count": 10,
+          "percent": 6.99
+        }
+      ]
+    },
+    {
+      "month": "2025-12",
+      "status": "observed",
+      "denominator": 290,
+      "counts": [
+        {
+          "id": "greetings",
+          "count": 56,
+          "percent": 19.31
+        },
+        {
+          "id": "fan",
+          "count": 76,
+          "percent": 26.21
+        },
+        {
+          "id": "daily",
+          "count": 59,
+          "percent": 20.34
+        },
+        {
+          "id": "activity",
+          "count": 30,
+          "percent": 10.34
+        },
+        {
+          "id": "appearance",
+          "count": 24,
+          "percent": 8.28
+        },
+        {
+          "id": "members",
+          "count": 7,
+          "percent": 2.41
+        },
+        {
+          "id": "unknown",
+          "count": 21,
+          "percent": 7.24
+        },
+        {
+          "id": "hobbies",
+          "count": 12,
+          "percent": 4.14
+        },
+        {
+          "id": "goals",
+          "count": 5,
+          "percent": 1.72
+        }
+      ]
+    },
+    {
+      "month": "2026-01",
+      "status": "missing",
+      "denominator": null,
+      "counts": null
+    },
+    {
+      "month": "2026-02",
+      "status": "observed",
+      "denominator": 377,
+      "counts": [
+        {
+          "id": "greetings",
+          "count": 89,
+          "percent": 23.61
+        },
+        {
+          "id": "fan",
+          "count": 93,
+          "percent": 24.67
+        },
+        {
+          "id": "daily",
+          "count": 64,
+          "percent": 16.98
+        },
+        {
+          "id": "activity",
+          "count": 45,
+          "percent": 11.94
+        },
+        {
+          "id": "appearance",
+          "count": 14,
+          "percent": 3.71
+        },
+        {
+          "id": "members",
+          "count": 30,
+          "percent": 7.96
+        },
+        {
+          "id": "unknown",
+          "count": 27,
+          "percent": 7.16
+        },
+        {
+          "id": "hobbies",
+          "count": 6,
+          "percent": 1.59
+        },
+        {
+          "id": "goals",
+          "count": 9,
+          "percent": 2.39
+        }
+      ]
+    },
+    {
+      "month": "2026-03",
+      "status": "observed",
+      "denominator": 454,
+      "counts": [
+        {
+          "id": "greetings",
+          "count": 104,
+          "percent": 22.91
+        },
+        {
+          "id": "fan",
+          "count": 97,
+          "percent": 21.37
+        },
+        {
+          "id": "daily",
+          "count": 92,
+          "percent": 20.26
+        },
+        {
+          "id": "activity",
+          "count": 46,
+          "percent": 10.13
+        },
+        {
+          "id": "appearance",
+          "count": 25,
+          "percent": 5.51
+        },
+        {
+          "id": "members",
+          "count": 28,
+          "percent": 6.17
+        },
+        {
+          "id": "unknown",
+          "count": 25,
+          "percent": 5.51
+        },
+        {
+          "id": "hobbies",
+          "count": 28,
+          "percent": 6.17
+        },
+        {
+          "id": "goals",
+          "count": 9,
+          "percent": 1.98
+        }
+      ]
+    },
+    {
+      "month": "2026-04",
+      "status": "observed",
+      "denominator": 434,
+      "counts": [
+        {
+          "id": "greetings",
+          "count": 109,
+          "percent": 25.12
+        },
+        {
+          "id": "fan",
+          "count": 70,
+          "percent": 16.13
+        },
+        {
+          "id": "daily",
+          "count": 93,
+          "percent": 21.43
+        },
+        {
+          "id": "activity",
+          "count": 59,
+          "percent": 13.59
+        },
+        {
+          "id": "appearance",
+          "count": 33,
+          "percent": 7.6
+        },
+        {
+          "id": "members",
+          "count": 26,
+          "percent": 5.99
+        },
+        {
+          "id": "unknown",
+          "count": 27,
+          "percent": 6.22
+        },
+        {
+          "id": "hobbies",
+          "count": 14,
+          "percent": 3.23
+        },
+        {
+          "id": "goals",
+          "count": 3,
+          "percent": 0.69
+        }
+      ]
+    },
+    {
+      "month": "2026-05",
+      "status": "observed",
+      "denominator": 437,
+      "counts": [
+        {
+          "id": "greetings",
+          "count": 107,
+          "percent": 24.49
+        },
+        {
+          "id": "fan",
+          "count": 64,
+          "percent": 14.65
+        },
+        {
+          "id": "daily",
+          "count": 92,
+          "percent": 21.05
+        },
+        {
+          "id": "activity",
+          "count": 70,
+          "percent": 16.02
+        },
+        {
+          "id": "appearance",
+          "count": 29,
+          "percent": 6.64
+        },
+        {
+          "id": "members",
+          "count": 26,
+          "percent": 5.95
+        },
+        {
+          "id": "unknown",
+          "count": 25,
+          "percent": 5.72
+        },
+        {
+          "id": "hobbies",
+          "count": 18,
+          "percent": 4.12
+        },
+        {
+          "id": "goals",
+          "count": 6,
+          "percent": 1.37
+        }
+      ]
+    },
+    {
+      "month": "2026-06",
+      "status": "observed",
+      "denominator": 362,
+      "counts": [
+        {
+          "id": "greetings",
+          "count": 89,
+          "percent": 24.59
+        },
+        {
+          "id": "fan",
+          "count": 70,
+          "percent": 19.34
+        },
+        {
+          "id": "daily",
+          "count": 60,
+          "percent": 16.57
+        },
+        {
+          "id": "activity",
+          "count": 49,
+          "percent": 13.54
+        },
+        {
+          "id": "appearance",
+          "count": 32,
+          "percent": 8.84
+        },
+        {
+          "id": "members",
+          "count": 18,
+          "percent": 4.97
+        },
+        {
+          "id": "unknown",
+          "count": 20,
+          "percent": 5.52
+        },
+        {
+          "id": "hobbies",
+          "count": 19,
+          "percent": 5.25
+        },
+        {
+          "id": "goals",
+          "count": 5,
+          "percent": 1.38
+        }
+      ]
+    },
+    {
+      "month": "2026-07",
+      "status": "observed",
+      "denominator": 335,
+      "counts": [
+        {
+          "id": "greetings",
+          "count": 84,
+          "percent": 25.07
+        },
+        {
+          "id": "fan",
+          "count": 65,
+          "percent": 19.4
+        },
+        {
+          "id": "daily",
+          "count": 48,
+          "percent": 14.33
+        },
+        {
+          "id": "activity",
+          "count": 60,
+          "percent": 17.91
+        },
+        {
+          "id": "appearance",
+          "count": 27,
+          "percent": 8.06
+        },
+        {
+          "id": "members",
+          "count": 14,
+          "percent": 4.18
+        },
+        {
+          "id": "unknown",
+          "count": 17,
+          "percent": 5.07
+        },
+        {
+          "id": "hobbies",
+          "count": 12,
+          "percent": 3.58
+        },
+        {
+          "id": "goals",
+          "count": 8,
+          "percent": 2.39
+        }
+      ]
+    },
+    {
+      "month": "2026-08",
+      "status": "observed",
+      "denominator": 326,
+      "counts": [
+        {
+          "id": "greetings",
+          "count": 84,
+          "percent": 25.77
+        },
+        {
+          "id": "fan",
+          "count": 56,
+          "percent": 17.18
+        },
+        {
+          "id": "daily",
+          "count": 49,
+          "percent": 15.03
+        },
+        {
+          "id": "activity",
+          "count": 57,
+          "percent": 17.48
+        },
+        {
+          "id": "appearance",
+          "count": 19,
+          "percent": 5.83
+        },
+        {
+          "id": "members",
+          "count": 21,
+          "percent": 6.44
+        },
+        {
+          "id": "unknown",
+          "count": 8,
+          "percent": 2.45
+        },
+        {
+          "id": "hobbies",
+          "count": 23,
+          "percent": 7.06
+        },
+        {
+          "id": "goals",
+          "count": 9,
+          "percent": 2.76
+        }
+      ]
+    },
+    {
+      "month": "2026-09",
+      "status": "observed",
+      "denominator": 335,
+      "counts": [
+        {
+          "id": "greetings",
+          "count": 87,
+          "percent": 25.97
+        },
+        {
+          "id": "fan",
+          "count": 47,
+          "percent": 14.03
+        },
+        {
+          "id": "daily",
+          "count": 60,
+          "percent": 17.91
+        },
+        {
+          "id": "activity",
+          "count": 54,
+          "percent": 16.12
+        },
+        {
+          "id": "appearance",
+          "count": 30,
+          "percent": 8.96
+        },
+        {
+          "id": "members",
+          "count": 17,
+          "percent": 5.07
+        },
+        {
+          "id": "unknown",
+          "count": 12,
+          "percent": 3.58
+        },
+        {
+          "id": "hobbies",
+          "count": 22,
+          "percent": 6.57
+        },
+        {
+          "id": "goals",
+          "count": 6,
+          "percent": 1.79
+        }
+      ]
+    },
+    {
+      "month": "2026-10",
+      "status": "partial",
+      "denominator": 194,
+      "counts": [
+        {
+          "id": "greetings",
+          "count": 52,
+          "percent": 26.8
+        },
+        {
+          "id": "fan",
+          "count": 31,
+          "percent": 15.98
+        },
+        {
+          "id": "daily",
+          "count": 36,
+          "percent": 18.56
+        },
+        {
+          "id": "activity",
+          "count": 37,
+          "percent": 19.07
+        },
+        {
+          "id": "appearance",
+          "count": 15,
+          "percent": 7.73
+        },
+        {
+          "id": "members",
+          "count": 6,
+          "percent": 3.09
+        },
+        {
+          "id": "unknown",
+          "count": 1,
+          "percent": 0.52
+        },
+        {
+          "id": "hobbies",
+          "count": 11,
+          "percent": 5.67
+        },
+        {
+          "id": "goals",
+          "count": 5,
+          "percent": 2.58
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "各本文の意味・前後文脈から主題を1つ分類。単語出現数ではない。",
+    "月ごとの母数が異なる。2026年1月欠測、10月途中月。保存の空白日があり配信全体の網羅は不明。",
+    "前年同月資料がなく前年比は計算しない。",
+    "原文・個別エピソード・個別メッセージIDを提供しない。",
+    "分類には解釈が含まれ、訂正される場合があります。"
+  ],
+  "totals": [
+    {
+      "id": "greetings",
+      "label": "挨拶・応援",
+      "count": 893,
+      "denominator": 3687,
+      "percent": 24.22
+    },
+    {
+      "id": "fan",
+      "label": "ファンとの会話",
+      "count": 713,
+      "denominator": 3687,
+      "percent": 19.34
+    },
+    {
+      "id": "daily",
+      "label": "食事・日常",
+      "count": 675,
+      "denominator": 3687,
+      "percent": 18.31
+    },
+    {
+      "id": "activity",
+      "label": "活動・告知",
+      "count": 519,
+      "denominator": 3687,
+      "percent": 14.08
+    },
+    {
+      "id": "appearance",
+      "label": "服・髪・美容",
+      "count": 250,
+      "denominator": 3687,
+      "percent": 6.78
+    },
+    {
+      "id": "members",
+      "label": "メンバーの話",
+      "count": 200,
+      "denominator": 3687,
+      "percent": 5.42
+    },
+    {
+      "id": "unknown",
+      "label": "その他・話題不明",
+      "count": 188,
+      "denominator": 3687,
+      "percent": 5.1
+    },
+    {
+      "id": "hobbies",
+      "label": "趣味・好きなもの",
+      "count": 174,
+      "denominator": 3687,
+      "percent": 4.72
+    },
+    {
+      "id": "goals",
+      "label": "目標・振り返り",
+      "count": 75,
+      "denominator": 3687,
+      "percent": 2.03
+    }
+  ]
+}

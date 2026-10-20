@@ -1,0 +1,1151 @@
+{
+  "schema_version": "1.0",
+  "verified_at": "2026-10-19T19:29:00+09:00",
+  "publisher_note": "サイト運営者による非公式の独自分析。公式公認ではありません。",
+  "source_snapshot_revision": 368,
+  "analysis_updated_at": "2026-10-19T10:15:18.346354+09:00",
+  "photo_categories": [
+    {
+      "id": "single",
+      "label": "単独人物",
+      "count": 942
+    },
+    {
+      "id": "multiple",
+      "label": "複数人物",
+      "count": 53
+    },
+    {
+      "id": "food",
+      "label": "食物・飲料",
+      "count": 192
+    },
+    {
+      "id": "objects",
+      "label": "物品・衣服／髪形詳細",
+      "count": 158
+    },
+    {
+      "id": "scenery",
+      "label": "風景・植物・空",
+      "count": 27
+    },
+    {
+      "id": "information",
+      "label": "告知・画面・情報図版",
+      "count": 64
+    },
+    {
+      "id": "unknown",
+      "label": "不明",
+      "count": 2
+    }
+  ],
+  "photo_denominator": 1438,
+  "photo_method": "主な被写体を単一分類。顔による本人同定は行わない。",
+  "months": [
+    {
+      "month": "2025-11",
+      "status": "collected",
+      "photo_denominator": 58,
+      "photo_categories": [
+        {
+          "id": "photo-single",
+          "label": "単独人物",
+          "count": 32
+        },
+        {
+          "id": "photo-multiple",
+          "label": "複数人物",
+          "count": 2
+        },
+        {
+          "id": "photo-food",
+          "label": "食物・飲料",
+          "count": 8
+        },
+        {
+          "id": "photo-objects",
+          "label": "物品・衣服／髪形詳細",
+          "count": 13
+        },
+        {
+          "id": "photo-scenery",
+          "label": "風景・植物・空",
+          "count": 2
+        },
+        {
+          "id": "photo-information",
+          "label": "告知・画面・情報図版",
+          "count": 1
+        },
+        {
+          "id": "photo-unknown",
+          "label": "不明",
+          "count": 0
+        }
+      ],
+      "video_denominator": 17,
+      "video_categories": [
+        {
+          "id": "video-theme-1",
+          "label": "動画：表情・ポーズ",
+          "count": 6,
+          "denominator": 17
+        },
+        {
+          "id": "video-theme-2",
+          "label": "動画：複数人",
+          "count": 3,
+          "denominator": 17
+        },
+        {
+          "id": "video-theme-6",
+          "label": "動画：屋外",
+          "count": 3,
+          "denominator": 17
+        },
+        {
+          "id": "video-theme-0",
+          "label": "動画：衣装",
+          "count": 2,
+          "denominator": 17
+        },
+        {
+          "id": "video-theme-3",
+          "label": "動画：小物",
+          "count": 2,
+          "denominator": 17
+        },
+        {
+          "id": "video-theme-5",
+          "label": "動画：飲食",
+          "count": 2,
+          "denominator": 17
+        },
+        {
+          "id": "video-theme-4",
+          "label": "動画：静止画に近い形式",
+          "count": 0,
+          "denominator": 17
+        },
+        {
+          "id": "video-theme-7",
+          "label": "動画：仕事場面らしい会場",
+          "count": 0,
+          "denominator": 17
+        },
+        {
+          "id": "video-theme-8",
+          "label": "動画：動作",
+          "count": 0,
+          "denominator": 17
+        }
+      ]
+    },
+    {
+      "month": "2025-12",
+      "status": "collected",
+      "photo_denominator": 115,
+      "photo_categories": [
+        {
+          "id": "photo-single",
+          "label": "単独人物",
+          "count": 87
+        },
+        {
+          "id": "photo-multiple",
+          "label": "複数人物",
+          "count": 0
+        },
+        {
+          "id": "photo-food",
+          "label": "食物・飲料",
+          "count": 13
+        },
+        {
+          "id": "photo-objects",
+          "label": "物品・衣服／髪形詳細",
+          "count": 8
+        },
+        {
+          "id": "photo-scenery",
+          "label": "風景・植物・空",
+          "count": 2
+        },
+        {
+          "id": "photo-information",
+          "label": "告知・画面・情報図版",
+          "count": 5
+        },
+        {
+          "id": "photo-unknown",
+          "label": "不明",
+          "count": 0
+        }
+      ],
+      "video_denominator": 36,
+      "video_categories": [
+        {
+          "id": "video-theme-1",
+          "label": "動画：表情・ポーズ",
+          "count": 11,
+          "denominator": 36
+        },
+        {
+          "id": "video-theme-0",
+          "label": "動画：衣装",
+          "count": 8,
+          "denominator": 36
+        },
+        {
+          "id": "video-theme-3",
+          "label": "動画：小物",
+          "count": 7,
+          "denominator": 36
+        },
+        {
+          "id": "video-theme-4",
+          "label": "動画：静止画に近い形式",
+          "count": 6,
+          "denominator": 36
+        },
+        {
+          "id": "video-theme-5",
+          "label": "動画：飲食",
+          "count": 4,
+          "denominator": 36
+        },
+        {
+          "id": "video-theme-6",
+          "label": "動画：屋外",
+          "count": 3,
+          "denominator": 36
+        },
+        {
+          "id": "video-theme-2",
+          "label": "動画：複数人",
+          "count": 0,
+          "denominator": 36
+        },
+        {
+          "id": "video-theme-7",
+          "label": "動画：仕事場面らしい会場",
+          "count": 0,
+          "denominator": 36
+        },
+        {
+          "id": "video-theme-8",
+          "label": "動画：動作",
+          "count": 0,
+          "denominator": 36
+        }
+      ]
+    },
+    {
+      "month": "2026-01",
+      "status": "missing",
+      "photo_denominator": null,
+      "photo_categories": null,
+      "video_denominator": null,
+      "video_categories": null
+    },
+    {
+      "month": "2026-02",
+      "status": "collected",
+      "photo_denominator": 126,
+      "photo_categories": [
+        {
+          "id": "photo-single",
+          "label": "単独人物",
+          "count": 65
+        },
+        {
+          "id": "photo-multiple",
+          "label": "複数人物",
+          "count": 8
+        },
+        {
+          "id": "photo-food",
+          "label": "食物・飲料",
+          "count": 32
+        },
+        {
+          "id": "photo-objects",
+          "label": "物品・衣服／髪形詳細",
+          "count": 10
+        },
+        {
+          "id": "photo-scenery",
+          "label": "風景・植物・空",
+          "count": 2
+        },
+        {
+          "id": "photo-information",
+          "label": "告知・画面・情報図版",
+          "count": 9
+        },
+        {
+          "id": "photo-unknown",
+          "label": "不明",
+          "count": 0
+        }
+      ],
+      "video_denominator": 66,
+      "video_categories": [
+        {
+          "id": "video-theme-1",
+          "label": "動画：表情・ポーズ",
+          "count": 25,
+          "denominator": 66
+        },
+        {
+          "id": "video-theme-0",
+          "label": "動画：衣装",
+          "count": 15,
+          "denominator": 66
+        },
+        {
+          "id": "video-theme-2",
+          "label": "動画：複数人",
+          "count": 14,
+          "denominator": 66
+        },
+        {
+          "id": "video-theme-4",
+          "label": "動画：静止画に近い形式",
+          "count": 9,
+          "denominator": 66
+        },
+        {
+          "id": "video-theme-3",
+          "label": "動画：小物",
+          "count": 5,
+          "denominator": 66
+        },
+        {
+          "id": "video-theme-7",
+          "label": "動画：仕事場面らしい会場",
+          "count": 2,
+          "denominator": 66
+        },
+        {
+          "id": "video-theme-5",
+          "label": "動画：飲食",
+          "count": 0,
+          "denominator": 66
+        },
+        {
+          "id": "video-theme-6",
+          "label": "動画：屋外",
+          "count": 0,
+          "denominator": 66
+        },
+        {
+          "id": "video-theme-8",
+          "label": "動画：動作",
+          "count": 0,
+          "denominator": 66
+        }
+      ]
+    },
+    {
+      "month": "2026-03",
+      "status": "collected",
+      "photo_denominator": 135,
+      "photo_categories": [
+        {
+          "id": "photo-single",
+          "label": "単独人物",
+          "count": 81
+        },
+        {
+          "id": "photo-multiple",
+          "label": "複数人物",
+          "count": 5
+        },
+        {
+          "id": "photo-food",
+          "label": "食物・飲料",
+          "count": 21
+        },
+        {
+          "id": "photo-objects",
+          "label": "物品・衣服／髪形詳細",
+          "count": 22
+        },
+        {
+          "id": "photo-scenery",
+          "label": "風景・植物・空",
+          "count": 0
+        },
+        {
+          "id": "photo-information",
+          "label": "告知・画面・情報図版",
+          "count": 6
+        },
+        {
+          "id": "photo-unknown",
+          "label": "不明",
+          "count": 0
+        }
+      ],
+      "video_denominator": 116,
+      "video_categories": [
+        {
+          "id": "video-theme-0",
+          "label": "動画：衣装",
+          "count": 50,
+          "denominator": 116
+        },
+        {
+          "id": "video-theme-1",
+          "label": "動画：表情・ポーズ",
+          "count": 47,
+          "denominator": 116
+        },
+        {
+          "id": "video-theme-2",
+          "label": "動画：複数人",
+          "count": 16,
+          "denominator": 116
+        },
+        {
+          "id": "video-theme-4",
+          "label": "動画：静止画に近い形式",
+          "count": 5,
+          "denominator": 116
+        },
+        {
+          "id": "video-theme-3",
+          "label": "動画：小物",
+          "count": 4,
+          "denominator": 116
+        },
+        {
+          "id": "video-theme-7",
+          "label": "動画：仕事場面らしい会場",
+          "count": 3,
+          "denominator": 116
+        },
+        {
+          "id": "video-theme-5",
+          "label": "動画：飲食",
+          "count": 1,
+          "denominator": 116
+        },
+        {
+          "id": "video-theme-6",
+          "label": "動画：屋外",
+          "count": 1,
+          "denominator": 116
+        },
+        {
+          "id": "video-theme-8",
+          "label": "動画：動作",
+          "count": 0,
+          "denominator": 116
+        }
+      ]
+    },
+    {
+      "month": "2026-04",
+      "status": "collected",
+      "photo_denominator": 153,
+      "photo_categories": [
+        {
+          "id": "photo-single",
+          "label": "単独人物",
+          "count": 97
+        },
+        {
+          "id": "photo-multiple",
+          "label": "複数人物",
+          "count": 4
+        },
+        {
+          "id": "photo-food",
+          "label": "食物・飲料",
+          "count": 27
+        },
+        {
+          "id": "photo-objects",
+          "label": "物品・衣服／髪形詳細",
+          "count": 13
+        },
+        {
+          "id": "photo-scenery",
+          "label": "風景・植物・空",
+          "count": 1
+        },
+        {
+          "id": "photo-information",
+          "label": "告知・画面・情報図版",
+          "count": 10
+        },
+        {
+          "id": "photo-unknown",
+          "label": "不明",
+          "count": 1
+        }
+      ],
+      "video_denominator": 83,
+      "video_categories": [
+        {
+          "id": "video-theme-1",
+          "label": "動画：表情・ポーズ",
+          "count": 33,
+          "denominator": 83
+        },
+        {
+          "id": "video-theme-0",
+          "label": "動画：衣装",
+          "count": 30,
+          "denominator": 83
+        },
+        {
+          "id": "video-theme-6",
+          "label": "動画：屋外",
+          "count": 8,
+          "denominator": 83
+        },
+        {
+          "id": "video-theme-2",
+          "label": "動画：複数人",
+          "count": 6,
+          "denominator": 83
+        },
+        {
+          "id": "video-theme-3",
+          "label": "動画：小物",
+          "count": 4,
+          "denominator": 83
+        },
+        {
+          "id": "video-theme-4",
+          "label": "動画：静止画に近い形式",
+          "count": 4,
+          "denominator": 83
+        },
+        {
+          "id": "video-theme-5",
+          "label": "動画：飲食",
+          "count": 1,
+          "denominator": 83
+        },
+        {
+          "id": "video-theme-7",
+          "label": "動画：仕事場面らしい会場",
+          "count": 0,
+          "denominator": 83
+        },
+        {
+          "id": "video-theme-8",
+          "label": "動画：動作",
+          "count": 0,
+          "denominator": 83
+        }
+      ]
+    },
+    {
+      "month": "2026-05",
+      "status": "collected",
+      "photo_denominator": 164,
+      "photo_categories": [
+        {
+          "id": "photo-single",
+          "label": "単独人物",
+          "count": 104
+        },
+        {
+          "id": "photo-multiple",
+          "label": "複数人物",
+          "count": 10
+        },
+        {
+          "id": "photo-food",
+          "label": "食物・飲料",
+          "count": 22
+        },
+        {
+          "id": "photo-objects",
+          "label": "物品・衣服／髪形詳細",
+          "count": 14
+        },
+        {
+          "id": "photo-scenery",
+          "label": "風景・植物・空",
+          "count": 6
+        },
+        {
+          "id": "photo-information",
+          "label": "告知・画面・情報図版",
+          "count": 8
+        },
+        {
+          "id": "photo-unknown",
+          "label": "不明",
+          "count": 0
+        }
+      ],
+      "video_denominator": 97,
+      "video_categories": [
+        {
+          "id": "video-theme-0",
+          "label": "動画：衣装",
+          "count": 47,
+          "denominator": 97
+        },
+        {
+          "id": "video-theme-1",
+          "label": "動画：表情・ポーズ",
+          "count": 35,
+          "denominator": 97
+        },
+        {
+          "id": "video-theme-2",
+          "label": "動画：複数人",
+          "count": 11,
+          "denominator": 97
+        },
+        {
+          "id": "video-theme-3",
+          "label": "動画：小物",
+          "count": 5,
+          "denominator": 97
+        },
+        {
+          "id": "video-theme-4",
+          "label": "動画：静止画に近い形式",
+          "count": 4,
+          "denominator": 97
+        },
+        {
+          "id": "video-theme-5",
+          "label": "動画：飲食",
+          "count": 3,
+          "denominator": 97
+        },
+        {
+          "id": "video-theme-6",
+          "label": "動画：屋外",
+          "count": 1,
+          "denominator": 97
+        },
+        {
+          "id": "video-theme-7",
+          "label": "動画：仕事場面らしい会場",
+          "count": 1,
+          "denominator": 97
+        },
+        {
+          "id": "video-theme-8",
+          "label": "動画：動作",
+          "count": 1,
+          "denominator": 97
+        }
+      ]
+    },
+    {
+      "month": "2026-06",
+      "status": "collected",
+      "photo_denominator": 157,
+      "photo_categories": [
+        {
+          "id": "photo-single",
+          "label": "単独人物",
+          "count": 111
+        },
+        {
+          "id": "photo-multiple",
+          "label": "複数人物",
+          "count": 4
+        },
+        {
+          "id": "photo-food",
+          "label": "食物・飲料",
+          "count": 20
+        },
+        {
+          "id": "photo-objects",
+          "label": "物品・衣服／髪形詳細",
+          "count": 18
+        },
+        {
+          "id": "photo-scenery",
+          "label": "風景・植物・空",
+          "count": 1
+        },
+        {
+          "id": "photo-information",
+          "label": "告知・画面・情報図版",
+          "count": 3
+        },
+        {
+          "id": "photo-unknown",
+          "label": "不明",
+          "count": 0
+        }
+      ],
+      "video_denominator": 85,
+      "video_categories": [
+        {
+          "id": "video-theme-0",
+          "label": "動画：衣装",
+          "count": 38,
+          "denominator": 85
+        },
+        {
+          "id": "video-theme-1",
+          "label": "動画：表情・ポーズ",
+          "count": 34,
+          "denominator": 85
+        },
+        {
+          "id": "video-theme-2",
+          "label": "動画：複数人",
+          "count": 11,
+          "denominator": 85
+        },
+        {
+          "id": "video-theme-4",
+          "label": "動画：静止画に近い形式",
+          "count": 4,
+          "denominator": 85
+        },
+        {
+          "id": "video-theme-5",
+          "label": "動画：飲食",
+          "count": 4,
+          "denominator": 85
+        },
+        {
+          "id": "video-theme-3",
+          "label": "動画：小物",
+          "count": 3,
+          "denominator": 85
+        },
+        {
+          "id": "video-theme-6",
+          "label": "動画：屋外",
+          "count": 2,
+          "denominator": 85
+        },
+        {
+          "id": "video-theme-7",
+          "label": "動画：仕事場面らしい会場",
+          "count": 0,
+          "denominator": 85
+        },
+        {
+          "id": "video-theme-8",
+          "label": "動画：動作",
+          "count": 0,
+          "denominator": 85
+        }
+      ]
+    },
+    {
+      "month": "2026-07",
+      "status": "collected",
+      "photo_denominator": 125,
+      "photo_categories": [
+        {
+          "id": "photo-single",
+          "label": "単独人物",
+          "count": 90
+        },
+        {
+          "id": "photo-multiple",
+          "label": "複数人物",
+          "count": 4
+        },
+        {
+          "id": "photo-food",
+          "label": "食物・飲料",
+          "count": 13
+        },
+        {
+          "id": "photo-objects",
+          "label": "物品・衣服／髪形詳細",
+          "count": 13
+        },
+        {
+          "id": "photo-scenery",
+          "label": "風景・植物・空",
+          "count": 2
+        },
+        {
+          "id": "photo-information",
+          "label": "告知・画面・情報図版",
+          "count": 3
+        },
+        {
+          "id": "photo-unknown",
+          "label": "不明",
+          "count": 0
+        }
+      ],
+      "video_denominator": 83,
+      "video_categories": [
+        {
+          "id": "video-theme-0",
+          "label": "動画：衣装",
+          "count": 33,
+          "denominator": 83
+        },
+        {
+          "id": "video-theme-1",
+          "label": "動画：表情・ポーズ",
+          "count": 33,
+          "denominator": 83
+        },
+        {
+          "id": "video-theme-3",
+          "label": "動画：小物",
+          "count": 8,
+          "denominator": 83
+        },
+        {
+          "id": "video-theme-2",
+          "label": "動画：複数人",
+          "count": 7,
+          "denominator": 83
+        },
+        {
+          "id": "video-theme-4",
+          "label": "動画：静止画に近い形式",
+          "count": 4,
+          "denominator": 83
+        },
+        {
+          "id": "video-theme-6",
+          "label": "動画：屋外",
+          "count": 1,
+          "denominator": 83
+        },
+        {
+          "id": "video-theme-8",
+          "label": "動画：動作",
+          "count": 1,
+          "denominator": 83
+        },
+        {
+          "id": "video-theme-5",
+          "label": "動画：飲食",
+          "count": 0,
+          "denominator": 83
+        },
+        {
+          "id": "video-theme-7",
+          "label": "動画：仕事場面らしい会場",
+          "count": 0,
+          "denominator": 83
+        }
+      ]
+    },
+    {
+      "month": "2026-08",
+      "status": "collected",
+      "photo_denominator": 150,
+      "photo_categories": [
+        {
+          "id": "photo-single",
+          "label": "単独人物",
+          "count": 99
+        },
+        {
+          "id": "photo-multiple",
+          "label": "複数人物",
+          "count": 8
+        },
+        {
+          "id": "photo-food",
+          "label": "食物・飲料",
+          "count": 12
+        },
+        {
+          "id": "photo-objects",
+          "label": "物品・衣服／髪形詳細",
+          "count": 20
+        },
+        {
+          "id": "photo-scenery",
+          "label": "風景・植物・空",
+          "count": 2
+        },
+        {
+          "id": "photo-information",
+          "label": "告知・画面・情報図版",
+          "count": 8
+        },
+        {
+          "id": "photo-unknown",
+          "label": "不明",
+          "count": 1
+        }
+      ],
+      "video_denominator": 68,
+      "video_categories": [
+        {
+          "id": "video-theme-0",
+          "label": "動画：衣装",
+          "count": 39,
+          "denominator": 68
+        },
+        {
+          "id": "video-theme-1",
+          "label": "動画：表情・ポーズ",
+          "count": 14,
+          "denominator": 68
+        },
+        {
+          "id": "video-theme-3",
+          "label": "動画：小物",
+          "count": 8,
+          "denominator": 68
+        },
+        {
+          "id": "video-theme-2",
+          "label": "動画：複数人",
+          "count": 7,
+          "denominator": 68
+        },
+        {
+          "id": "video-theme-5",
+          "label": "動画：飲食",
+          "count": 4,
+          "denominator": 68
+        },
+        {
+          "id": "video-theme-4",
+          "label": "動画：静止画に近い形式",
+          "count": 2,
+          "denominator": 68
+        },
+        {
+          "id": "video-theme-8",
+          "label": "動画：動作",
+          "count": 1,
+          "denominator": 68
+        },
+        {
+          "id": "video-theme-6",
+          "label": "動画：屋外",
+          "count": 0,
+          "denominator": 68
+        },
+        {
+          "id": "video-theme-7",
+          "label": "動画：仕事場面らしい会場",
+          "count": 0,
+          "denominator": 68
+        }
+      ]
+    },
+    {
+      "month": "2026-09",
+      "status": "collected",
+      "photo_denominator": 162,
+      "photo_categories": [
+        {
+          "id": "photo-single",
+          "label": "単独人物",
+          "count": 114
+        },
+        {
+          "id": "photo-multiple",
+          "label": "複数人物",
+          "count": 4
+        },
+        {
+          "id": "photo-food",
+          "label": "食物・飲料",
+          "count": 16
+        },
+        {
+          "id": "photo-objects",
+          "label": "物品・衣服／髪形詳細",
+          "count": 16
+        },
+        {
+          "id": "photo-scenery",
+          "label": "風景・植物・空",
+          "count": 5
+        },
+        {
+          "id": "photo-information",
+          "label": "告知・画面・情報図版",
+          "count": 7
+        },
+        {
+          "id": "photo-unknown",
+          "label": "不明",
+          "count": 0
+        }
+      ],
+      "video_denominator": 53,
+      "video_categories": [
+        {
+          "id": "video-theme-1",
+          "label": "動画：表情・ポーズ",
+          "count": 30,
+          "denominator": 53
+        },
+        {
+          "id": "video-theme-0",
+          "label": "動画：衣装",
+          "count": 14,
+          "denominator": 53
+        },
+        {
+          "id": "video-theme-2",
+          "label": "動画：複数人",
+          "count": 7,
+          "denominator": 53
+        },
+        {
+          "id": "video-theme-5",
+          "label": "動画：飲食",
+          "count": 5,
+          "denominator": 53
+        },
+        {
+          "id": "video-theme-3",
+          "label": "動画：小物",
+          "count": 2,
+          "denominator": 53
+        },
+        {
+          "id": "video-theme-6",
+          "label": "動画：屋外",
+          "count": 2,
+          "denominator": 53
+        },
+        {
+          "id": "video-theme-4",
+          "label": "動画：静止画に近い形式",
+          "count": 0,
+          "denominator": 53
+        },
+        {
+          "id": "video-theme-7",
+          "label": "動画：仕事場面らしい会場",
+          "count": 0,
+          "denominator": 53
+        },
+        {
+          "id": "video-theme-8",
+          "label": "動画：動作",
+          "count": 0,
+          "denominator": 53
+        }
+      ]
+    },
+    {
+      "month": "2026-10",
+      "status": "partial",
+      "photo_denominator": 93,
+      "photo_categories": [
+        {
+          "id": "photo-single",
+          "label": "単独人物",
+          "count": 62
+        },
+        {
+          "id": "photo-multiple",
+          "label": "複数人物",
+          "count": 4
+        },
+        {
+          "id": "photo-food",
+          "label": "食物・飲料",
+          "count": 8
+        },
+        {
+          "id": "photo-objects",
+          "label": "物品・衣服／髪形詳細",
+          "count": 11
+        },
+        {
+          "id": "photo-scenery",
+          "label": "風景・植物・空",
+          "count": 4
+        },
+        {
+          "id": "photo-information",
+          "label": "告知・画面・情報図版",
+          "count": 4
+        },
+        {
+          "id": "photo-unknown",
+          "label": "不明",
+          "count": 0
+        }
+      ],
+      "video_denominator": 45,
+      "video_categories": [
+        {
+          "id": "video-theme-0",
+          "label": "動画：衣装",
+          "count": 3,
+          "denominator": 8
+        },
+        {
+          "id": "video-theme-4",
+          "label": "動画：静止画に近い形式",
+          "count": 2,
+          "denominator": 8
+        },
+        {
+          "id": "video-theme-1",
+          "label": "動画：表情・ポーズ",
+          "count": 4,
+          "denominator": 8
+        },
+        {
+          "id": "video-theme-2",
+          "label": "動画：複数人",
+          "count": 0,
+          "denominator": 8
+        },
+        {
+          "id": "video-theme-3",
+          "label": "動画：小物",
+          "count": 0,
+          "denominator": 8
+        },
+        {
+          "id": "video-theme-5",
+          "label": "動画：飲食",
+          "count": 0,
+          "denominator": 8
+        },
+        {
+          "id": "video-theme-6",
+          "label": "動画：屋外",
+          "count": 0,
+          "denominator": 8
+        },
+        {
+          "id": "video-theme-7",
+          "label": "動画：仕事場面らしい会場",
+          "count": 0,
+          "denominator": 8
+        },
+        {
+          "id": "video-theme-8",
+          "label": "動画：動作",
+          "count": 0,
+          "denominator": 8
+        }
+      ]
+    }
+  ],
+  "video_method": "抽出フレームのAI視覚確認。全編視聴ではない。複数ラベルが重なり合計100%にならない。未検出は映像全編にないことを意味しない。",
+  "limitations": [
+    "日時raw基準、1月欠測、10月途中月。",
+    "限定媒体そのものや個別撮影場面は提供しない。",
+    "単独人物は人数区分であり自撮り・本人であることを証明しない。"
+  ]
+}

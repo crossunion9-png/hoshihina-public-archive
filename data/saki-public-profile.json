@@ -1,0 +1,1954 @@
+{
+  "schema_version": 1,
+  "title": "片山紗希：公開発信に基づく人物像・表現・ブログの読みどころ",
+  "source_snapshot_revision": 368,
+  "exported_at": "2026-10-19T19:32:00+09:00",
+  "analysis_type": "非公式・公開資料に基づく独自分析",
+  "summary": "応援への返礼、見つけてもらうための発信、課題を分けた練習、仲間と自分の両方を前に進めたい姿勢。この四つが公開発信の中で繰り返し結びついています。ただし、几帳面さにも場面差があり、声の大きさと会話への自信も同じではありません。以下では単純な人物像を一度仮説にし、合わない事例を加えて読み直します。",
+  "facts": [
+    {
+      "id": "name",
+      "label": "名前・呼び方",
+      "value": "片山 紗希（かたやま さき）。愛称・コール名は「さきてぃ」。",
+      "source_ids": [
+        "official-profile",
+        "blog-68373"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/artist/39",
+        "https://www.hinatazaka46.com/s/official/diary/detail/68373"
+      ],
+      "confidence": "公式確認／本人明言"
+    },
+    {
+      "id": "birthplace",
+      "label": "生年月日・出身",
+      "value": "2006年12月26日生まれ、埼玉県出身。2026年10月3日時点で19歳。",
+      "source_ids": [
+        "official-profile"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/artist/39"
+      ],
+      "confidence": "公式確認"
+    },
+    {
+      "id": "height",
+      "label": "身長・血液型",
+      "value": "159cm、A型。血液型から性格は判断しない。",
+      "source_ids": [
+        "official-profile"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/artist/39"
+      ],
+      "confidence": "公式確認"
+    },
+    {
+      "id": "generation",
+      "label": "所属・お披露目",
+      "value": "日向坂46 五期生。本人のお披露目は2025年3月16日。",
+      "source_ids": [
+        "blog-68373"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/68373"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "penlight",
+      "label": "応援カラー",
+      "value": "パステルブルー × パステルブルー。",
+      "source_ids": [
+        "blog-68373"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/68373"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "selfdescription",
+      "label": "本人の自己紹介",
+      "value": "長所は真面目。せっかちとも自己紹介する。初ブログでは明るさ・几帳面さも挙げている。",
+      "source_ids": [
+        "blog-59618",
+        "blog-68373"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/59618",
+        "https://www.hinatazaka46.com/s/official/diary/detail/68373"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "communication",
+      "label": "話すこと",
+      "value": "少人数で話すのが好きで、早口になりやすいと説明。大人数の場ではあまり発言しないとも初ブログで書いている。",
+      "source_ids": [
+        "blog-59618"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/59618"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "collecting",
+      "label": "集める楽しみ",
+      "value": "カプセルトイ、シルバニアファミリー、サンリオなど、可愛い小物やキャラクターを集めるのが好き。",
+      "source_ids": [
+        "blog-59618",
+        "blog-68485"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/59618",
+        "https://www.hinatazaka46.com/s/official/diary/detail/68485"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "plush",
+      "label": "ぬい活",
+      "value": "ぬいぐるみに名前をつけて大切にする。最近の公開インタビューでは、ふわりんましゅやしろたんと出かける楽しみを話している。",
+      "source_ids": [
+        "blog-61187",
+        "interview-shueisha-20261002"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/61187",
+        "https://shueisha.online/articles/-/258547"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "sewing",
+      "label": "裁縫",
+      "value": "子どもの頃、ぬいぐるみの服を手縫いし、その後ミシンでも作っていたと語る。",
+      "source_ids": [
+        "interview-shueisha-20261002"
+      ],
+      "source_urls": [
+        "https://shueisha.online/articles/-/258547"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "sanrio",
+      "label": "サンリオ",
+      "value": "ピューロランドは幼い頃から好きな場所。年間パスポートを持っていた時期もある。清水理央との訪問企画を喜んでいる。",
+      "source_ids": [
+        "blog-69800"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/69800"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "colors-fashion",
+      "label": "色・装い",
+      "value": "水色やピンク、淡い色が好き。チュールやふわふわした素材を、自分が思う可愛さとして挙げている。",
+      "source_ids": [
+        "blog-68246",
+        "blog-68373",
+        "blog-68933"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/68246",
+        "https://www.hinatazaka46.com/s/official/diary/detail/68373",
+        "https://www.hinatazaka46.com/s/official/diary/detail/68933"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "beauty",
+      "label": "メイク・美容",
+      "value": "ファッションとメイクが好き。2025年のブログではチークやまつ毛など、自分なりのメイクの工夫を紹介。",
+      "source_ids": [
+        "blog-59772",
+        "blog-60209"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/59772",
+        "https://www.hinatazaka46.com/s/official/diary/detail/60209"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "foods",
+      "label": "好きな食べ物",
+      "value": "小籠包、Pino、いちご、チョコレート、牛タンなど。2026年3月のプロフィール更新で本人が挙げたもの。",
+      "source_ids": [
+        "blog-68373"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/68373"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "pino",
+      "label": "Pino",
+      "value": "2026年3月には日常の楽しみとして食べ方やグッズへの愛着を詳しく紹介している。",
+      "source_ids": [
+        "blog-68398"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/68398"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "cooking",
+      "label": "料理",
+      "value": "料理が得意と自己紹介し、番組企画で作った弁当もブログで紹介。技能の客観評価ではなく本人の説明。",
+      "source_ids": [
+        "blog-65476",
+        "blog-69888"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/65476",
+        "https://www.hinatazaka46.com/s/official/diary/detail/69888"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "music",
+      "label": "音楽",
+      "value": "ピアノを習っていた経験があり、クラシックも聴く。My Hair is Bad、RADWIMPS、SEKAI NO OWARIをよく聴くと2025年に回答。",
+      "source_ids": [
+        "blog-59618",
+        "blog-60209"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/59618",
+        "https://www.hinatazaka46.com/s/official/diary/detail/60209"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "recent-music",
+      "label": "曲の好みの一例",
+      "value": "2026年4月にはシンガーズハイ、ハンブレッダーズ、坂口有望、クリープハイプの曲を挙げた。固定したランキングではなく、その時点のお気に入り。",
+      "source_ids": [
+        "blog-68933"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/68933"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "reading",
+      "label": "読書",
+      "value": "ミステリー小説が好きで、題名から選ぶことが多いと説明。凪良ゆう作品も好きで、『滅びの前のシャングリラ』を読んだと2025年9月に紹介。",
+      "source_ids": [
+        "blog-65793"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/65793"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "anime",
+      "label": "アニメ",
+      "value": "『ハイキュー!!』『ブルーロック』が好きと初期ブログで紹介。",
+      "source_ids": [
+        "blog-59772"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/59772"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "sports",
+      "label": "スポーツ",
+      "value": "中学ではテニス、高校ではチアリーディング。チームで喜びや悔しさを共有するスポーツが好きだと話す。",
+      "source_ids": [
+        "blog-69888",
+        "interview-shueisha-20261002"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/69888",
+        "https://shueisha.online/articles/-/258547"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "volleyball",
+      "label": "日向坂バレー部",
+      "value": "2026年6月公開企画から参加。入部当初の経験は学校の授業程度と説明し、自主練用にボールを買った。",
+      "source_ids": [
+        "blog-69888"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/69888"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "amusement",
+      "label": "遊園地",
+      "value": "遊園地、特にジェットコースターが好きとQ&Aで回答。",
+      "source_ids": [
+        "blog-60829"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/60829"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "quiet-scenery",
+      "label": "景色の楽しみ",
+      "value": "星や夜景、帰り道の車窓を眺めるのが好き。移動中の景色を文章の題材にもしている。",
+      "source_ids": [
+        "blog-59618",
+        "blog-68106",
+        "blog-70602"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/59618",
+        "https://www.hinatazaka46.com/s/official/diary/detail/68106",
+        "https://www.hinatazaka46.com/s/official/diary/detail/70602"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "travel",
+      "label": "行ってみたい場所",
+      "value": "世界の美しい場所を調べ、47都道府県を巡りたいと2026年6月に書いている。実現済みの旅歴ではない。",
+      "source_ids": [
+        "blog-69696"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/69696"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "center",
+      "label": "初センター",
+      "value": "五期生曲『好きになるクレッシェンド』で初センター。MVを振り返り、可愛さとフレッシュさを表したいと説明。",
+      "source_ids": [
+        "blog-67673",
+        "interview-bubka-20260429"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/67673",
+        "https://www.idol-culture.jp/geinou/216524/"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "blog-policy",
+      "label": "ブログの目標",
+      "value": "個人ブログ開始1周年には、少し時間ができた時にすぐ読める新しい記事がある状態と、出演・締切の案内を目標として説明。",
+      "source_ids": [
+        "blog-71207"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/71207"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "message-public-policy",
+      "label": "トークの公開説明",
+      "value": "本人は2026年10月1日の公開ブログで、トークに食べ物や自撮り、夕食当てなどの日常を載せていると説明。有料配信の実物を読んだ結果ではない。",
+      "source_ids": [
+        "blog-71207"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/71207"
+      ],
+      "confidence": "本人明言"
+    }
+  ],
+  "themes": [
+    {
+      "id": "fan-to-idol",
+      "title": "ファンとして嬉しかったことを、届ける側でも大切にする",
+      "summary": "日向坂46のファンだった経験を、現在の活動方針につなげている。客席での記憶、ブログが更新される嬉しさ、応援してくれる人への返し方が、異なる時期の発信で繰り返される。公開上のアイドル観を読む中心になる。",
+      "kind": "公開発信からの解釈",
+      "strength": "高",
+      "evidence": [
+        {
+          "source_id": "blog-59618",
+          "note": "客席から見たひな誕祭と、ステージに立つ夢を振り返る。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/59618"
+        },
+        {
+          "source_id": "interview-bubka-20260429",
+          "note": "ファン時代の経験を更新や目線の方針に結びつける。",
+          "source_url": "https://www.idol-culture.jp/geinou/216524/"
+        },
+        {
+          "source_id": "blog-68373",
+          "note": "お披露目1周年も、応援への感謝を活動の目標に置く。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/68373"
+        }
+      ],
+      "caveat": "ファンサービスの言葉から、個々のファンとの私的な親密さを推測しない。"
+    },
+    {
+      "id": "encouragement",
+      "title": "元気を渡すことが、活動の目的になっている",
+      "summary": "本人が語るチアの経験と、ライブで声を出して盛り上げたいという姿勢にはつながりがある。明るく見えるという外見的印象だけでなく、人の成功を願い、応援する側にもなることを本人が大事にしている。",
+      "kind": "本人の説明",
+      "strength": "高",
+      "evidence": [
+        {
+          "source_id": "interview-shueisha-20261002",
+          "note": "チアで経験した、人を応援し感情を共有する喜びを語る。",
+          "source_url": "https://shueisha.online/articles/-/258547"
+        },
+        {
+          "source_id": "blog-66886",
+          "note": "ライブの煽りで会場を盛り上げる意図を具体的に振り返る。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/66886"
+        },
+        {
+          "source_id": "interview-brody-20260822",
+          "note": "先輩も声やチームへの貢献について具体的に言及。",
+          "source_url": "https://www.idol-culture.jp/geinou/224162/"
+        }
+      ],
+      "caveat": "いつでも元気でいる、落ち込まない、という断定ではない。"
+    },
+    {
+      "id": "thoughtful-communication",
+      "title": "発信を、読み手の時間や話しやすさから考える",
+      "summary": "文章を親しみやすくする工夫、短く読める頻繁な更新、会話の話題の用意など、相手が参加しやすい形を考えている。発信量の多さだけでなく、相手がどう受け取るかを調整する姿勢に注目したい。",
+      "kind": "公開発信からの解釈",
+      "strength": "高",
+      "evidence": [
+        {
+          "source_id": "blog-59772",
+          "note": "会話に困る人向けに話題を挙げ、話すのが苦手でも大丈夫と案内。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/59772"
+        },
+        {
+          "source_id": "blog-65476",
+          "note": "親しみやすさを増すため、文章の敬語を調整すると説明。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/65476"
+        },
+        {
+          "source_id": "blog-71207",
+          "note": "短く読めるブログと情報案内という方針を明確にしている。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/71207"
+        }
+      ],
+      "caveat": "有料トークの実際の投稿頻度や返信内容を集計した分析ではない。"
+    },
+    {
+      "id": "cute-aesthetic",
+      "title": "「かわいい」が、服・色・小物・表現をつないでいる",
+      "summary": "ぬいぐるみやキャラクターの収集だけでなく、淡い色、柔らかい素材、ステージの見せ方にも本人の好みが表れる。単なる一語のキャラクター付けより、何を可愛いと感じるかを具体的な選択から読むと理解しやすい。",
+      "kind": "公開発信からの解釈",
+      "strength": "高",
+      "evidence": [
+        {
+          "source_id": "blog-68246",
+          "note": "チュール、ふわふわ、水色を自分の可愛さとして説明。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/68246"
+        },
+        {
+          "source_id": "blog-68933",
+          "note": "好きな色とキャラクターを自分で列挙。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/68933"
+        },
+        {
+          "source_id": "interview-shueisha-20261002",
+          "note": "ぬいぐるみの服作りや、現在のぬい活を紹介。",
+          "source_url": "https://shueisha.online/articles/-/258547"
+        }
+      ],
+      "caveat": "可愛い好みから、幼さや依存性などの心理特性は推測しない。"
+    },
+    {
+      "id": "deliberate-practice",
+      "title": "熱量を、観察・準備・自主練習に変えている",
+      "summary": "意気込みの表明に加えて、先輩の映像を見る、直接教わる、道具を買って練習する、話す相手の長所を事前にメモする、といった具体的な行動が複数確認できる。努力家という印象は、この行動単位を根拠に扱うのが妥当。",
+      "kind": "公開発信からの解釈",
+      "strength": "高",
+      "evidence": [
+        {
+          "source_id": "blog-66886",
+          "note": "金村美玖の映像や助言を生かした練習を記録。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/66886"
+        },
+        {
+          "source_id": "blog-69888",
+          "note": "入部後の自主練用にボールを購入。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/69888"
+        },
+        {
+          "source_id": "blog-71046",
+          "note": "番組収録前に相手グループの各メンバーの尊敬する点をメモ。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/71046"
+        }
+      ],
+      "caveat": "練習量や技術の優劣を、他のメンバーと比較評価するものではない。"
+    },
+    {
+      "id": "team-observer",
+      "title": "仲間の魅力を、細部まで見つけて言葉にする",
+      "summary": "同期の良さを大きな言葉でまとめるだけでなく、歌い方、ダンス、舞台での役割、普段の気遣いまで個別に書いている。チーム競技への好みとも合わせると、一緒に良くなることを喜ぶ姿勢が公開発信に表れている。",
+      "kind": "公開発信からの解釈",
+      "strength": "高",
+      "evidence": [
+        {
+          "source_id": "interview-ray-20250623",
+          "note": "同期ごとに違う励まし方を説明。",
+          "source_url": "https://ray-web.jp/517070"
+        },
+        {
+          "source_id": "blog-70241",
+          "note": "同期9人のステージや日常の魅力を一人ずつ具体化。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/70241"
+        },
+        {
+          "source_id": "blog-69888",
+          "note": "団体戦で仲間を感じ、喜怒哀楽を共有する楽しさを説明。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/69888"
+        }
+      ],
+      "caveat": "公開された関係性の話であり、私生活での序列・不仲・親密さを判定しない。"
+    },
+    {
+      "id": "public-self-has-nuance",
+      "title": "明るい自己表現と、振り返る言葉を両方読む",
+      "summary": "初ブログでは大人数だと話しにくいとも書き、初期のQ&Aでは自分を反省しがちと説明している。一方で後の文章には積極的な外出やハッピーでいたいという目標も出てくる。一つの場面だけで「常にポジティブ」「内向的」と固定するより、時期と場面の違いを残して読む。",
+      "kind": "公開発信からの解釈",
+      "strength": "中",
+      "evidence": [
+        {
+          "source_id": "blog-59618",
+          "note": "少人数と大人数での話し方の違いを自分で説明。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/59618"
+        },
+        {
+          "source_id": "blog-60209",
+          "note": "自分を振り返る言葉と、表現を改善する目標。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/60209"
+        },
+        {
+          "source_id": "blog-70602",
+          "note": "最近の外出や気分の持ち方についての、その時点の自己説明。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/70602"
+        }
+      ],
+      "caveat": "性格診断や心理状態の判定ではない。過去の自己評価を現在にも永久に当てはめない。"
+    },
+    {
+      "id": "curiosity-with-context",
+      "title": "好奇心は広いが、何にでも同じ勢いではない",
+      "summary": "収集、料理、読書、音楽、旅への関心を持ち、思い立ったら始めると自己紹介している。ただし自分で食べ物では定番を選ぶとも説明しており、好奇心旺盛という言葉にも領域差がある。新しい関心と定着した好みを分けて見ると人物像が立体的になる。",
+      "kind": "公開発信からの解釈",
+      "strength": "中",
+      "evidence": [
+        {
+          "source_id": "blog-68485",
+          "note": "始める速さと、食べ物はいつもの商品を選ぶ傾向の両方を説明。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/68485"
+        },
+        {
+          "source_id": "blog-69696",
+          "note": "世界の風景や47都道府県への関心を語る。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/69696"
+        },
+        {
+          "source_id": "blog-69907",
+          "note": "気になっていた新しい食べ物を試した体験もある。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/69907"
+        }
+      ],
+      "caveat": "一回のマイブームを、永続的な性格や現在の最優先事項と決めつけない。"
+    },
+    {
+      "id": "daily-writing",
+      "title": "日常の小さな景色を、読者に渡す文章にする",
+      "summary": "夜景の窓一つ一つの暮らし、魚の色、帰り道の夕陽など、身近な景色から連想を広げる文章も多い。賑やかな話し方やライブの印象に加え、考えを文章にして残したいという面を知る読みどころになる。",
+      "kind": "公開発信からの解釈",
+      "strength": "中",
+      "evidence": [
+        {
+          "source_id": "blog-68106",
+          "note": "夜景の灯りから、その中で生活する人を想像する。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/68106"
+        },
+        {
+          "source_id": "blog-70487",
+          "note": "水族館の色を見て個性について連想する。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/70487"
+        },
+        {
+          "source_id": "blog-70623",
+          "note": "ブログを、自分の記録を残す媒体として説明。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/70623"
+        }
+      ],
+      "caveat": "文学的な表現や歌詞を、実際の出来事や恒常的な感情と取り違えない。"
+    },
+    {
+      "id": "konoka-connection",
+      "title": "松田好花から受け取った言葉を、次の行動の基準にする",
+      "summary": "好花の卒業セレモニー後、チャンスに備えて磨き続けるという助言を、自分も機会を作りたいという目標に結びつけている。好花のガイドから読み始める人には、先輩の仕事観が後輩の言葉にどう残ったかを知れる接点。",
+      "kind": "本人の説明",
+      "strength": "高",
+      "evidence": [
+        {
+          "source_id": "blog-67920",
+          "note": "好花に選曲理由を聞き、その言葉を努力への姿勢として受け止めた。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/67920"
+        },
+        {
+          "source_id": "blog-68373",
+          "note": "翌月の1周年でも、自分からきっかけを作り、機会を逃さない目標を記す。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/68373"
+        }
+      ],
+      "caveat": "セレモニーの全文再録ではなく、片山本人の公開ブログに基づく要約。"
+    },
+    {
+      "id": "spoken-preparation",
+      "title": "配信の発言にも、相手が楽しめる準備が見える",
+      "summary": "確認方法：公開動画の自動字幕＋公開文からの解釈。\nリレー生配信では、聞き取りやすく話そうとする説明、コメントが届くまでの質問準備、視聴者も楽しめる題材選びを確認できる。文章で述べる「相手に届く形」への配慮とつながる。",
+      "kind": "公開発信からの解釈",
+      "strength": "中",
+      "evidence": [
+        {
+          "source_id": "video-relay-transcript",
+          "note": "00:18〜00:43／05:18〜05:36／19:16〜19:44。時刻は表示された自動字幕に基づく。",
+          "source_url": "https://www.youtube.com/watch?v=YZlwURgNNZY"
+        },
+        {
+          "source_id": "blog-71207",
+          "note": "後のブログでも、読み手の短い空き時間を意識した方針を説明。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/71207"
+        }
+      ],
+      "caveat": "自動字幕には固有名詞の誤認がある。声の高さ・間・話す速度そのものや、表情を実測・評価したものではない。"
+    },
+    {
+      "id": "photo-objects",
+      "title": "写真では「好きな物」と自分を同じ画面に置いている",
+      "summary": "確認方法：写真を直接確認した範囲での解釈。\n確認したPino・サンリオ・ふわりんましゅの記事では、物だけの紹介に加え、グッズを持つ・抱える写真が使われている。本文の好みを写真でも具体的に伝える編集上の傾向が、今回確認した写真には見える。",
+      "kind": "公開発信からの解釈",
+      "strength": "中",
+      "evidence": [
+        {
+          "source_id": "photo-68398",
+          "note": "グッズと人物の写真、商品を並べた物撮り。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/68398"
+        },
+        {
+          "source_id": "photo-69800",
+          "note": "キャラクター小物とカチューシャを使ったツーショット。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/69800"
+        },
+        {
+          "source_id": "photo-71220",
+          "note": "雑誌・ぬいぐるみを見せる写真。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/71220"
+        }
+      ],
+      "caveat": "関心に沿って選んだ6記事12画像の確認で、全投稿の割合ではない。表情から私的感情を断定しない。写真を誰が選んだかも不明。"
+    },
+    {
+      "id": "photo-outfits-context",
+      "title": "装いや仕事・外出の場を、写真の文脈として見せる",
+      "summary": "確認方法：写真を直接確認した範囲での解釈。\n服のディテールが分かる鏡写真、MV衣装と撮影場所、水槽を背景にした写真など、同じ近距離の写真でも場面に合わせて背景や小物が変わる。服・活動・訪問先が文章と組になっている点が読みどころ。",
+      "kind": "公開発信からの解釈",
+      "strength": "中",
+      "evidence": [
+        {
+          "source_id": "photo-68246",
+          "note": "服の飾りやリボン、鏡とカメラ。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/68246"
+        },
+        {
+          "source_id": "photo-67673",
+          "note": "ホッケー衣装とMV撮影の場。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/67673"
+        },
+        {
+          "source_id": "photo-70487",
+          "note": "水槽を背景にした外出の写真。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/70487"
+        }
+      ],
+      "caveat": "場所は本人が公開した記事の範囲のみ。背景から住所や非公開の行動場所を特定しない。写真の色や構図だけで性格を判定しない。"
+    },
+    {
+      "id": "posting-regularity",
+      "title": "頻繁に更新したい方針は、公開ブログの日付にも表れている",
+      "summary": "確認方法：公開日データの集計＋本人の説明。\n個人ブログの最初の1年（2025年10月1日〜2026年9月30日）は現行一覧で217記事・213掲載日。各月16〜21記事、掲載日の間隔の中央値は2日だった。短く頻繁に読める場にしたいという本人の説明を、公開の更新履歴が補強している。",
+      "kind": "公開発信からの解釈",
+      "strength": "高",
+      "evidence": [
+        {
+          "source_id": "blog-publication-count",
+          "note": "現行一覧全237件から対象1年を抽出。記事IDで重複除去。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/member/list?ct=39"
+        },
+        {
+          "source_id": "blog-71207",
+          "note": "個人ブログ開始1周年に更新方針を本人が説明。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/71207"
+        }
+      ],
+      "caveat": "リレーブログ時代は更新順の制約があるため単純比較しない。掲載日時は執筆時刻・送信時刻ではなく、有料トークの頻度や生活リズムも推測しない。"
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "reciprocity-and-agency",
+      "title": "応援を返したい。その往復が、挑戦する理由になっている",
+      "initial_claim": "元ファンだから、応援する人を喜ばせることだけが活動の動機なのだろうか。",
+      "observations": [
+        {
+          "source_id": "blog-60987",
+          "note": "2025-07-02：ミーグリで受け取った感謝に、その場で言い切れなかった分をブログで返す。次回更新までの日別メッセージも用意している。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/60987"
+        },
+        {
+          "source_id": "interview-bubka-20260429",
+          "note": "2026-04-29公開の取材：ファン時代の更新を待つ経験から、発信を増やす方針を説明。活動と応援への返礼を結びつけている。",
+          "source_url": "https://www.idol-culture.jp/geinou/216524/"
+        },
+        {
+          "source_id": "blog-68844",
+          "note": "2026-04-07：初選抜の喜びを応援への感謝と結びつけ、自分からグループを知る入口を作りたいと目標にする。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/68844"
+        },
+        {
+          "source_id": "blog-70543",
+          "note": "2026-08-10：期待や喜ぶ表情を、挑戦を続ける力として説明。前作で受けた助けを次は同期に返したいと書く。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/70543"
+        }
+      ],
+      "counterevidence": [
+        {
+          "source_id": "interview-ray-20250703",
+          "note": "2025-07-03：他者への返礼だけでなく、自分自身が誰かの理想になるという明確な達成目標も語る。",
+          "source_url": "https://ray-web.jp/517515"
+        },
+        {
+          "source_id": "blog-70634",
+          "note": "2026-08-19：応募時に自信があったわけではないが、自分の可能性を試したかったと回顧。自分の選択を肯定できる日々にしたいとも述べる。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/70634"
+        }
+      ],
+      "alternatives": [
+        "感謝や恩返しはアイドルの公開発信で使われやすい語り方で、繰り返しだけでは私的な動機の強さを測れない。",
+        "応援への返礼と、自分の表現・成長・認知を広げたい願いは両立する。どちらか一方に還元する必要はない。"
+      ],
+      "revised_claim": "公開上の仕事観としては、応援を受け取る→自分の課題に取り組む→成長や楽しい時間を返す、という往復が一貫している。「尽くす人」という一語より、受け取った反応を次の挑戦の理由にする人、と読む方が多くの記述を説明できる。自己実現の意欲もその中にある。",
+      "confidence": "中〜高（公開上の仕事観）",
+      "confidence_reason": "加入初期・初選抜・二作目選抜という別の局面で共通する説明がある。ただし主に本人の選んだ言葉であり、心の中の動機の順位までは確認できない。",
+      "unresolved": "応援、上達、評価、仕事上の責任のうち何が最優先なのかは決められない。ファンへの親しい呼びかけを、個々の読者との私的な親密さとは扱わない。",
+      "next_test": "今後の公開発信では、期待と自分のやりたいことが食い違った場面で、何を選びどう説明するかを見る。そのような事例がなければ「いつでも他人を優先する」とは広げない。"
+    },
+    {
+      "id": "learning-through-specific-feedback",
+      "title": "「真面目」を支えるのは、課題を細かく直すやり方",
+      "initial_claim": "真面目で努力家という自己紹介は、日常のどの領域でも同じように当てはまるのだろうか。",
+      "observations": [
+        {
+          "source_id": "blog-60526",
+          "note": "2025-06-12：初ライブを曲単位で振り返り、難しいステップ、表情、同期と合わせる部分など、練習の対象を具体化している。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/60526"
+        },
+        {
+          "source_id": "blog-61082",
+          "note": "2025-07-12：前回の執筆負担を受けて早めに少しずつ書く方針へ変更。髪型も道具を変えて成功した過程を紹介する。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/61082"
+        },
+        {
+          "source_id": "interview-nikkan-20260714",
+          "note": "2026-07-14：上手なメンバーと自分の動きの差を見つけ、参考にしながら自分の表現へ取り込む練習法を説明。",
+          "source_url": "https://www.nikkansports.com/entertainment/column/sakamichi/news/202607140000128.html"
+        },
+        {
+          "source_id": "blog-70230",
+          "note": "2026-07-18：低音の歌割りを繰り返し練習したこと、苦手な演出で同期に練習を頼んだことを、曲ごとに振り返る。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/70230"
+        }
+      ],
+      "counterevidence": [
+        {
+          "source_id": "blog-68485",
+          "note": "2026-03-23：同時に複数のことを始めてどれも終わらないことや、筋トレが続きにくいことも自己紹介している。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/68485"
+        },
+        {
+          "source_id": "blog-69743",
+          "note": "2026-06-11：料理への関心はあっても片づけは後回しにする、と日常の苦手を話す。仕事での丁寧さを生活全体へ一般化できない。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/69743"
+        },
+        {
+          "source_id": "blog-71097",
+          "note": "2026-09-22：練習した煽りが本番では予定通りに収まらず、やり直したいと振り返る。準備は成功の保証ではない。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/71097"
+        }
+      ],
+      "alternatives": [
+        "具体的な練習談は本人の努力を伝える広報としても機能する。実際の練習時間や成果を第三者が測定した資料ではない。",
+        "活動開始後の成長や指導環境でも説明できるため、生来の性格だとは決めない。"
+      ],
+      "revised_claim": "「何でもきちんとできる」より、届けたいものや人前で担う課題が明確なとき、手順を分け、他者の例を借り、振り返って修正する傾向が見える。準備が必要なことを苦手の告白と一緒に語るため、完成された優等生という像より、実践しながら作る人という像が合う。",
+      "confidence": "中〜高（特定の学習行動）",
+      "confidence_reason": "異なる時期のダンス、執筆、装いに具体的な修正例がある。一方、すべて本人の事後説明で、頻度や他者より努力する度合いは比較できない。",
+      "unresolved": "継続できる条件や負担の大きさ、スタッフ・仲間の寄与の比率は不明。「完璧主義」など心理的な類型は付けない。",
+      "next_test": "意欲の表明だけでなく、課題→方法変更→結果の三点が確認できる新しい事例を追加する。失敗した方法ややめた選択も同じ重さで残す。"
+    },
+    {
+      "id": "contextual-communication",
+      "title": "声の大きさと、会話への自信は同じものではない",
+      "initial_claim": "元気で声が大きいので、人数や状況に関係なく話すのが得意なのだろうか。",
+      "observations": [
+        {
+          "source_id": "blog-59618",
+          "note": "2025-04-13：少人数では話すのが好きだが、大人数ではあまり発言しない、と場面による違いを自分で説明する。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/59618"
+        },
+        {
+          "source_id": "video-relay-transcript",
+          "note": "2025-06-14の公式配信：00:18〜00:43で聞き取りやすさを意識する発言、05:18〜05:36で質問を用意した説明を自動字幕で確認。発言の準備は読み取れるが、実際の話速・音色は測っていない。",
+          "source_url": "https://www.youtube.com/watch?v=YZlwURgNNZY"
+        },
+        {
+          "source_id": "blog-66853",
+          "note": "2025-11-27：ツアーで煽りを担う中、自分の強みを大きな声として発見したと報告。決まった役割の中で表現を試している。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/66853"
+        },
+        {
+          "source_id": "blog-67081",
+          "note": "2025-12-09：その後もトークを得意とは表現せず、好花の言葉だけで場を楽しませる力に憧れ、練習したいと書く。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/67081"
+        }
+      ],
+      "counterevidence": [
+        {
+          "source_id": "blog-68844",
+          "note": "2026-04-07：長い曲前トークを不安に感じつつ、二日間で内容を変え、結果として楽しめたと振り返る。苦手の自己評価だけで能力を固定できない。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/68844"
+        },
+        {
+          "source_id": "blog-70355",
+          "note": "2026-07-27：公開された舞台裏映像を見て、自分の早口や声の高さに驚き、落ち着いた話し方を目標にする。本人の自己観察と実際の音声評価は区別する。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/70355"
+        },
+        {
+          "source_id": "blog-71097",
+          "note": "2026-09-22：得意とした煽りでも時間内に収まらなかった事例がある。声量があれば進行も安定する、とは言えない。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/71097"
+        }
+      ],
+      "alternatives": [
+        "初期の緊張、経験の差、役割の有無で説明できる。少人数が好きという一文だけで内向・外向を判定しない。",
+        "配信は一対多でも準備とコメントという手掛かりがある。自由な集団会話と同じ課題ではない。"
+      ],
+      "revised_claim": "少人数の親しいやり取り、準備した一人配信、声を届ける煽り、即興の集団トークを分けて見る必要がある。公開資料からは「話せる／話せない」の二択より、役割や準備がある場面で力を発揮しつつ、話し方を学び直している姿が浮かぶ。",
+      "confidence": "中（場面差の仮説）",
+      "confidence_reason": "時期をまたいだ自己説明の差が明確で、限定的な配信字幕でも準備行動が確認できる。ただし会話を同じ条件で比較した資料はない。",
+      "unresolved": "外向性、緊張しやすさの程度、私生活での会話の様子は判定しない。語尾・表情だけで本心を推測しない。",
+      "next_test": "将来は本人を同定できる公式映像で、進行役／参加者、少人数／大人数、台本あり／即興を分け、具体的なやり取りを時刻付きで比較する。"
+    },
+    {
+      "id": "publishing-as-relationship-and-discovery",
+      "title": "ブログは交流であり、新しく見つけてもらう仕事でもある",
+      "initial_claim": "更新が多いのは、ただおしゃべりや文章が好きだからなのだろうか。",
+      "observations": [
+        {
+          "source_id": "blog-60987",
+          "note": "2025-07-02：十日に一度のリレー更新でも、間の九日間に読む内容を一記事に用意。更新制度の中で読者との接点を増やす工夫がある。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/60987"
+        },
+        {
+          "source_id": "blog-69743",
+          "note": "2026-06-11：二日と三日の更新間隔を考え、短い記事の多さと読者の関心維持を自ら課題として挙げる。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/69743"
+        },
+        {
+          "source_id": "blog-71073",
+          "note": "2026-09-19：毎回のブログを新しく知ってもらうきっかけにしたいと明言。写真は普段こだわって選ぶと説明し、今回は気楽な写真・文章を試す。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/71073"
+        },
+        {
+          "source_id": "blog-71207",
+          "note": "2026-10-01：読者の短い空き時間を意識した長さ・頻度と、出演や締切の案内という実用上の役割を説明する。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/71207"
+        },
+        {
+          "source_id": "blog-71220",
+          "note": "2026-10-02：好きなキャラクターについて書いた発信が、関連する仕事へつながったと報告。発信から仕事への具体的な循環が見える。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/71220"
+        }
+      ],
+      "counterevidence": [
+        {
+          "source_id": "blog-66986",
+          "note": "2025-12-04：更新予定がなくても書きたくなって投稿した、と説明。発信のすべてを計画的な集客に還元するのも不十分。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/66986"
+        },
+        {
+          "source_id": "blog-70623",
+          "note": "2026-08-18：ブログを自分の記録として捉える言葉もある。読者への効果と、自分に残す楽しみが重なる。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/70623"
+        },
+        {
+          "source_id": "blog-71073",
+          "note": "2026-09-19：世間の関心と自分の関心が一致していない感覚も話す。成功する話題を常に計算できているという像には反する。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/71073"
+        }
+      ],
+      "alternatives": [
+        "ブログは職業上の発信で、告知・販売促進の制約や編集方針もあり得る。本人だけがすべてを決めているかは不明。",
+        "公開日は執筆日ではなく、投稿数は心の親密さや生活の余裕を示さない。"
+      ],
+      "revised_claim": "発信には少なくとも、既存の応援への返礼、新しい人に見つけてもらう入口、自分の記録という三つの働きがある。更新間隔や写真、読む時間まで考えている点から、親しみやすさを意識して作る編集者的な面が見える。職業的な設計があることと、本人が楽しんでいることは矛盾しない。",
+      "confidence": "高（本人が説明する発信方針）",
+      "confidence_reason": "新たに読んだ6月・9月の記事には目的の明言があり、初期の九日分企画という具体的な行動とも整合する。成果や内面の純粋さについての確信度ではない。",
+      "unresolved": "実際の新規獲得数、編集への周囲の関与、各目的の比重は不明。",
+      "next_test": "新しい企画の目的を本人が述べたとき、後の修正・読者の反応への応答まで追う。投稿の多さ自体をさらに褒めるより、内容や方法がどう変わったかで検証する。"
+    },
+    {
+      "id": "team-and-personal-ambition",
+      "title": "仲間へのまなざしと、自分が前に進みたい気持ちは共存する",
+      "initial_claim": "仲間をよく褒めるので、本人は競争や目立つことには関心が薄いのだろうか。",
+      "observations": [
+        {
+          "source_id": "blog-67081",
+          "note": "2025-12-09：自分がひなた坂46で活動する報告の中で、同期の選抜・センターを祝い、同時に自分も期待に応えたいと強く書く。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/67081"
+        },
+        {
+          "source_id": "blog-68278",
+          "note": "2026-03-10：仲間の長所を才能だけで片づけず、具体的な練習方法や準備の丁寧さに注目。自分にはない行動も挙げている。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/68278"
+        },
+        {
+          "source_id": "interview-nikkan-20260714",
+          "note": "2026-07-14：選ばれた喜びと、同じ舞台に立たないメンバーを意識した責任の両方を語る。",
+          "source_url": "https://www.nikkansports.com/entertainment/column/sakamichi/news/202607140000128.html"
+        },
+        {
+          "source_id": "interview-brody-20260822",
+          "note": "2026-08-22公開の座談会：森本は片山にプレーを支えられた具体例、高橋は初参加でのなじみやすさを話す。他者の説明もあるが、同じ公式企画内の証言である。",
+          "source_url": "https://www.idol-culture.jp/geinou/224162/"
+        }
+      ],
+      "counterevidence": [
+        {
+          "source_id": "blog-70230",
+          "note": "2026-07-18：同期全体の成功を喜ぶ一方、自分のセンター曲、歌割り、初披露できた曲や自分へのコールの意味を詳しく記す。個人として認められる喜びも明確。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/70230"
+        },
+        {
+          "source_id": "blog-70543",
+          "note": "2026-08-10：ポジションに関係なく役割を担うと説明するが、前に進むことを諦めないとも述べる。「満足して現状維持」とは読めない。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/70543"
+        }
+      ],
+      "alternatives": [
+        "同期を紹介する周年記事や公演取材は、互いを肯定する場でもある。私的な関係性の全体像や序列は分からない。",
+        "他者を褒めることは、自分が目指す基準を言語化して学ぶ行為でもあり得る。利他性だけで説明しない。"
+      ],
+      "revised_claim": "公開上は、仲間の成果を自分の学習材料にし、受けた助けを次の相手へ返しながら、自分の役割も広げようとしている。チームへの所属と個人の向上心を対立させるより、「自分が成長してグループへ返す」という仕事観として読む方が整合する。",
+      "confidence": "中（関係の扱い方）",
+      "confidence_reason": "異なる立場にいた時期の記述があり、一部は他メンバーの具体例で補える。ただし仲間内の公開証言も取材・広報の文脈から独立してはいない。",
+      "unresolved": "本音の競争心、嫉妬の有無、実際の不仲・親密さは判断しない。選抜に対する感情を他人の分まで代弁しない。",
+      "next_test": "立場が変わった時期にも、他者をどう扱い、自分の目標をどう置くかを確認する。穏やかな時期だけでなく、意見の違いを本人たちが公開した事例があれば比較する。"
+    },
+    {
+      "id": "cute-anchor-not-cage",
+      "title": "「かわいい」は軸。それでも表現を一種類に閉じていない",
+      "initial_claim": "可愛い物・衣装が好きなのだから、見せたい自分も一貫して可愛らしさだけなのだろうか。",
+      "observations": [
+        {
+          "source_id": "interview-ray-20250703",
+          "note": "2025-07-03：自分の服の好みを紹介し、それも見てほしいと話す。パフォーマンス以外の装いも入口にしている。",
+          "source_url": "https://ray-web.jp/517515"
+        },
+        {
+          "source_id": "blog-68246",
+          "note": "2026-03-07：色だけでなく素材や立体感も含め、自分の思う可愛さを服で具体化する。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/68246"
+        },
+        {
+          "source_id": "interview-shueisha-20261002",
+          "note": "2026-10-02：幼い頃のぬいぐるみの服作りから現在の持ち歩き方まで、好きなものへの継続した関わりを語る。",
+          "source_url": "https://shueisha.online/articles/-/258547"
+        }
+      ],
+      "counterevidence": [
+        {
+          "source_id": "interview-nikkan-20260714",
+          "note": "2026-07-14：可愛いという既存のイメージに加え、かっこいい表現を見せたいと説明。人から見える像の幅を意識している。",
+          "source_url": "https://www.nikkansports.com/entertainment/column/sakamichi/news/202607140000128.html"
+        },
+        {
+          "source_id": "blog-70230",
+          "note": "2026-07-18：低音の歌割りを練習し、別の見せ方を探したライブを具体的に振り返る。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/70230"
+        },
+        {
+          "source_id": "blog-67391",
+          "note": "2025-12-31：好きな香りでも好みが変わり得ると説明。好きなものの一覧を永久の人物像として固定することにも慎重さが必要。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/67391"
+        }
+      ],
+      "alternatives": [
+        "衣装・撮影・楽曲には制作側の選択が含まれる。写真の色やスタイルだけで本人の性格を説明しない。",
+        "「かわいい」と「かっこいい」は本人と媒体が使う表現上の区分で、内面の二重性を意味しない。"
+      ],
+      "revised_claim": "好きな物や装いは本人を知る安定した入口になっている。一方、仕事ではその印象を自覚したうえで、声・歌い方・ダンスの別の面を増やそうとしている。変わらない好みと広がる技能を分けると、「可愛い人」で止まらない成長の方向が見える。",
+      "confidence": "中〜高（表現の目標）",
+      "confidence_reason": "取材で述べた目標と数日後の具体的な公演回顧を照合できる。ただし同一公演の事前・事後であり、二つの独立した成功実証とは数えない。",
+      "unresolved": "実際に表現がどの程度変わったかは、同条件の映像比較が必要。写真から感情・成熟度・本性を判定しない。",
+      "next_test": "後の公式映像で、本人が掲げた低音や動きの課題をどのように扱ったか確認する。好みが変わる発言も新しい事実として残し、旧プロフィールを絶対視しない。"
+    },
+    {
+      "id": "planning-with-domain-limits",
+      "title": "決断が速いことと、何でも続くことは別に扱う",
+      "initial_claim": "予定を立て、すぐ行動するという説明から、いつでも計画的で決断力のある性格と言えるだろうか。",
+      "observations": [
+        {
+          "source_id": "blog-68485",
+          "note": "2026-03-23：自分の食事は直感で選び、一日の予定を考えるのが好きと説明する。一方、誰かと一緒だと相手の希望を優先して決めにくいとも書く。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/68485"
+        },
+        {
+          "source_id": "blog-61082",
+          "note": "2025-07-12：文章をまとめて書く負担を経験し、少しずつ進める方法へ変えようとしている。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/61082"
+        },
+        {
+          "source_id": "blog-71073",
+          "note": "2026-09-19：夢を紙に残す一方、日記は毎日という義務ではなく書きたい日に書く方針に変える。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/71073"
+        }
+      ],
+      "counterevidence": [
+        {
+          "source_id": "blog-68485",
+          "note": "2026-03-23：始める勢いが強くても続かない運動、複数作業が終わらないこと、定番の食べ物を選ぶ傾向も同じ記事にある。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/68485"
+        },
+        {
+          "source_id": "blog-69743",
+          "note": "2026-06-11：関心のある料理と、気が進まない片づけで行動が違う。自分で認めた領域差を消さない。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/69743"
+        },
+        {
+          "source_id": "blog-70355",
+          "note": "2026-07-27：チケットの告知を当日に出し忘れたと書く。発信を大事にする方針にも例外がある。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/70355"
+        }
+      ],
+      "alternatives": [
+        "図鑑風の自己紹介や失敗談にはユーモアがある。すべてを日常の行動頻度として文字通りに数えない。",
+        "相手への配慮、好みの明確さ、活動の忙しさなど場面ごとの条件でも違いは生じる。"
+      ],
+      "revised_claim": "一つの性格ラベルより、「好きで目的が見えることは始めやすい」「自分だけの選択と対人の選択では振る舞いが違う」「続け方のルールは修正する」という条件付きの読みが適切。仕事での準備の細かさと日常の抜けを両方残すと、過度に整った人物像を避けられる。",
+      "confidence": "中（自己説明の範囲）",
+      "confidence_reason": "異なる記事でも領域差や方針変更が見つかる。ただし本人の選んだ成功談・失敗談で、行動の全数記録ではない。",
+      "unresolved": "実行力の順位、性格検査の得点、診断・注意機能などには結びつけない。失敗談を無能力の証拠としても扱わない。",
+      "next_test": "新しい挑戦は始めた報告だけでなく、続いた・変えた・やめたという後日の説明を確認する。更新がなければ中断とも継続とも決めない。"
+    }
+  ],
+  "reading_order": [
+    {
+      "id": "read-start",
+      "title": "最初に：自己紹介を2つ読む",
+      "reason": "2025年の初ブログと2026年の更新を並べると、変わらない好みと活動後の言葉の変化をつかめる。",
+      "source_ids": [
+        "blog-59618",
+        "blog-68373"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/59618",
+        "https://www.hinatazaka46.com/s/official/diary/detail/68373"
+      ]
+    },
+    {
+      "id": "read-character",
+      "title": "普段の好みと行動を知る",
+      "reason": "図鑑風の自己紹介は、好きなことだけでなく苦手や失敗も本人の言葉で読める。",
+      "source_ids": [
+        "blog-68485"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/68485"
+      ]
+    },
+    {
+      "id": "read-plush",
+      "title": "ぬい活と「かわいい」の具体像",
+      "reason": "昔の服作りから今のキャラクター愛まで、一つの趣味を深く知る。",
+      "source_ids": [
+        "interview-shueisha-20261002",
+        "blog-68246"
+      ],
+      "source_urls": [
+        "https://shueisha.online/articles/-/258547",
+        "https://www.hinatazaka46.com/s/official/diary/detail/68246"
+      ]
+    },
+    {
+      "id": "read-idol",
+      "title": "初センターとアイドル観",
+      "reason": "MVの話とインタビューを行き来すると、見せ方とファンへの思いがつながる。",
+      "source_ids": [
+        "blog-67673",
+        "interview-bubka-20260429"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/67673",
+        "https://www.idol-culture.jp/geinou/216524/"
+      ]
+    },
+    {
+      "id": "read-growth",
+      "title": "成長を、具体的な行動で読む",
+      "reason": "新参者の練習、バレーの自主練、収録準備という異なる場面を比較する。",
+      "source_ids": [
+        "blog-66886",
+        "blog-69888",
+        "blog-71046"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/66886",
+        "https://www.hinatazaka46.com/s/official/diary/detail/69888",
+        "https://www.hinatazaka46.com/s/official/diary/detail/71046"
+      ]
+    },
+    {
+      "id": "read-konoka",
+      "title": "好花から紗希へ、受け継いだ言葉",
+      "reason": "好花の卒業セレモニーを、片山の立場から振り返る。",
+      "source_ids": [
+        "blog-67920"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/67920"
+      ]
+    },
+    {
+      "id": "read-quiet",
+      "title": "静かな文章の面を知る",
+      "reason": "夜景についての文章と、ブログを続ける意味についての文章を読む。",
+      "source_ids": [
+        "blog-68106",
+        "blog-70623",
+        "blog-71207"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/68106",
+        "https://www.hinatazaka46.com/s/official/diary/detail/70623",
+        "https://www.hinatazaka46.com/s/official/diary/detail/71207"
+      ]
+    },
+    {
+      "id": "read-media-evidence",
+      "title": "発言・写真・更新の仕方も合わせて見る",
+      "reason": "公式配信の字幕で確認できる準備の話、グッズと一緒に写る写真、ブログの公開日を合わせて読む。声色・有料ボイスの分析とは区別。",
+      "source_ids": [
+        "video-relay-transcript",
+        "photo-68398",
+        "photo-71220",
+        "blog-publication-count"
+      ],
+      "source_urls": [
+        "https://www.youtube.com/watch?v=YZlwURgNNZY",
+        "https://www.hinatazaka46.com/s/official/diary/detail/68398",
+        "https://www.hinatazaka46.com/s/official/diary/detail/71220",
+        "https://www.hinatazaka46.com/s/official/diary/member/list?ct=39"
+      ]
+    }
+  ],
+  "limitations": [
+    "本人の公表した自己説明と分析者の解釈を区別する。私的な本心、臨床的特性、親密さや不仲の判定ではない。",
+    "各出典の公開日・確認日を保持。全ブログ本文の完全な精読、最新の全映像を視聴済みという意味ではない。",
+    "同じ公演の事前・事後記事、同じ取材の転載は独立した実証として重複計上しない。",
+    "公開写真は選定された6記事12画像の確認に限る。現在地や非公開施設の推定に用いない。",
+    "動画由来の分析は検証済み自動字幕の区間に限定し、誤認可能性を残す。",
+    "この公開文章版は公開一次資料で裏付け可能な記述を採用。限定配信のみの個別内容は含めない。"
+  ],
+  "sources": [
+    {
+      "id": "blog-59618",
+      "title": "君らしく僕らしく  片山紗希",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/59618",
+      "date": "2025-04-13",
+      "type": "公式ブログ",
+      "summary": "最初の自己紹介。趣味、得意・苦手の自己評価、好きな音楽、ファンから加入に至った思いを知る入口。",
+      "tags": [
+        "自己紹介",
+        "加入",
+        "音楽"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-59772",
+      "title": "うさき🐰 片山紗希",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/59772",
+      "date": "2025-04-23",
+      "type": "公式ブログ",
+      "summary": "うさぎの装い、チアと遠投の披露、食・アニメ・メイクの話題、オーディションの振り返り。",
+      "tags": [
+        "自己紹介",
+        "趣味",
+        "チア"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-60209",
+      "title": "意地でも未来を信じる 片山紗希",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/60209",
+      "date": "2025-05-23",
+      "type": "公式ブログ",
+      "summary": "表現の課題、自主練習、ひとり時間、好きなアーティスト、メイクのこだわりを語る。",
+      "tags": [
+        "成長",
+        "音楽",
+        "メイク"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-60526",
+      "title": "アイドルLv1 片山紗希",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/60526",
+      "date": "2025-06-12",
+      "type": "本人の公式ブログ",
+      "summary": "おもてなし会の各曲を具体的に回顧。振り・表情・同期との合わせ方を練習課題として整理。",
+      "tags": [
+        "追加精読",
+        "行動と自己説明"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-60829",
+      "title": "ということで夏！ 片山紗希",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/60829",
+      "date": "2025-06-22",
+      "type": "公式ブログ",
+      "summary": "遊園地やジェットコースター、食べ物、寝る前の習慣などを質問形式で紹介。",
+      "tags": [
+        "趣味",
+        "Q&A"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-60987",
+      "title": "ありがとう！片山紗希",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/60987",
+      "date": "2025-07-02",
+      "type": "本人の公式ブログ",
+      "summary": "リレーブログの更新を待つ九日間に向けた読者用メッセージを用意。ミーグリでの言葉を文章でも返す。",
+      "tags": [
+        "追加精読",
+        "行動と自己説明"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-61082",
+      "title": "君の隣で愛を精一杯に探したい 片山紗希",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/61082",
+      "date": "2025-07-12",
+      "type": "本人の公式ブログ",
+      "summary": "前回の読者企画の感想を求め、執筆の進め方を修正。髪型の試行錯誤と道具の変更も説明。",
+      "tags": [
+        "追加精読",
+        "行動と自己説明"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-61187",
+      "title": "目が合うね😉 片山紗希",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/61187",
+      "date": "2025-07-22",
+      "type": "公式ブログ",
+      "summary": "ぬいぐるみに名前をつける習慣やクマへの愛着、好きな野菜などを回答。",
+      "tags": [
+        "ぬい活",
+        "Q&A"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-65476",
+      "title": "ねえ行くよ！ついて来て！ 片山紗希",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/65476",
+      "date": "2025-08-21",
+      "type": "公式ブログ",
+      "summary": "親しみやすい文章への工夫と自己紹介。食べ物、たまごっち、行動の身軽さなどを紹介。",
+      "tags": [
+        "自己紹介",
+        "ブログ",
+        "趣味"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-65793",
+      "title": "永遠なんてない 片山紗希",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/65793",
+      "date": "2025-09-20",
+      "type": "公式ブログ",
+      "summary": "初ツアー前の案内と、読書・好きなキャラクターの話。ミステリー小説と凪良ゆう作品を挙げる。",
+      "tags": [
+        "読書",
+        "キャラクター"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-66853",
+      "title": "MONSTER GROOVE👾",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/66853",
+      "date": "2025-11-27",
+      "type": "本人の公式ブログ",
+      "summary": "初ツアーの総括。大きな声を強みとして見つけ、各公演で煽りを考えた過程を説明。",
+      "tags": [
+        "追加精読",
+        "行動と自己説明"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-66886",
+      "title": "妥協しない 後悔させない",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/66886",
+      "date": "2025-11-29",
+      "type": "公式ブログ",
+      "summary": "新参者10公演の総括。先輩の映像や助言から学んだ過程、声を生かした煽り、応援への感謝を語る。",
+      "tags": [
+        "成長",
+        "ライブ",
+        "アイドル観"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-66986",
+      "title": "毎日共に過ごさないかー！！？",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/66986",
+      "date": "2025-12-04",
+      "type": "本人の公式ブログ",
+      "summary": "予定外に書きたくなって更新した日。日常の言葉遊びと小さな発見を扱う。",
+      "tags": [
+        "追加精読",
+        "行動と自己説明"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-67081",
+      "title": "眩しくて",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/67081",
+      "date": "2025-12-09",
+      "type": "本人の公式ブログ",
+      "summary": "好花のトークへの憧れ、16thでの立場、同期への祝福と自分の課題・貢献意欲を同時に書く。",
+      "tags": [
+        "追加精読",
+        "行動と自己説明"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-67391",
+      "title": "2025ねん。またねっ",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/67391",
+      "date": "2025-12-31",
+      "type": "本人の公式ブログ",
+      "summary": "年末の活動総括と部屋づくり。香りは好みが明確でも変わること、条件に合う選択をした過程を説明。",
+      "tags": [
+        "追加精読",
+        "行動と自己説明"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-67673",
+      "title": "好きになるクレッシェンド",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/67673",
+      "date": "2026-01-26",
+      "type": "公式ブログ",
+      "summary": "初センター曲のMV制作を振り返り、アイスホッケー、可愛さ、笑顔、練習への思いを語る。",
+      "tags": [
+        "好きになるクレッシェンド",
+        "MV",
+        "成長"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-67920",
+      "title": "剣を研ぎ続ける",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/67920",
+      "date": "2026-02-12",
+      "type": "公式ブログ",
+      "summary": "松田好花の卒業セレモニーを振り返り、先輩の助言をどう努力や機会への姿勢に結びつけたかを記す。",
+      "tags": [
+        "松田好花",
+        "成長",
+        "先輩"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-68106",
+      "title": "光の数だけ生活がある",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/68106",
+      "date": "2026-02-28",
+      "type": "公式ブログ",
+      "summary": "車窓の夜景から、灯りの先で暮らす人々へと思いを巡らせる日常エッセイ。",
+      "tags": [
+        "夜景",
+        "文章"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-68246",
+      "title": "わたしのかわいい",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/68246",
+      "date": "2026-03-07",
+      "type": "公式ブログ",
+      "summary": "チュール、ふわふわした素材、水色を使い、自分が感じる可愛さを服で表した日。",
+      "tags": [
+        "服",
+        "かわいい"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-68278",
+      "title": "365日。1周年.*･ﾟ",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/68278",
+      "date": "2026-03-10",
+      "type": "本人の公式ブログ",
+      "summary": "五期生一周年に同期を個別紹介。表面上の長所だけでなく、歌の練習方法や丁寧な準備を言語化する。",
+      "tags": [
+        "追加精読",
+        "行動と自己説明"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-68373",
+      "title": "埼玉県出身 19歳 片山紗希です",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/68373",
+      "date": "2026-03-16",
+      "type": "公式ブログ",
+      "summary": "お披露目1周年のプロフィール更新。コール名、サイリウム色、好きな食べ物、活動の目標を本人が整理。",
+      "tags": [
+        "自己紹介",
+        "1周年"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-68398",
+      "title": "ひと粒のしあわせを噛み締めて！",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/68398",
+      "date": "2026-03-18",
+      "type": "公式ブログ",
+      "summary": "Pinoへの愛着と、グッズや食べ方を楽しむ日常を紹介。",
+      "tags": [
+        "食べ物",
+        "Pino"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-68485",
+      "title": "カタヤマサキ",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/68485",
+      "date": "2026-03-23",
+      "type": "公式ブログ",
+      "summary": "図鑑風の自己紹介。好奇心、計画好き、即決と相手への配慮、収集や料理など多くの好みを説明。",
+      "tags": [
+        "自己紹介",
+        "行動",
+        "趣味"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-68844",
+      "title": "ひな誕祭ありがとう！",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/68844",
+      "date": "2026-04-07",
+      "type": "本人の公式ブログ",
+      "summary": "大舞台での三つの難所、二日間で変えた曲前トーク、初選抜への感謝と返したい景色を記す。",
+      "tags": [
+        "追加精読",
+        "行動と自己説明"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-68933",
+      "title": "my favorite",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/68933",
+      "date": "2026-04-14",
+      "type": "公式ブログ",
+      "summary": "2026年4月時点の好きな曲、食べ物、飲み物、色、キャラクターを紹介。",
+      "tags": [
+        "音楽",
+        "食べ物",
+        "色"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-69696",
+      "title": "大きく見えた世界 小さくなった視界",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/69696",
+      "date": "2026-06-08",
+      "type": "公式ブログ",
+      "summary": "世界の美しい場所や国内各地への関心、動画を見る楽しみ、写真への工夫を語る。",
+      "tags": [
+        "旅",
+        "好奇心"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-69743",
+      "title": "お皿洗いはできないちゃんです❌",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/69743",
+      "date": "2026-06-11",
+      "type": "本人の公式ブログ",
+      "summary": "短いブログの更新間隔と関心維持を意識する一方、家事の苦手・先延ばしを率直に話す。",
+      "tags": [
+        "追加精読",
+        "行動と自己説明"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-69800",
+      "title": "だいすきがたくさん！",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/69800",
+      "date": "2026-06-16",
+      "type": "公式ブログ",
+      "summary": "清水理央とのサンリオピューロランド企画を振り返る。幼い頃から好きで年間パスを持った時期もあると説明。",
+      "tags": [
+        "サンリオ",
+        "清水理央"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-69888",
+      "title": "日向坂バレー部に入部したよ🏐",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/69888",
+      "date": "2026-06-23",
+      "type": "公式ブログ",
+      "summary": "日向坂バレー部への加入。チーム競技が好きな理由、自主練用のボール購入、手作り弁当の話。",
+      "tags": [
+        "スポーツ",
+        "チーム",
+        "料理"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-69907",
+      "title": "ドバイチョコトッピングでお願いします！",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/69907",
+      "date": "2026-06-25",
+      "type": "公式ブログ",
+      "summary": "気になっていたヨーグルトアイスの実食と、好きな中華料理の話。",
+      "tags": [
+        "食べ物",
+        "日常"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-70230",
+      "title": "1が10になり100になる",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/70230",
+      "date": "2026-07-18",
+      "type": "本人の公式ブログ",
+      "summary": "五期生LIVEの詳しい振り返り。低い歌声・かっこよさへの挑戦、反復練習、苦手な演出、客席の反応を記す。",
+      "tags": [
+        "追加精読",
+        "行動と自己説明"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-70241",
+      "title": "欠点が多くたってカバーし合える仲間たちへ",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/70241",
+      "date": "2026-07-19",
+      "type": "公式ブログ",
+      "summary": "同期9人それぞれの具体的な長所やステージでの魅力を、一人ずつ言葉にした記事。",
+      "tags": [
+        "五期生",
+        "仲間"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-70355",
+      "title": "サキイ像🗿",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/70355",
+      "date": "2026-07-27",
+      "type": "本人の公式ブログ",
+      "summary": "バラエティの反応と、公開された舞台裏動画の自分の早口・高い声を振り返り、落ち着いて話す意向を記す。",
+      "tags": [
+        "追加精読",
+        "行動と自己説明"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-70487",
+      "title": "水族館𓈒𓆉🫧‪*。",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/70487",
+      "date": "2026-08-07",
+      "type": "公式ブログ",
+      "summary": "鶴崎仁香と水族館へ。アザラシやクラゲ、魚の色から感じたことを綴る。",
+      "tags": [
+        "鶴崎仁香",
+        "水族館",
+        "文章"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-70543",
+      "title": "おきあがりこぼし 18",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/70543",
+      "date": "2026-08-10",
+      "type": "本人の公式ブログ",
+      "summary": "18th選抜の報告。役割への責任、前作で受けた支援を同期へ返す意向、応援を活動の力とする説明。",
+      "tags": [
+        "追加精読",
+        "行動と自己説明"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-70602",
+      "title": "ミステリアスにはなれない",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/70602",
+      "date": "2026-08-15",
+      "type": "公式ブログ",
+      "summary": "最近の外出、日常をつい話してしまう自己認識、帰り道や夕景の楽しみを語る。",
+      "tags": [
+        "自己紹介",
+        "日常"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-70623",
+      "title": "作品の題名などそう簡単に決められません！",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/70623",
+      "date": "2026-08-18",
+      "type": "公式ブログ",
+      "summary": "ブログを自分の記録として捉える文章。タイトルを考える時間や日常の失敗も話題にする。",
+      "tags": [
+        "ブログ",
+        "文章"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-70634",
+      "title": "好きってサイキョウだ。",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/70634",
+      "date": "2026-08-19",
+      "type": "本人の公式ブログ",
+      "summary": "応募時の迷いを振り返り、選択を行動で正解にしていきたいという姿勢を後輩候補・読者へ向ける。",
+      "tags": [
+        "追加精読",
+        "行動と自己説明"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-71046",
+      "title": "アイドルライフ！",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/71046",
+      "date": "2026-09-16",
+      "type": "公式ブログ",
+      "summary": "iLiFE!の魅力を話す番組に向け、メンバーごとの尊敬する点をメモして臨んだと説明。",
+      "tags": [
+        "アイドル",
+        "準備"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-71073",
+      "title": "とーってもラフな最近のお話🐙",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/71073",
+      "date": "2026-09-19",
+      "type": "本人の公式ブログ",
+      "summary": "ブログを知ってもらう入口と位置づけ、夢の記録、無理に毎日書かない日記、ランウェイ練習を説明。",
+      "tags": [
+        "追加精読",
+        "行動と自己説明"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-71097",
+      "title": "魔法が溶ける前に迎えに来てほしいな",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/71097",
+      "date": "2026-09-22",
+      "type": "公式ブログ",
+      "summary": "イベントでの煽りを振り返り、練習通りにできなかった悔しさと再挑戦への意欲を記す。",
+      "tags": [
+        "ライブ",
+        "成長"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-71207",
+      "title": "10月！個人ブログが始まってから1年らしい🎵",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/71207",
+      "date": "2026-10-01",
+      "type": "公式ブログ",
+      "summary": "個人ブログ開始から1年。短く頻繁に読める更新、出演・締切案内などの発信方針を説明。",
+      "tags": [
+        "ブログ",
+        "発信"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-71220",
+      "title": "りぼんさん11月号🎀 ふわりんましゅを語りましゅ！",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/71220",
+      "date": "2026-10-02",
+      "type": "公式ブログ",
+      "summary": "「りぼん」11月号への登場と、ふわりんましゅへの好きをブログに書いたことが仕事につながった喜びを語る。",
+      "tags": [
+        "ふわりんましゅ",
+        "仕事"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-publication-count",
+      "title": "公式ブログ掲載日を集計｜個人ブログ最初の1年",
+      "url": "https://www.hinatazaka46.com/s/official/diary/member/list?ct=39",
+      "date": "2026-10-03",
+      "type": "公式ブログ公開日の集計",
+      "summary": "現行一覧237件を記事IDで重複除去。2025-10-01〜2026-09-30は217記事・213掲載日。月別16〜21記事、掲載日の間隔の中央値は2日。削除済み記事は集計対象外。",
+      "tags": [
+        "更新頻度",
+        "集計"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "interview-brody-20260822",
+      "title": "BUBKA Web／BRODY｜日向坂バレー部 密着インタビュー",
+      "url": "https://www.idol-culture.jp/geinou/224162/",
+      "date": "2026-08-22",
+      "type": "公開インタビュー",
+      "summary": "新入部員としての参加を語る。先輩たちが強いサーブや声、サポートする姿を具体的に評している。",
+      "tags": [
+        "スポーツ",
+        "先輩"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "interview-bubka-20260429",
+      "title": "BUBKA｜好きクレ初センターとアイドルとしての意識",
+      "url": "https://www.idol-culture.jp/geinou/216524/",
+      "date": "2026-04-29",
+      "type": "公開インタビュー",
+      "summary": "初センターで意識した可愛さ、配信カメラと客席への目線、ブログ更新を大切にする理由を話す公開抜粋。",
+      "tags": [
+        "アイドル観",
+        "初センター"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "interview-nikkan-20260714",
+      "title": "日刊スポーツ｜かわいらしいイメージとかっこいいパフォーマンスのギャップ",
+      "url": "https://www.nikkansports.com/entertainment/column/sakamichi/news/202607140000128.html",
+      "date": "2026-07-14",
+      "type": "本人インタビュー",
+      "summary": "五期生LIVE前の取材。表現の幅、他メンバーを参照した練習、初選抜で感じた責任を説明する。",
+      "tags": [
+        "表現",
+        "練習",
+        "責任"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "interview-ray-20250623",
+      "title": "Ray｜五期生10人の魅力＆アイドル論",
+      "url": "https://ray-web.jp/517070",
+      "date": "2025-06-23",
+      "type": "公開インタビュー",
+      "summary": "加入初期の座談会。片山は、可愛く見えるパフォーマンスの細部と、同期それぞれの支え方を語る。",
+      "tags": [
+        "五期生",
+        "表現"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "interview-ray-20250703",
+      "title": "Ray｜大野愛実＆片山紗希のめざす姿",
+      "url": "https://ray-web.jp/517515",
+      "date": "2025-07-03",
+      "type": "本人インタビュー",
+      "summary": "片山は、先輩を理想に自分を磨いてきた経験と、今度は誰かの目標になりたい希望を語る。ファッションの好みも紹介。大野の発言と区別する。",
+      "tags": [
+        "アイドル観",
+        "服"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "interview-shueisha-20261002",
+      "title": "集英社オンライン｜ぬい活、手縫いの服作り、チア経験",
+      "url": "https://shueisha.online/articles/-/258547",
+      "date": "2026-10-02",
+      "type": "公開インタビュー",
+      "summary": "ぬいぐるみの服を縫っていた経験、ふわりんましゅやしろたんへの愛着を紹介。続く2ページでは高校のチアと、人を応援する喜びを語る。",
+      "tags": [
+        "ぬい活",
+        "チア",
+        "アイドル観"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "official-profile",
+      "title": "片山 紗希｜日向坂46公式プロフィール",
+      "url": "https://www.hinatazaka46.com/s/official/artist/39",
+      "date": null,
+      "type": "公式プロフィール",
+      "summary": "生年月日・出身地・身長・血液型を確認できる基本プロフィール。",
+      "tags": [
+        "基本情報"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "photo-67673",
+      "title": "掲載画像の確認｜好きになるクレッシェンド",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/67673",
+      "date": "2026-01-26",
+      "type": "公開写真の確認",
+      "summary": "本文の最初の2枚を直接確認。ホッケーの衣装とスティック、リンクや撮影背景を入れたMV関連の写真。 写真は転載せず元の記事へ案内。",
+      "tags": [
+        "写真",
+        "直接確認"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "photo-68246",
+      "title": "掲載画像の確認｜わたしのかわいい",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/68246",
+      "date": "2026-03-07",
+      "type": "公開写真の確認",
+      "summary": "本文の最初の2枚を直接確認。白い立体的な飾りのトップスと黒いリボン、鏡とカメラを使った装いの写真。 写真は転載せず元の記事へ案内。",
+      "tags": [
+        "写真",
+        "直接確認"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "photo-68398",
+      "title": "掲載画像の確認｜ひと粒のしあわせを噛み締めて！",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/68398",
+      "date": "2026-03-18",
+      "type": "公開写真の確認",
+      "summary": "本文の最初の2枚を直接確認。Pino型クッション等を抱えた写真と、ヘアクリップ・小物を並べた物撮り。 写真は転載せず元の記事へ案内。",
+      "tags": [
+        "写真",
+        "直接確認"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "photo-69800",
+      "title": "掲載画像の確認｜だいすきがたくさん！",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/69800",
+      "date": "2026-06-16",
+      "type": "公開写真の確認",
+      "summary": "本文の最初の2画像を直接確認。キャラクターのカチューシャと小物を持ったツーショット、公式動画のサムネイル。 写真は転載せず元の記事へ案内。",
+      "tags": [
+        "写真",
+        "直接確認"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "photo-70487",
+      "title": "掲載画像の確認｜水族館𓈒𓆉🫧‪*。",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/70487",
+      "date": "2026-08-07",
+      "type": "公開写真の確認",
+      "summary": "本文の最初の2枚を直接確認。水槽を背景にした近距離のポートレートで、服装と訪問先が一緒に写っている。 写真は転載せず元の記事へ案内。",
+      "tags": [
+        "写真",
+        "直接確認"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "photo-71220",
+      "title": "掲載画像の確認｜りぼんさん11月号🎀 ふわりんましゅを語りましゅ！",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/71220",
+      "date": "2026-10-02",
+      "type": "公開写真の確認",
+      "summary": "本文の2枚を直接確認。雑誌と小さなぬいぐるみを持った写真、複数のキャラクターのぬいぐるみを抱えた写真。 写真は転載せず元の記事へ案内。",
+      "tags": [
+        "写真",
+        "直接確認"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "video-relay-transcript",
+      "title": "公式リレー生配信｜画面内の文字起こしで発言を確認",
+      "url": "https://www.youtube.com/watch?v=YZlwURgNNZY",
+      "date": "2025-06-14",
+      "type": "公式動画の自動字幕",
+      "summary": "00:18〜00:43の話す速さへの配慮、05:18〜05:36の質問準備、19:16〜19:44の視聴者も楽しめるガチャ選びをYouTubeの自動文字起こしで確認。原音聴取・映像全編の視聴確認ではない。",
+      "tags": [
+        "配信",
+        "発言",
+        "自動字幕"
+      ],
+      "checked_at": "2026-10-03"
+    }
+  ]
+}

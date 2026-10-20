@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "title": "公開動画の検証済み発言区間",
+  "records": [
+    {
+      "id": "katayama-relay-20250614",
+      "title": "日向坂46五期生リレー生配信 片山紗希",
+      "published_date": "2025-06-14",
+      "url": "https://www.youtube.com/watch?v=YZlwURgNNZY",
+      "speaker": "片山紗希",
+      "verification_method": "YouTubeの自動字幕。機械字幕の誤認を含む可能性があります。",
+      "verification_date": "2026-10-03",
+      "timing_basis": "公開YouTube動画の先頭からの自動字幕時刻",
+      "scope": "下記区間のみ。原音聴取および映像全編の視聴確認ではない。",
+      "chapters": [
+        {
+          "start_seconds": 18,
+          "end_seconds": 43,
+          "topic": "聞き取りやすさを意識した話し方",
+          "summary": "話す速さ・聞き取りやすさへの配慮に触れる。"
+        },
+        {
+          "start_seconds": 318,
+          "end_seconds": 336,
+          "topic": "コメントを待つ間の質問準備",
+          "summary": "事前に質問を用意していたことを説明する。"
+        },
+        {
+          "start_seconds": 1156,
+          "end_seconds": 1184,
+          "topic": "視聴者と楽しめる題材",
+          "summary": "視聴者も楽しめるガチャの題材選びに触れる。"
+        }
+      ],
+      "uncertainty": "自動字幕は固有名詞などを誤認し得る。声質・話速・表情の実測評価ではない。"
+    }
+  ],
+  "note": "その他の動画メタデータを内容分析済みとは扱わない。番組ファイル・全文字幕は提供しない。"
+}

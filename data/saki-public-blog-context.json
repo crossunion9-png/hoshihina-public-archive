@@ -1,0 +1,562 @@
+{
+  "schema_version": 1,
+  "title": "片山紗希ブログ：人物・活動の具体例と交流の文脈",
+  "source_snapshot_revision": 368,
+  "blog_count": 247,
+  "period": {
+    "start": "2025-04-13",
+    "end": "2026-10-18"
+  },
+  "public_activity_tracks": [
+    {
+      "id": "expression-chronology",
+      "title": "好み・表現：新しさと継続の両方を見る",
+      "changes": [
+        {
+          "id": "lyrics-to-delivery-blog-71365",
+          "label": "歌詞への注目から、音楽を届けたいという意欲へ",
+          "kind": "self_statement",
+          "summary": "最近は歌詞に注目して聴き、その表現に関心を寄せながら、自分も日向坂46の音楽をより多くの人に届けたいと述べる。",
+          "caveat": "本人の鑑賞の着眼点と目標。作詞能力や歌唱力の評価ではない。",
+          "month": "2026-10",
+          "sources": [
+            {
+              "url": "https://www.hinatazaka46.com/s/official/diary/detail/71365",
+              "title": "スポーツの秋",
+              "publication_date": "2026-10-13 13:34"
+            }
+          ]
+        }
+      ],
+      "caveat": "公開資料で検証できた具体例。非公開配信だけの個別内容は掲載していない。"
+    },
+    {
+      "id": "sports-and-creative-expression",
+      "title": "運動の好みと、手描きキャラクターの発信",
+      "changes": [
+        {
+          "id": "sports-71348",
+          "label": "好きなスポーツと授業を説明",
+          "kind": "self_statement",
+          "summary": "テニスとバレーボールが好きで、水泳もでき、体育が一番好きな授業だったと本人ブログで説明。スポーツの日に合わせた服装の話から広がる自己紹介。",
+          "caveat": "本人による好み・経験の説明。運動能力の比較や在学校の特定ではない。",
+          "month": "2026-10",
+          "sources": [
+            {
+              "url": "https://www.hinatazaka46.com/s/official/diary/detail/71348",
+              "title": "今日も会いに来てくれてありがとう♡",
+              "publication_date": "2026-10-11 20:10"
+            }
+          ]
+        },
+        {
+          "id": "sports-evaluation-blog-71365",
+          "label": "走ることの好みと、評価への苦手意識を分ける",
+          "kind": "self_statement",
+          "summary": "運動や走ることは好きだとしたうえで、持久走や体力測定で評価されることは苦手だと説明する。",
+          "caveat": "運動の授業に関する本人の回想。仕事の競争や評価全般への態度を推定しない。",
+          "month": "2026-10",
+          "sources": [
+            {
+              "url": "https://www.hinatazaka46.com/s/official/diary/detail/71365",
+              "title": "スポーツの秋",
+              "publication_date": "2026-10-13 13:34"
+            }
+          ]
+        }
+      ],
+      "caveat": "公開資料で検証できた具体例。非公開配信だけの個別内容は掲載していない。"
+    }
+  ],
+  "public_member_examples": [
+    {
+      "member": "上村ひなの",
+      "generation": 3,
+      "id": "blog-example-blog-69670-1ce18ab5",
+      "date": "2026-06-06",
+      "month": "2026-06",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/69670",
+      "title": "うさぎちゃん૮( _   ̫  _ )ა",
+      "summary": "佐藤優羽と3人でラジオ収録の会話を楽しんだ。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "下田衣珠季",
+      "generation": 5,
+      "id": "blog-example-blog-71156-28be4854",
+      "date": "2026-09-28",
+      "month": "2026-09",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/71156",
+      "title": "さきと未来の指切りしよう？",
+      "summary": "衣珠季の写真を撮り、掲載確認への返事と一緒に自撮りも送ってもらった。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "佐々木久美",
+      "generation": 1,
+      "id": "blog-example-blog-59618-cdc77d1b",
+      "date": "2025-04-13",
+      "month": "2025-04",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/59618",
+      "title": "君らしく僕らしく  片山紗希",
+      "summary": "加入直後に優しく接してもらい、温かい言葉をもらったことを振り返る。",
+      "actual": true,
+      "retrospective": true
+    },
+    {
+      "member": "佐々木美玲",
+      "generation": 1,
+      "id": "blog-example-blog-59618-5557fd76",
+      "date": "2025-04-13",
+      "month": "2025-04",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/59618",
+      "title": "君らしく僕らしく  片山紗希",
+      "summary": "加入直後に優しく接してもらい、温かい言葉をもらったことを振り返る。",
+      "actual": true,
+      "retrospective": true
+    },
+    {
+      "member": "佐藤優羽",
+      "generation": 5,
+      "id": "blog-example-blog-69402-d5921a34",
+      "date": "2026-05-20",
+      "month": "2026-05",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/69402",
+      "title": "授業に集中できない分だけ",
+      "summary": "MV撮影で自転車に二人乗り。出発するたびに声をかけてくれた。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "坂井新奈",
+      "generation": 5,
+      "id": "blog-example-blog-67359-e8a837cc",
+      "date": "2025-12-30",
+      "month": "2025-12",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/67359",
+      "title": "紗希籠包のクリスマスふつかかん。",
+      "summary": "鶴崎仁香と3人でクリスマスイブに遊び、小籠包を食べた。",
+      "actual": true,
+      "retrospective": true
+    },
+    {
+      "member": "大田美月",
+      "generation": 5,
+      "id": "blog-example-blog-70767-92769368",
+      "date": "2026-08-28",
+      "month": "2026-08",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/70767",
+      "title": "夏はまだ終われないよ！",
+      "summary": "仕事終わりにディズニーへ。お揃いのワンピースで過ごした。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "大野愛実",
+      "generation": 5,
+      "id": "blog-example-blog-71018-082af108",
+      "date": "2026-09-14",
+      "month": "2026-09",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/71018",
+      "title": "ガラスのハート",
+      "summary": "松尾桜と3人で音楽について熱く話した。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "大野愛実",
+      "generation": 5,
+      "id": "blog-example-blog-71431-082af108",
+      "date": "2026-10-18",
+      "month": "2026-10",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/71431",
+      "title": "はなれたくない！",
+      "summary": "前日の空き時間に五期生4人で順位を当てるゲームを2時間以上楽しみ、片山の話に大野愛実が大笑いしたと報告。残り2名は本文未特定。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "宮地すみれ",
+      "generation": 4,
+      "id": "blog-example-blog-60316-186970a3",
+      "date": "2025-06-02",
+      "month": "2025-06",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/60316",
+      "title": "時間は有限 思いは無限  片山紗希",
+      "summary": "ライブのリハ期間に話せたことを喜んでいる。",
+      "actual": true,
+      "retrospective": true
+    },
+    {
+      "member": "富田鈴花",
+      "generation": 2,
+      "id": "blog-example-blog-60987-7902bd46",
+      "date": "2025-07-02",
+      "month": "2025-07",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/60987",
+      "title": "ありがとう！片山紗希",
+      "summary": "オーストラリア土産のコアラのキーホルダーをもらった。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "小坂菜緒",
+      "generation": 2,
+      "id": "blog-example-blog-69471-e36b4e0d",
+      "date": "2026-05-26",
+      "month": "2026-05",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/69471",
+      "title": "腹がっ減ってはフェスはできぬ🍚‼️",
+      "summary": "勇気を出して声をかけ、写真を撮ってもらった。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "小西夏菜実",
+      "generation": 4,
+      "id": "blog-example-blog-69471-85dc3b74",
+      "date": "2026-05-26",
+      "month": "2026-05",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/69471",
+      "title": "腹がっ減ってはフェスはできぬ🍚‼️",
+      "summary": "写真を撮ってもらう目標を実現できた。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "山下葉留花",
+      "generation": 4,
+      "id": "blog-example-blog-69541-250bde45",
+      "date": "2026-05-29",
+      "month": "2026-05",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/69541",
+      "title": "ぱしゃぱしゃ！📸",
+      "summary": "野球場の応援出演前に、大きな声を出そうと話した。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "山下葉留花",
+      "generation": 4,
+      "id": "blog-example-blog-71431-250bde45",
+      "date": "2026-10-18",
+      "month": "2026-10",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/71431",
+      "title": "はなれたくない！",
+      "summary": "自撮り中に山下葉留花が加わってくれたと報告し、ハーフツインを褒める。本文の「はるはるさん」は本人公式ブログ52273の呼称と照合。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "山口陽世",
+      "generation": 3,
+      "id": "blog-example-blog-68915-ee986c75",
+      "date": "2026-04-12",
+      "month": "2026-04",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/68915",
+      "title": "はるよさん愛してます！",
+      "summary": "家に招いてもらったり、一緒に食事へ行ったりした思い出。",
+      "actual": true,
+      "retrospective": true
+    },
+    {
+      "member": "平尾帆夏",
+      "generation": 4,
+      "id": "blog-example-blog-60526-49423cc7",
+      "date": "2025-06-12",
+      "month": "2025-06",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/60526",
+      "title": "アイドルLv1 片山紗希",
+      "summary": "差し入れのフルーツサンドと電球ソーダをいただいた。",
+      "actual": true,
+      "retrospective": true
+    },
+    {
+      "member": "平岡海月",
+      "generation": 4,
+      "id": "blog-example-blog-67739-3b68a233",
+      "date": "2026-01-29",
+      "month": "2026-01",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/67739",
+      "title": "おせんべい",
+      "summary": "振り付けの質問に応じ、先生にも確認してくれた。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "平岡海月",
+      "generation": 4,
+      "id": "blog-example-blog-71431-3b68a233",
+      "date": "2026-10-18",
+      "month": "2026-10",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/71431",
+      "title": "はなれたくない！",
+      "summary": "平岡海月の手作りクッキーを受け取り、美味しかったと感謝。本文の「みっちゃんさん」は平岡の公式自己紹介と片山の過去ブログの呼称で照合。共食・共同調理・受取日時は未確認。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "東村芽依",
+      "generation": 1,
+      "id": "blog-example-blog-60209-9d1d9333",
+      "date": "2025-05-23",
+      "month": "2025-05",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/60209",
+      "title": "意地でも未来を信じる 片山紗希",
+      "summary": "高本彩花とのユニットと楽曲への好きな気持ちを記す。",
+      "actual": false,
+      "retrospective": false
+    },
+    {
+      "member": "松尾桜",
+      "generation": 5,
+      "id": "blog-example-blog-68954-97904085",
+      "date": "2026-04-15",
+      "month": "2026-04",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/68954",
+      "title": "その胸の高鳴りよ",
+      "summary": "共通して好きなバンドの話で盛り上がった。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "松尾桜",
+      "generation": 5,
+      "id": "blog-example-blog-71421-matsuo-sakura",
+      "date": "2026-10-17",
+      "month": "2026-10",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/71421",
+      "title": "日向坂46の#しずおかごはんが食べたい！",
+      "summary": "松尾桜と沼津・三島の食ロケに参加。深海魚バーガーを味わい、ピザ作りに挑戦し、撮影後も店で食事をしたことを振り返る。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "松尾桜",
+      "generation": 5,
+      "id": "blog-example-blog-71431-97904085",
+      "date": "2026-10-18",
+      "month": "2026-10",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/71431",
+      "title": "はなれたくない！",
+      "summary": "松尾桜が写真をたくさん撮ってくれたと報告。本文の「さくちゃん」は同著者の71421と番組公式の同行・ピザ対決の記述で照合。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "松田好花",
+      "generation": 2,
+      "id": "blog-example-blog-67920-4719d47e",
+      "date": "2026-02-12",
+      "month": "2026-02",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/67920",
+      "title": "剣を研ぎ続ける",
+      "summary": "卒業公演のリハで選曲理由を聞き、努力を続ける励ましをもらった。",
+      "actual": true,
+      "retrospective": true
+    },
+    {
+      "member": "森本茉莉",
+      "generation": 3,
+      "id": "blog-example-blog-71184-981685ab",
+      "date": "2026-09-30",
+      "month": "2026-09",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/71184",
+      "title": "9月最後の日！「イチャイチャ虫」発売です🐝⭐️",
+      "summary": "前日に一緒に麻辣湯を食べた。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "正源司陽子",
+      "generation": 4,
+      "id": "blog-example-blog-60316-5a10b93e",
+      "date": "2025-06-02",
+      "month": "2025-06",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/60316",
+      "title": "時間は有限 思いは無限  片山紗希",
+      "summary": "曲の直前に手を握ってもらい、リハでも教わった。",
+      "actual": true,
+      "retrospective": true
+    },
+    {
+      "member": "河田陽菜",
+      "generation": 2,
+      "id": "blog-example-blog-66850-6b79c099",
+      "date": "2025-11-27",
+      "month": "2025-11",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/66850",
+      "title": "いつも可愛いで溢れている陽菜さん🐼🩷💛",
+      "summary": "ツアーの曲中に毎回ハイタッチをしてくれた思い出。",
+      "actual": true,
+      "retrospective": true
+    },
+    {
+      "member": "清水理央",
+      "generation": 4,
+      "id": "blog-example-blog-69800-c2c2bc6e",
+      "date": "2026-06-16",
+      "month": "2026-06",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/69800",
+      "title": "だいすきがたくさん！",
+      "summary": "一緒にサンリオピューロランドへ行き、動画を撮影した。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "渡辺莉奈",
+      "generation": 4,
+      "id": "blog-example-blog-60316-5f1f8ef2",
+      "date": "2025-06-02",
+      "month": "2025-06",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/60316",
+      "title": "時間は有限 思いは無限  片山紗希",
+      "summary": "リハで細かな振り付けや手の角度を教えてもらった。",
+      "actual": true,
+      "retrospective": true
+    },
+    {
+      "member": "潮紗理菜",
+      "generation": 1,
+      "id": "blog-example-blog-65476-b00f47b3",
+      "date": "2025-08-21",
+      "month": "2025-08",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/65476",
+      "title": "ねえ行くよ！ついて来て！ 片山紗希",
+      "summary": "自身と同じ12月26日生まれだと紹介している。",
+      "actual": false,
+      "retrospective": false
+    },
+    {
+      "member": "石塚瑶季",
+      "generation": 4,
+      "id": "blog-example-blog-65793-bfbf2690",
+      "date": "2025-09-20",
+      "month": "2025-09",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/65793",
+      "title": "永遠なんてない 片山紗希",
+      "summary": "レッスン終わりに洋服を譲ってもらった。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "竹内希来里",
+      "generation": 4,
+      "id": "blog-example-blog-60316-297c0c82",
+      "date": "2025-06-02",
+      "month": "2025-06",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/60316",
+      "title": "時間は有限 思いは無限  片山紗希",
+      "summary": "ぶつかりそうな場面で、気にしなくていいと声をかけてくれた。",
+      "actual": true,
+      "retrospective": true
+    },
+    {
+      "member": "蔵盛妃那乃",
+      "generation": 5,
+      "id": "blog-example-blog-60209-c22e1c05",
+      "date": "2025-05-23",
+      "month": "2025-05",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/60209",
+      "title": "意地でも未来を信じる 片山紗希",
+      "summary": "佐藤優羽と3人でMVの制服シーンを撮影した。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "藤嶌果歩",
+      "generation": 4,
+      "id": "blog-example-blog-70476-2683eaa0",
+      "date": "2026-08-06",
+      "month": "2026-08",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/70476",
+      "title": "無敵✧︎*。",
+      "summary": "携帯を忘れ、果歩と理央から借りて写真を撮った。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "金村美玖",
+      "generation": 2,
+      "id": "blog-example-blog-69294-8a45db67",
+      "date": "2026-05-12",
+      "month": "2026-05",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/69294",
+      "title": "ぽむぽむなきもち！",
+      "summary": "サンリオピューロランドへ一緒に出かけ、たくさん話した。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "高井俐香",
+      "generation": 5,
+      "id": "blog-example-blog-70412-bf324b5e",
+      "date": "2026-08-01",
+      "month": "2026-08",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/70412",
+      "title": "8月！！夏を味方につけるのだ！！",
+      "summary": "誕生日のお祝いを一番に送ったことを本人にも確認した。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "高本彩花",
+      "generation": 1,
+      "id": "blog-example-blog-60209-e517b84a",
+      "date": "2025-05-23",
+      "month": "2025-05",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/60209",
+      "title": "意地でも未来を信じる 片山紗希",
+      "summary": "東村芽依とのユニットと楽曲への好きな気持ちを記す。",
+      "actual": false,
+      "retrospective": false
+    },
+    {
+      "member": "高瀬愛奈",
+      "generation": 1,
+      "id": "blog-example-blog-59914-ce5dbe60",
+      "date": "2025-05-03",
+      "month": "2025-05",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/59914",
+      "title": "高く跳ぶよ 片山紗希",
+      "summary": "卒業を祝い、温かな雰囲気への憧れを記す。具体的な交流場面は書かれていない。",
+      "actual": false,
+      "retrospective": false
+    },
+    {
+      "member": "髙橋未来虹",
+      "generation": 3,
+      "id": "blog-example-blog-68038-6acf846f",
+      "date": "2026-02-21",
+      "month": "2026-02",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/68038",
+      "title": "オハナ🌼",
+      "summary": "ペアレーンの日に、一緒の写真を撮ってもらった。",
+      "actual": true,
+      "retrospective": false
+    },
+    {
+      "member": "鶴崎仁香",
+      "generation": 5,
+      "id": "blog-example-blog-71135-432fca92",
+      "date": "2026-09-26",
+      "month": "2026-09",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/71135",
+      "title": "フルボリュームの耳栓",
+      "summary": "鎌倉へ出かけ、蕎麦を食べながら一日中話した。",
+      "actual": true,
+      "retrospective": false
+    }
+  ],
+  "note": "相手の名前に言及した投稿と、実際の交流を語った投稿を区別する。回想と当時の出来事も分ける。登場頻度は親密度の順位ではない。ブログ公開日を訪問日・収録日と同一視しない。",
+  "recent_public_blog": {
+    "title": "はなれたくない！",
+    "published_at": "2026-10-18T15:50:00+09:00",
+    "url": "https://www.hinatazaka46.com/s/official/diary/detail/71431",
+    "summary": "前日のVenue101出演を振り返り、衣装や髪型に寄せられた反応への感謝を記す。自撮りに山下葉留花が加わったこと、松尾桜が写真を撮ったこと、五期生で楽しんだゲームと大野愛実の反応、平岡海月からもらった手作りクッキーを紹介。仕事の報告とメンバーとの日常を同じ記事で伝えている。",
+    "interpretation": "個々の相手がしてくれたことを具体的に記す発信例。ただし一投稿で恒常的な性格・親密度を判定しない。",
+    "verification": "公開原記事本文を2026年10月19日に再確認。画像から人物や現在地は判定していない。"
+  }
+}

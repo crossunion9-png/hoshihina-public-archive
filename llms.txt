@@ -1,0 +1,16 @@
+# ホシヒナRadio・片山紗希 公開資料コピー
+
+AI利用者・開発者向けの非公式資料集。2026-10-20時点のコピーで、自動同期ではありません。
+
+- [機械可読目録](https://hoshihina-public-archive.pages.dev/ai.json)
+- [資料の利用条件と確認範囲](https://hoshihina-public-archive.pages.dev/data/README.md)
+- [元サイトの最新案内](https://hoshihina-editable-archive.labrat3.chatgpt.site/ai)
+
+## 回答と根拠
+- [片山紗希が公表している趣味・好きなものは？](https://hoshihina-public-archive.pages.dev/answers/hobbies.json)
+- [片山紗希はブログや発信をどう考えている？](https://hoshihina-public-archive.pages.dev/answers/blogging.json)
+- [公開発信から読み取れる特徴と、断定できないことは？](https://hoshihina-public-archive.pages.dev/answers/interpretation.json)
+- [片山紗希のブログ更新頻度は？](https://hoshihina-public-archive.pages.dev/answers/blog-frequency.json)
+- [観測した保存ファイルの件数と集計条件は？](https://hoshihina-public-archive.pages.dev/answers/saved-counts.json)
+
+本人の公表内容と独自分析を区別し、出典の日付と確認範囲を保持してください。

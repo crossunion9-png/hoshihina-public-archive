@@ -1,0 +1,13 @@
+month,status,unit,text,photo,video,voice,total,video_silent,text_percent,photo_percent,video_percent,voice_percent
+2025-11,collected,saved_files,143,58,17,7,225,9,63.56,25.78,7.56,3.11
+2025-12,collected,saved_files,290,115,36,2,443,21,65.46,25.96,8.13,0.45
+2026-01,missing,saved_files,,,,,,,,,,
+2026-02,collected,saved_files,377,126,66,5,574,33,65.68,21.95,11.5,0.87
+2026-03,collected,saved_files,454,135,116,1,706,69,64.31,19.12,16.43,0.14
+2026-04,collected,saved_files,434,153,83,5,675,76,64.3,22.67,12.3,0.74
+2026-05,collected,saved_files,437,164,97,1,699,87,62.52,23.46,13.88,0.14
+2026-06,collected,saved_files,362,157,85,1,605,56,59.83,25.95,14.05,0.17
+2026-07,collected,saved_files,335,125,83,0,543,53,61.69,23.02,15.29,0.0
+2026-08,collected,saved_files,326,150,68,2,546,45,59.71,27.47,12.45,0.37
+2026-09,collected,saved_files,335,162,53,0,550,43,60.91,29.45,9.64,0.0
+2026-10,partial,saved_files,194,93,45,0,332,24,58.43,28.01,13.55,0.0

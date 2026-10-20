@@ -1,0 +1,2945 @@
+{
+  "schema_version": "1.0",
+  "verified_at": "2026-10-19T19:29:00+09:00",
+  "publisher_note": "サイト運営者による非公式の独自分析。公式公認ではありません。",
+  "source_snapshot_revision": 368,
+  "analysis_updated_at": "2026-10-19T10:15:18.346354+09:00",
+  "scope_note": [
+    "対象は日向坂46現役・卒業メンバー。別グループ2言及はこの表の集計外。",
+    "件数は話題の出やすさであり、親密さ・好意・交流実回数の順位ではない。",
+    "ブログとトークは期間・日時基準・公開性が違うため、合算は参考値。",
+    "同じ出来事を複数投稿で紹介した場合も投稿ごとに数える。",
+    "写真に写るだけ、称賛だけ、予定だけでは交流に数えない。",
+    "未知呼称・集団名を人物へ推測配分しない。ひなのん等は本文文脈によって照合。",
+    "原文・個別エピソード・個別メッセージIDは提供しない。"
+  ],
+  "method": "期内の収録済みメンバー全員を母集団とし、言及数の上位・下位各floor(n/3)人（2〜4人の期はfloor(n/2)人、最小1人）を起点に境界の同数を全員含める。群が重なる場合は比較保留。０件も人数には含めるが、話題を評価できる材料とはしない。中間層は二群比較から除外。",
+  "interpretation_note": "上位・下位は言及数による分類。品質・親密度・相性の評価ではない。カテゴリ件数は人物×投稿を母数とする。",
+  "monthly": [
+    {
+      "source": "talk",
+      "generation": 2,
+      "month": "2025-11",
+      "status": "observed",
+      "counts": {
+        "references": 2,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "talk",
+      "generation": 2,
+      "month": "2025-12",
+      "status": "observed",
+      "counts": {
+        "references": 3,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "talk",
+      "generation": 2,
+      "month": "2026-01",
+      "status": "missing",
+      "counts": null,
+      "member_count_in_table": 5
+    },
+    {
+      "source": "talk",
+      "generation": 2,
+      "month": "2026-02",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "talk",
+      "generation": 2,
+      "month": "2026-03",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "talk",
+      "generation": 2,
+      "month": "2026-04",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "talk",
+      "generation": 2,
+      "month": "2026-05",
+      "status": "observed",
+      "counts": {
+        "references": 5,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "talk",
+      "generation": 2,
+      "month": "2026-06",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "talk",
+      "generation": 2,
+      "month": "2026-07",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "talk",
+      "generation": 2,
+      "month": "2026-08",
+      "status": "observed",
+      "counts": {
+        "references": 4,
+        "actual": 3,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "talk",
+      "generation": 2,
+      "month": "2026-09",
+      "status": "observed",
+      "counts": {
+        "references": 3,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "talk",
+      "generation": 2,
+      "month": "2026-10",
+      "status": "partial",
+      "counts": {
+        "references": 5,
+        "actual": 4,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "talk",
+      "generation": 3,
+      "month": "2025-11",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "talk",
+      "generation": 3,
+      "month": "2025-12",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "talk",
+      "generation": 3,
+      "month": "2026-01",
+      "status": "missing",
+      "counts": null,
+      "member_count_in_table": 4
+    },
+    {
+      "source": "talk",
+      "generation": 3,
+      "month": "2026-02",
+      "status": "observed",
+      "counts": {
+        "references": 10,
+        "actual": 5,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "talk",
+      "generation": 3,
+      "month": "2026-03",
+      "status": "observed",
+      "counts": {
+        "references": 3,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "talk",
+      "generation": 3,
+      "month": "2026-04",
+      "status": "observed",
+      "counts": {
+        "references": 11,
+        "actual": 5,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "talk",
+      "generation": 3,
+      "month": "2026-05",
+      "status": "observed",
+      "counts": {
+        "references": 4,
+        "actual": 0,
+        "uncertain": 2,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "talk",
+      "generation": 3,
+      "month": "2026-06",
+      "status": "observed",
+      "counts": {
+        "references": 2,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "talk",
+      "generation": 3,
+      "month": "2026-07",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "talk",
+      "generation": 3,
+      "month": "2026-08",
+      "status": "observed",
+      "counts": {
+        "references": 10,
+        "actual": 3,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "talk",
+      "generation": 3,
+      "month": "2026-09",
+      "status": "observed",
+      "counts": {
+        "references": 3,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "talk",
+      "generation": 3,
+      "month": "2026-10",
+      "status": "partial",
+      "counts": {
+        "references": 2,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "talk",
+      "generation": 4,
+      "month": "2025-11",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "talk",
+      "generation": 4,
+      "month": "2025-12",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "talk",
+      "generation": 4,
+      "month": "2026-01",
+      "status": "missing",
+      "counts": null,
+      "member_count_in_table": 11
+    },
+    {
+      "source": "talk",
+      "generation": 4,
+      "month": "2026-02",
+      "status": "observed",
+      "counts": {
+        "references": 5,
+        "actual": 2,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "talk",
+      "generation": 4,
+      "month": "2026-03",
+      "status": "observed",
+      "counts": {
+        "references": 2,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "talk",
+      "generation": 4,
+      "month": "2026-04",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "talk",
+      "generation": 4,
+      "month": "2026-05",
+      "status": "observed",
+      "counts": {
+        "references": 6,
+        "actual": 2,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "talk",
+      "generation": 4,
+      "month": "2026-06",
+      "status": "observed",
+      "counts": {
+        "references": 2,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "talk",
+      "generation": 4,
+      "month": "2026-07",
+      "status": "observed",
+      "counts": {
+        "references": 2,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "talk",
+      "generation": 4,
+      "month": "2026-08",
+      "status": "observed",
+      "counts": {
+        "references": 5,
+        "actual": 2,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 2,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "talk",
+      "generation": 4,
+      "month": "2026-09",
+      "status": "observed",
+      "counts": {
+        "references": 3,
+        "actual": 2,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "talk",
+      "generation": 4,
+      "month": "2026-10",
+      "status": "partial",
+      "counts": {
+        "references": 2,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "talk",
+      "generation": 5,
+      "month": "2025-11",
+      "status": "observed",
+      "counts": {
+        "references": 10,
+        "actual": 3,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "talk",
+      "generation": 5,
+      "month": "2025-12",
+      "status": "observed",
+      "counts": {
+        "references": 8,
+        "actual": 5,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "talk",
+      "generation": 5,
+      "month": "2026-01",
+      "status": "missing",
+      "counts": null,
+      "member_count_in_table": 9
+    },
+    {
+      "source": "talk",
+      "generation": 5,
+      "month": "2026-02",
+      "status": "observed",
+      "counts": {
+        "references": 26,
+        "actual": 14,
+        "uncertain": 1,
+        "recalled": 1,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "talk",
+      "generation": 5,
+      "month": "2026-03",
+      "status": "observed",
+      "counts": {
+        "references": 40,
+        "actual": 19,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 3,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "talk",
+      "generation": 5,
+      "month": "2026-04",
+      "status": "observed",
+      "counts": {
+        "references": 37,
+        "actual": 10,
+        "uncertain": 1,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 1
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "talk",
+      "generation": 5,
+      "month": "2026-05",
+      "status": "observed",
+      "counts": {
+        "references": 22,
+        "actual": 7,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "talk",
+      "generation": 5,
+      "month": "2026-06",
+      "status": "observed",
+      "counts": {
+        "references": 23,
+        "actual": 9,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 2,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "talk",
+      "generation": 5,
+      "month": "2026-07",
+      "status": "observed",
+      "counts": {
+        "references": 15,
+        "actual": 12,
+        "uncertain": 0,
+        "recalled": 2,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "talk",
+      "generation": 5,
+      "month": "2026-08",
+      "status": "observed",
+      "counts": {
+        "references": 12,
+        "actual": 5,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 2,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "talk",
+      "generation": 5,
+      "month": "2026-09",
+      "status": "observed",
+      "counts": {
+        "references": 23,
+        "actual": 14,
+        "uncertain": 1,
+        "recalled": 1,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "talk",
+      "generation": 5,
+      "month": "2026-10",
+      "status": "partial",
+      "counts": {
+        "references": 4,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2025-04",
+      "status": "observed",
+      "counts": {
+        "references": 2,
+        "actual": 2,
+        "uncertain": 0,
+        "recalled": 2,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2025-05",
+      "status": "observed",
+      "counts": {
+        "references": 3,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2025-06",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2025-07",
+      "status": "observed",
+      "counts": {
+        "references": 2,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2025-08",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2025-09",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2025-10",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2025-11",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2025-12",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2026-01",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2026-02",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2026-03",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2026-04",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2026-05",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2026-06",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2026-07",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2026-08",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2026-09",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 1,
+      "month": "2026-10",
+      "status": "partial",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 6
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2025-04",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2025-05",
+      "status": "observed",
+      "counts": {
+        "references": 4,
+        "actual": 2,
+        "uncertain": 0,
+        "recalled": 2,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2025-06",
+      "status": "observed",
+      "counts": {
+        "references": 3,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2025-07",
+      "status": "observed",
+      "counts": {
+        "references": 3,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2025-08",
+      "status": "observed",
+      "counts": {
+        "references": 6,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2025-09",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2025-10",
+      "status": "observed",
+      "counts": {
+        "references": 4,
+        "actual": 2,
+        "uncertain": 0,
+        "recalled": 2,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2025-11",
+      "status": "observed",
+      "counts": {
+        "references": 6,
+        "actual": 3,
+        "uncertain": 0,
+        "recalled": 3,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2025-12",
+      "status": "observed",
+      "counts": {
+        "references": 4,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 2,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2026-01",
+      "status": "observed",
+      "counts": {
+        "references": 4,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2026-02",
+      "status": "observed",
+      "counts": {
+        "references": 4,
+        "actual": 2,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2026-03",
+      "status": "observed",
+      "counts": {
+        "references": 2,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2026-04",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2026-05",
+      "status": "observed",
+      "counts": {
+        "references": 3,
+        "actual": 3,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2026-06",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2026-07",
+      "status": "observed",
+      "counts": {
+        "references": 3,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2026-08",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2026-09",
+      "status": "observed",
+      "counts": {
+        "references": 2,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 2,
+      "month": "2026-10",
+      "status": "partial",
+      "counts": {
+        "references": 3,
+        "actual": 2,
+        "uncertain": 1,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 5
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2025-04",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2025-05",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2025-06",
+      "status": "observed",
+      "counts": {
+        "references": 3,
+        "actual": 2,
+        "uncertain": 0,
+        "recalled": 2,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2025-07",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2025-08",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2025-09",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2025-10",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2025-11",
+      "status": "observed",
+      "counts": {
+        "references": 2,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2025-12",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2026-01",
+      "status": "observed",
+      "counts": {
+        "references": 3,
+        "actual": 0,
+        "uncertain": 1,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2026-02",
+      "status": "observed",
+      "counts": {
+        "references": 6,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 2,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2026-03",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2026-04",
+      "status": "observed",
+      "counts": {
+        "references": 6,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2026-05",
+      "status": "observed",
+      "counts": {
+        "references": 6,
+        "actual": 3,
+        "uncertain": 0,
+        "recalled": 2,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2026-06",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2026-07",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2026-08",
+      "status": "observed",
+      "counts": {
+        "references": 2,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2026-09",
+      "status": "observed",
+      "counts": {
+        "references": 3,
+        "actual": 2,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 3,
+      "month": "2026-10",
+      "status": "partial",
+      "counts": {
+        "references": 2,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 4
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2025-04",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2025-05",
+      "status": "observed",
+      "counts": {
+        "references": 4,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2025-06",
+      "status": "observed",
+      "counts": {
+        "references": 13,
+        "actual": 12,
+        "uncertain": 0,
+        "recalled": 12,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2025-07",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2025-08",
+      "status": "observed",
+      "counts": {
+        "references": 5,
+        "actual": 2,
+        "uncertain": 0,
+        "recalled": 2,
+        "planned": 2,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2025-09",
+      "status": "observed",
+      "counts": {
+        "references": 3,
+        "actual": 2,
+        "uncertain": 0,
+        "recalled": 2,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2025-10",
+      "status": "observed",
+      "counts": {
+        "references": 6,
+        "actual": 1,
+        "uncertain": 1,
+        "recalled": 1,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2025-11",
+      "status": "observed",
+      "counts": {
+        "references": 2,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2025-12",
+      "status": "observed",
+      "counts": {
+        "references": 2,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2026-01",
+      "status": "observed",
+      "counts": {
+        "references": 4,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2026-02",
+      "status": "observed",
+      "counts": {
+        "references": 0,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2026-03",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2026-04",
+      "status": "observed",
+      "counts": {
+        "references": 1,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2026-05",
+      "status": "observed",
+      "counts": {
+        "references": 8,
+        "actual": 2,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 4,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2026-06",
+      "status": "observed",
+      "counts": {
+        "references": 4,
+        "actual": 2,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 2,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2026-07",
+      "status": "observed",
+      "counts": {
+        "references": 5,
+        "actual": 1,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 2,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2026-08",
+      "status": "observed",
+      "counts": {
+        "references": 9,
+        "actual": 4,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 3,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2026-09",
+      "status": "observed",
+      "counts": {
+        "references": 6,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 2,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 4,
+      "month": "2026-10",
+      "status": "partial",
+      "counts": {
+        "references": 3,
+        "actual": 2,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 11
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2025-04",
+      "status": "observed",
+      "counts": {
+        "references": 12,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2025-05",
+      "status": "observed",
+      "counts": {
+        "references": 19,
+        "actual": 5,
+        "uncertain": 0,
+        "recalled": 5,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2025-06",
+      "status": "observed",
+      "counts": {
+        "references": 19,
+        "actual": 8,
+        "uncertain": 0,
+        "recalled": 8,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2025-07",
+      "status": "observed",
+      "counts": {
+        "references": 13,
+        "actual": 0,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2025-08",
+      "status": "observed",
+      "counts": {
+        "references": 20,
+        "actual": 6,
+        "uncertain": 0,
+        "recalled": 6,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2025-09",
+      "status": "observed",
+      "counts": {
+        "references": 17,
+        "actual": 3,
+        "uncertain": 0,
+        "recalled": 2,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2025-10",
+      "status": "observed",
+      "counts": {
+        "references": 23,
+        "actual": 8,
+        "uncertain": 5,
+        "recalled": 7,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2025-11",
+      "status": "observed",
+      "counts": {
+        "references": 13,
+        "actual": 6,
+        "uncertain": 0,
+        "recalled": 6,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2025-12",
+      "status": "observed",
+      "counts": {
+        "references": 18,
+        "actual": 11,
+        "uncertain": 0,
+        "recalled": 11,
+        "planned": 4,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2026-01",
+      "status": "observed",
+      "counts": {
+        "references": 24,
+        "actual": 6,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2026-02",
+      "status": "observed",
+      "counts": {
+        "references": 8,
+        "actual": 5,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2026-03",
+      "status": "observed",
+      "counts": {
+        "references": 22,
+        "actual": 5,
+        "uncertain": 1,
+        "recalled": 4,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2026-04",
+      "status": "observed",
+      "counts": {
+        "references": 19,
+        "actual": 2,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2026-05",
+      "status": "observed",
+      "counts": {
+        "references": 11,
+        "actual": 4,
+        "uncertain": 0,
+        "recalled": 0,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2026-06",
+      "status": "observed",
+      "counts": {
+        "references": 10,
+        "actual": 2,
+        "uncertain": 1,
+        "recalled": 0,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2026-07",
+      "status": "observed",
+      "counts": {
+        "references": 26,
+        "actual": 15,
+        "uncertain": 0,
+        "recalled": 5,
+        "planned": 2,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2026-08",
+      "status": "observed",
+      "counts": {
+        "references": 8,
+        "actual": 4,
+        "uncertain": 1,
+        "recalled": 1,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2026-09",
+      "status": "observed",
+      "counts": {
+        "references": 9,
+        "actual": 5,
+        "uncertain": 0,
+        "recalled": 1,
+        "planned": 0,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    },
+    {
+      "source": "blog",
+      "generation": 5,
+      "month": "2026-10",
+      "status": "partial",
+      "counts": {
+        "references": 7,
+        "actual": 6,
+        "uncertain": 0,
+        "recalled": 3,
+        "planned": 1,
+        "attendance": 0
+      },
+      "member_count_in_table": 9
+    }
+  ],
+  "rank_groups": [
+    {
+      "generation": 1,
+      "source": "all",
+      "eligible_members": 6,
+      "target_group_size": 2,
+      "separable": true,
+      "upper": {
+        "members": [
+          {
+            "name": "佐々木久美",
+            "references": 2
+          },
+          {
+            "name": "佐々木美玲",
+            "references": 2
+          }
+        ],
+        "records": 4,
+        "actual_true": 2,
+        "actual_false": 2,
+        "actual_unknown": 0,
+        "category_counts": {
+          "メンバーへの思い・称賛": 2,
+          "告知・紹介": 2
+        }
+      },
+      "lower": {
+        "members": [
+          {
+            "name": "高瀬愛奈",
+            "references": 1
+          },
+          {
+            "name": "高本彩花",
+            "references": 1
+          },
+          {
+            "name": "潮紗理菜",
+            "references": 1
+          },
+          {
+            "name": "東村芽依",
+            "references": 1
+          }
+        ],
+        "records": 4,
+        "actual_true": 0,
+        "actual_false": 4,
+        "actual_unknown": 0,
+        "category_counts": {
+          "メンバーへの思い・称賛": 3,
+          "日常のやり取り": 1
+        }
+      }
+    },
+    {
+      "generation": 2,
+      "source": "all",
+      "eligible_members": 5,
+      "target_group_size": 1,
+      "separable": true,
+      "upper": {
+        "members": [
+          {
+            "name": "金村美玖",
+            "references": 35
+          }
+        ],
+        "records": 35,
+        "actual_true": 18,
+        "actual_false": 16,
+        "actual_unknown": 1,
+        "category_counts": {
+          "練習・ライブ・ミーグリ": 5,
+          "メンバーへの思い・称賛": 11,
+          "名前だけ・短い言及": 1,
+          "食べ物・お出かけ": 3,
+          "日常のやり取り": 3,
+          "撮影・出演": 8,
+          "告知・紹介": 4
+        }
+      },
+      "lower": {
+        "members": [
+          {
+            "name": "富田鈴花",
+            "references": 6
+          }
+        ],
+        "records": 6,
+        "actual_true": 2,
+        "actual_false": 4,
+        "actual_unknown": 0,
+        "category_counts": {
+          "メンバーへの思い・称賛": 1,
+          "撮影・出演": 1,
+          "告知・紹介": 1,
+          "日常のやり取り": 1,
+          "練習・ライブ・ミーグリ": 2
+        }
+      }
+    },
+    {
+      "generation": 3,
+      "source": "all",
+      "eligible_members": 4,
+      "target_group_size": 2,
+      "separable": true,
+      "upper": {
+        "members": [
+          {
+            "name": "山口陽世",
+            "references": 46
+          },
+          {
+            "name": "上村ひなの",
+            "references": 16
+          }
+        ],
+        "records": 62,
+        "actual_true": 19,
+        "actual_false": 40,
+        "actual_unknown": 3,
+        "category_counts": {
+          "メンバーへの思い・称賛": 19,
+          "撮影・出演": 8,
+          "告知・紹介": 10,
+          "日常のやり取り": 12,
+          "名前だけ・短い言及": 2,
+          "食べ物・お出かけ": 4,
+          "練習・ライブ・ミーグリ": 7
+        }
+      },
+      "lower": {
+        "members": [
+          {
+            "name": "森本茉莉",
+            "references": 12
+          },
+          {
+            "name": "髙橋未来虹",
+            "references": 10
+          }
+        ],
+        "records": 22,
+        "actual_true": 10,
+        "actual_false": 12,
+        "actual_unknown": 0,
+        "category_counts": {
+          "告知・紹介": 5,
+          "食べ物・お出かけ": 2,
+          "メンバーへの思い・称賛": 4,
+          "日常のやり取り": 2,
+          "撮影・出演": 2,
+          "練習・ライブ・ミーグリ": 7
+        }
+      }
+    },
+    {
+      "generation": 4,
+      "source": "all",
+      "eligible_members": 11,
+      "target_group_size": 3,
+      "separable": true,
+      "upper": {
+        "members": [
+          {
+            "name": "藤嶌果歩",
+            "references": 19
+          },
+          {
+            "name": "山下葉留花",
+            "references": 15
+          },
+          {
+            "name": "平岡海月",
+            "references": 13
+          }
+        ],
+        "records": 47,
+        "actual_true": 17,
+        "actual_false": 29,
+        "actual_unknown": 1,
+        "category_counts": {
+          "告知・紹介": 13,
+          "名前だけ・短い言及": 1,
+          "食べ物・お出かけ": 5,
+          "メンバーへの思い・称賛": 8,
+          "日常のやり取り": 7,
+          "練習・ライブ・ミーグリ": 6,
+          "撮影・出演": 7
+        }
+      },
+      "lower": {
+        "members": [
+          {
+            "name": "小西夏菜実",
+            "references": 6
+          },
+          {
+            "name": "石塚瑶季",
+            "references": 5
+          },
+          {
+            "name": "渡辺莉奈",
+            "references": 4
+          }
+        ],
+        "records": 15,
+        "actual_true": 10,
+        "actual_false": 5,
+        "actual_unknown": 0,
+        "category_counts": {
+          "撮影・出演": 5,
+          "練習・ライブ・ミーグリ": 7,
+          "メンバーへの思い・称賛": 2,
+          "日常のやり取り": 1
+        }
+      }
+    },
+    {
+      "generation": 5,
+      "source": "all",
+      "eligible_members": 9,
+      "target_group_size": 3,
+      "separable": true,
+      "upper": {
+        "members": [
+          {
+            "name": "鶴崎仁香",
+            "references": 102
+          },
+          {
+            "name": "松尾桜",
+            "references": 94
+          },
+          {
+            "name": "大野愛実",
+            "references": 64
+          }
+        ],
+        "records": 260,
+        "actual_true": 113,
+        "actual_false": 145,
+        "actual_unknown": 2,
+        "category_counts": {
+          "日常のやり取り": 61,
+          "告知・紹介": 30,
+          "食べ物・お出かけ": 48,
+          "メンバーへの思い・称賛": 35,
+          "撮影・出演": 48,
+          "練習・ライブ・ミーグリ": 31,
+          "名前だけ・短い言及": 7
+        }
+      },
+      "lower": {
+        "members": [
+          {
+            "name": "佐藤優羽",
+            "references": 41
+          },
+          {
+            "name": "大田美月",
+            "references": 36
+          },
+          {
+            "name": "蔵盛妃那乃",
+            "references": 27
+          }
+        ],
+        "records": 104,
+        "actual_true": 24,
+        "actual_false": 73,
+        "actual_unknown": 7,
+        "category_counts": {
+          "日常のやり取り": 10,
+          "食べ物・お出かけ": 13,
+          "告知・紹介": 37,
+          "練習・ライブ・ミーグリ": 17,
+          "名前だけ・短い言及": 2,
+          "メンバーへの思い・称賛": 13,
+          "撮影・出演": 12
+        }
+      }
+    },
+    {
+      "generation": 1,
+      "source": "talk",
+      "eligible_members": 6,
+      "target_group_size": 2,
+      "separable": false,
+      "upper": null,
+      "lower": null
+    },
+    {
+      "generation": 2,
+      "source": "talk",
+      "eligible_members": 5,
+      "target_group_size": 1,
+      "separable": true,
+      "upper": {
+        "members": [
+          {
+            "name": "金村美玖",
+            "references": 17
+          }
+        ],
+        "records": 17,
+        "actual_true": 9,
+        "actual_false": 8,
+        "actual_unknown": 0,
+        "category_counts": {
+          "練習・ライブ・ミーグリ": 1,
+          "メンバーへの思い・称賛": 9,
+          "名前だけ・短い言及": 1,
+          "食べ物・お出かけ": 2,
+          "日常のやり取り": 2,
+          "撮影・出演": 2
+        }
+      },
+      "lower": {
+        "members": [
+          {
+            "name": "富田鈴花",
+            "references": 0
+          }
+        ],
+        "records": 0,
+        "actual_true": 0,
+        "actual_false": 0,
+        "actual_unknown": 0,
+        "category_counts": {}
+      }
+    },
+    {
+      "generation": 3,
+      "source": "talk",
+      "eligible_members": 4,
+      "target_group_size": 2,
+      "separable": true,
+      "upper": {
+        "members": [
+          {
+            "name": "山口陽世",
+            "references": 33
+          },
+          {
+            "name": "上村ひなの",
+            "references": 5
+          }
+        ],
+        "records": 38,
+        "actual_true": 12,
+        "actual_false": 24,
+        "actual_unknown": 2,
+        "category_counts": {
+          "メンバーへの思い・称賛": 13,
+          "撮影・出演": 3,
+          "告知・紹介": 7,
+          "日常のやり取り": 10,
+          "名前だけ・短い言及": 2,
+          "食べ物・お出かけ": 3
+        }
+      },
+      "lower": {
+        "members": [
+          {
+            "name": "森本茉莉",
+            "references": 4
+          },
+          {
+            "name": "髙橋未来虹",
+            "references": 4
+          }
+        ],
+        "records": 8,
+        "actual_true": 5,
+        "actual_false": 3,
+        "actual_unknown": 0,
+        "category_counts": {
+          "告知・紹介": 2,
+          "食べ物・お出かけ": 1,
+          "メンバーへの思い・称賛": 1,
+          "日常のやり取り": 2,
+          "撮影・出演": 1,
+          "練習・ライブ・ミーグリ": 1
+        }
+      }
+    },
+    {
+      "generation": 4,
+      "source": "talk",
+      "eligible_members": 11,
+      "target_group_size": 3,
+      "separable": true,
+      "upper": {
+        "members": [
+          {
+            "name": "平岡海月",
+            "references": 6
+          },
+          {
+            "name": "藤嶌果歩",
+            "references": 4
+          },
+          {
+            "name": "宮地すみれ",
+            "references": 3
+          },
+          {
+            "name": "山下葉留花",
+            "references": 3
+          },
+          {
+            "name": "清水理央",
+            "references": 3
+          },
+          {
+            "name": "竹内希来里",
+            "references": 3
+          }
+        ],
+        "records": 22,
+        "actual_true": 7,
+        "actual_false": 15,
+        "actual_unknown": 0,
+        "category_counts": {
+          "メンバーへの思い・称賛": 5,
+          "告知・紹介": 6,
+          "名前だけ・短い言及": 1,
+          "食べ物・お出かけ": 4,
+          "日常のやり取り": 4,
+          "練習・ライブ・ミーグリ": 2
+        }
+      },
+      "lower": {
+        "members": [
+          {
+            "name": "小西夏菜実",
+            "references": 1
+          },
+          {
+            "name": "正源司陽子",
+            "references": 1
+          },
+          {
+            "name": "石塚瑶季",
+            "references": 1
+          }
+        ],
+        "records": 3,
+        "actual_true": 1,
+        "actual_false": 2,
+        "actual_unknown": 0,
+        "category_counts": {
+          "撮影・出演": 2,
+          "練習・ライブ・ミーグリ": 1
+        }
+      }
+    },
+    {
+      "generation": 5,
+      "source": "talk",
+      "eligible_members": 9,
+      "target_group_size": 3,
+      "separable": true,
+      "upper": {
+        "members": [
+          {
+            "name": "鶴崎仁香",
+            "references": 52
+          },
+          {
+            "name": "松尾桜",
+            "references": 46
+          },
+          {
+            "name": "大野愛実",
+            "references": 31
+          }
+        ],
+        "records": 129,
+        "actual_true": 58,
+        "actual_false": 71,
+        "actual_unknown": 0,
+        "category_counts": {
+          "日常のやり取り": 44,
+          "告知・紹介": 10,
+          "食べ物・お出かけ": 30,
+          "メンバーへの思い・称賛": 17,
+          "撮影・出演": 17,
+          "練習・ライブ・ミーグリ": 5,
+          "名前だけ・短い言及": 6
+        }
+      },
+      "lower": {
+        "members": [
+          {
+            "name": "佐藤優羽",
+            "references": 16
+          },
+          {
+            "name": "大田美月",
+            "references": 5
+          },
+          {
+            "name": "蔵盛妃那乃",
+            "references": 4
+          }
+        ],
+        "records": 25,
+        "actual_true": 9,
+        "actual_false": 13,
+        "actual_unknown": 3,
+        "category_counts": {
+          "日常のやり取り": 4,
+          "食べ物・お出かけ": 7,
+          "告知・紹介": 5,
+          "練習・ライブ・ミーグリ": 4,
+          "名前だけ・短い言及": 2,
+          "メンバーへの思い・称賛": 2,
+          "撮影・出演": 1
+        }
+      }
+    },
+    {
+      "generation": 1,
+      "source": "blog",
+      "eligible_members": 6,
+      "target_group_size": 2,
+      "separable": true,
+      "upper": {
+        "members": [
+          {
+            "name": "佐々木久美",
+            "references": 2
+          },
+          {
+            "name": "佐々木美玲",
+            "references": 2
+          }
+        ],
+        "records": 4,
+        "actual_true": 2,
+        "actual_false": 2,
+        "actual_unknown": 0,
+        "category_counts": {
+          "メンバーへの思い・称賛": 2,
+          "告知・紹介": 2
+        }
+      },
+      "lower": {
+        "members": [
+          {
+            "name": "高瀬愛奈",
+            "references": 1
+          },
+          {
+            "name": "高本彩花",
+            "references": 1
+          },
+          {
+            "name": "潮紗理菜",
+            "references": 1
+          },
+          {
+            "name": "東村芽依",
+            "references": 1
+          }
+        ],
+        "records": 4,
+        "actual_true": 0,
+        "actual_false": 4,
+        "actual_unknown": 0,
+        "category_counts": {
+          "メンバーへの思い・称賛": 3,
+          "日常のやり取り": 1
+        }
+      }
+    },
+    {
+      "generation": 2,
+      "source": "blog",
+      "eligible_members": 5,
+      "target_group_size": 1,
+      "separable": true,
+      "upper": {
+        "members": [
+          {
+            "name": "金村美玖",
+            "references": 18
+          }
+        ],
+        "records": 18,
+        "actual_true": 9,
+        "actual_false": 8,
+        "actual_unknown": 1,
+        "category_counts": {
+          "撮影・出演": 6,
+          "練習・ライブ・ミーグリ": 4,
+          "メンバーへの思い・称賛": 2,
+          "告知・紹介": 4,
+          "日常のやり取り": 1,
+          "食べ物・お出かけ": 1
+        }
+      },
+      "lower": {
+        "members": [
+          {
+            "name": "富田鈴花",
+            "references": 6
+          }
+        ],
+        "records": 6,
+        "actual_true": 2,
+        "actual_false": 4,
+        "actual_unknown": 0,
+        "category_counts": {
+          "メンバーへの思い・称賛": 1,
+          "撮影・出演": 1,
+          "告知・紹介": 1,
+          "日常のやり取り": 1,
+          "練習・ライブ・ミーグリ": 2
+        }
+      }
+    },
+    {
+      "generation": 3,
+      "source": "blog",
+      "eligible_members": 4,
+      "target_group_size": 2,
+      "separable": true,
+      "upper": {
+        "members": [
+          {
+            "name": "山口陽世",
+            "references": 13
+          },
+          {
+            "name": "上村ひなの",
+            "references": 11
+          }
+        ],
+        "records": 24,
+        "actual_true": 7,
+        "actual_false": 16,
+        "actual_unknown": 1,
+        "category_counts": {
+          "メンバーへの思い・称賛": 6,
+          "撮影・出演": 5,
+          "日常のやり取り": 2,
+          "練習・ライブ・ミーグリ": 7,
+          "告知・紹介": 3,
+          "食べ物・お出かけ": 1
+        }
+      },
+      "lower": {
+        "members": [
+          {
+            "name": "森本茉莉",
+            "references": 8
+          },
+          {
+            "name": "髙橋未来虹",
+            "references": 6
+          }
+        ],
+        "records": 14,
+        "actual_true": 5,
+        "actual_false": 9,
+        "actual_unknown": 0,
+        "category_counts": {
+          "練習・ライブ・ミーグリ": 6,
+          "メンバーへの思い・称賛": 3,
+          "告知・紹介": 3,
+          "食べ物・お出かけ": 1,
+          "撮影・出演": 1
+        }
+      }
+    },
+    {
+      "generation": 4,
+      "source": "blog",
+      "eligible_members": 11,
+      "target_group_size": 3,
+      "separable": true,
+      "upper": {
+        "members": [
+          {
+            "name": "藤嶌果歩",
+            "references": 15
+          },
+          {
+            "name": "山下葉留花",
+            "references": 12
+          },
+          {
+            "name": "正源司陽子",
+            "references": 9
+          }
+        ],
+        "records": 36,
+        "actual_true": 11,
+        "actual_false": 24,
+        "actual_unknown": 1,
+        "category_counts": {
+          "メンバーへの思い・称賛": 6,
+          "練習・ライブ・ミーグリ": 8,
+          "撮影・出演": 9,
+          "日常のやり取り": 3,
+          "告知・紹介": 10
+        }
+      },
+      "lower": {
+        "members": [
+          {
+            "name": "石塚瑶季",
+            "references": 4
+          },
+          {
+            "name": "竹内希来里",
+            "references": 4
+          },
+          {
+            "name": "渡辺莉奈",
+            "references": 2
+          }
+        ],
+        "records": 10,
+        "actual_true": 4,
+        "actual_false": 6,
+        "actual_unknown": 0,
+        "category_counts": {
+          "練習・ライブ・ミーグリ": 5,
+          "メンバーへの思い・称賛": 3,
+          "告知・紹介": 1,
+          "日常のやり取り": 1
+        }
+      }
+    },
+    {
+      "generation": 5,
+      "source": "blog",
+      "eligible_members": 9,
+      "target_group_size": 3,
+      "separable": true,
+      "upper": {
+        "members": [
+          {
+            "name": "鶴崎仁香",
+            "references": 50
+          },
+          {
+            "name": "松尾桜",
+            "references": 48
+          },
+          {
+            "name": "大野愛実",
+            "references": 33
+          }
+        ],
+        "records": 131,
+        "actual_true": 55,
+        "actual_false": 74,
+        "actual_unknown": 2,
+        "category_counts": {
+          "日常のやり取り": 17,
+          "告知・紹介": 20,
+          "撮影・出演": 31,
+          "メンバーへの思い・称賛": 18,
+          "食べ物・お出かけ": 18,
+          "練習・ライブ・ミーグリ": 26,
+          "名前だけ・短い言及": 1
+        }
+      },
+      "lower": {
+        "members": [
+          {
+            "name": "坂井新奈",
+            "references": 26
+          },
+          {
+            "name": "佐藤優羽",
+            "references": 25
+          },
+          {
+            "name": "蔵盛妃那乃",
+            "references": 23
+          }
+        ],
+        "records": 74,
+        "actual_true": 17,
+        "actual_false": 55,
+        "actual_unknown": 2,
+        "category_counts": {
+          "告知・紹介": 24,
+          "メンバーへの思い・称賛": 13,
+          "撮影・出演": 10,
+          "練習・ライブ・ミーグリ": 14,
+          "日常のやり取り": 10,
+          "食べ物・お出かけ": 3
+        }
+      }
+    }
+  ],
+  "source_basis_revision": 361,
+  "validation_note": "現snapshotの人物×投稿分類記録に対し比較可能な28群のrecordsとcategory_countsを再計算。全て一致。署名文字列は元分析の保持値。"
+}

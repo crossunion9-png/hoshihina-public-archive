@@ -1,0 +1,92 @@
+{
+  "verified_at": "2026-10-19T19:20:00+09:00",
+  "scope": "公開原文で確認した最近の情報。全出演を網羅するものではない。",
+  "appearances": [
+    {
+      "name": "しずおかごはんが食べたい！",
+      "medium": "テレビ静岡",
+      "date": "2026-10-17",
+      "time_jst": "17:00–17:30",
+      "status": "past_scheduled_appearance",
+      "participants": [
+        "片山紗希",
+        "松尾桜"
+      ],
+      "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/71414"
+    },
+    {
+      "name": "Venue101",
+      "medium": "NHK",
+      "date": "2026-10-17",
+      "time_jst": "23:00",
+      "status": "appearance_reported",
+      "participants": [
+        "日向坂46",
+        "片山紗希"
+      ],
+      "summary": "「イチャイチャ虫」披露の告知と、翌日のブログに生放送の出演報告。",
+      "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/71431",
+      "announcement_url": "https://www.hinatazaka46.com/s/official/diary/detail/71414"
+    },
+    {
+      "name": "日向坂46の「ひ」公開収録",
+      "medium": "文化放送",
+      "date": "2026-11-30",
+      "status": "announced_future",
+      "participants": [
+        "上村ひなの",
+        "平岡海月",
+        "片山紗希"
+      ],
+      "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/71414"
+    }
+  ],
+  "blog_summaries": [
+    {
+      "title": "はなれたくない！",
+      "published_date": "2026-10-18",
+      "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/71431",
+      "summary": "Venue101の生放送を振り返り、おさげ髪や衣装の写真を紹介。山下葉留花との自撮り、松尾桜が撮影した写真、五期生で楽しんだゲームにも触れている。ミーグリの3部までは大きなリボンだったと記した。",
+      "basis": "official_public_blog_read",
+      "interpretation": "出演の振り返りとファンへの近況報告が同じ投稿に並ぶ。これは当該公開ブログの構成についての観察で、私的な内面の断定ではない。"
+    }
+  ],
+  "interview_source_index": [
+    {
+      "title": "Ray｜五期生10人の魅力＆アイドル論",
+      "url": "https://ray-web.jp/517070",
+      "date": "2025-06-23",
+      "type": "公開インタビュー"
+    },
+    {
+      "title": "BUBKA｜好きクレ初センターとアイドルとしての意識",
+      "url": "https://www.idol-culture.jp/geinou/216524/",
+      "date": "2026-04-29",
+      "type": "公開インタビュー"
+    },
+    {
+      "title": "BUBKA Web／BRODY｜日向坂バレー部 密着インタビュー",
+      "url": "https://www.idol-culture.jp/geinou/224162/",
+      "date": "2026-08-22",
+      "type": "公開インタビュー"
+    },
+    {
+      "title": "集英社オンライン｜ぬい活、手縫いの服作り、チア経験",
+      "url": "https://shueisha.online/articles/-/258547",
+      "date": "2026-10-02",
+      "type": "公開インタビュー"
+    },
+    {
+      "title": "日刊スポーツ｜かわいらしいイメージとかっこいいパフォーマンスのギャップ",
+      "url": "https://www.nikkansports.com/entertainment/column/sakamichi/news/202607140000128.html",
+      "date": "2026-07-14",
+      "type": "本人インタビュー"
+    },
+    {
+      "title": "Ray｜大野愛実＆片山紗希のめざす姿",
+      "url": "https://ray-web.jp/517515",
+      "date": "2025-07-03",
+      "type": "本人インタビュー"
+    }
+  ]
+}

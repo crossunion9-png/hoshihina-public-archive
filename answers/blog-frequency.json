@@ -1,0 +1,74 @@
+{
+  "id": "blog-frequency",
+  "question": "片山紗希のブログ更新頻度は？",
+  "kind": "公開ブログの集計と運営者による解釈",
+  "url": "https://hoshihina-editable-archive.labrat3.chatgpt.site/answers/blog-frequency",
+  "json_url": "https://hoshihina-editable-archive.labrat3.chatgpt.site/answers/blog-frequency.json",
+  "publisher": "ホシヒナRadio資料室（非公式）",
+  "answer": "確認方法：公開日データの集計＋本人の説明。\n個人ブログの最初の1年（2025年10月1日〜2026年9月30日）は現行一覧で217記事・213掲載日。各月16〜21記事、掲載日の間隔の中央値は2日だった。短く頻繁に読める場にしたいという本人の説明を、公開の更新履歴が補強している。",
+  "evidence": [
+    {
+      "id": "posting-regularity",
+      "title": "頻繁に更新したい方針は、公開ブログの日付にも表れている",
+      "summary": "確認方法：公開日データの集計＋本人の説明。\n個人ブログの最初の1年（2025年10月1日〜2026年9月30日）は現行一覧で217記事・213掲載日。各月16〜21記事、掲載日の間隔の中央値は2日だった。短く頻繁に読める場にしたいという本人の説明を、公開の更新履歴が補強している。",
+      "kind": "公開発信からの解釈",
+      "strength": "高",
+      "evidence": [
+        {
+          "source_id": "blog-publication-count",
+          "note": "現行一覧全237件から対象1年を抽出。記事IDで重複除去。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/member/list?ct=39"
+        },
+        {
+          "source_id": "blog-71207",
+          "note": "個人ブログ開始1周年に更新方針を本人が説明。",
+          "source_url": "https://www.hinatazaka46.com/s/official/diary/detail/71207"
+        }
+      ],
+      "caveat": "リレーブログ時代は更新順の制約があるため単純比較しない。掲載日時は執筆時刻・送信時刻ではなく、有料トークの頻度や生活リズムも推測しない。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "blog-71207",
+      "title": "10月！個人ブログが始まってから1年らしい🎵",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/71207",
+      "date": "2026-10-01",
+      "type": "公式ブログ",
+      "summary": "個人ブログ開始から1年。短く頻繁に読める更新、出演・締切案内などの発信方針を説明。",
+      "tags": [
+        "ブログ",
+        "発信"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-publication-count",
+      "title": "公式ブログ掲載日を集計｜個人ブログ最初の1年",
+      "url": "https://www.hinatazaka46.com/s/official/diary/member/list?ct=39",
+      "date": "2026-10-03",
+      "type": "公式ブログ公開日の集計",
+      "summary": "現行一覧237件を記事IDで重複除去。2025-10-01〜2026-09-30は217記事・213掲載日。月別16〜21記事、掲載日の間隔の中央値は2日。削除済み記事は集計対象外。",
+      "tags": [
+        "更新頻度",
+        "集計"
+      ],
+      "checked_at": "2026-10-03"
+    }
+  ],
+  "limitations": [
+    "本人の公表した自己説明と分析者の解釈を区別する。私的な本心、臨床的特性、親密さや不仲の判定ではない。",
+    "各出典の公開日・確認日を保持。全ブログ本文の完全な精読、最新の全映像を視聴済みという意味ではない。",
+    "同じ公演の事前・事後記事、同じ取材の転載は独立した実証として重複計上しない。",
+    "公開写真は選定された6記事12画像の確認に限る。現在地や非公開施設の推定に用いない。",
+    "動画由来の分析は検証済み自動字幕の区間に限定し、誤認可能性を残す。",
+    "この公開文章版は公開一次資料で裏付け可能な記述を採用。限定配信のみの個別内容は含めない。"
+  ],
+  "provenance": {
+    "source_url": "https://hoshihina-editable-archive.labrat3.chatgpt.site/data/saki-public-profile.json",
+    "revision": 0,
+    "content_updated_at": null,
+    "exported_at": "2026-10-19T19:32:00+09:00"
+  },
+  "time_note": "exported_atはデータ書き出し日時。情報の対象時点は各出典のdate・checked_atと本文を参照。"
+}

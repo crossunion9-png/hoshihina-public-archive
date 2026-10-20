@@ -1,0 +1,958 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-17T19:00:00+09:00",
+  "scope": "公式ブログ ct=39 の一覧13ページと各本文を照合。2025年4月13日〜2026年10月17日の公開246記事を対象に、本文の最初の画像を全件確認しました。",
+  "method": "各canonical記事の本文内で最初に現れる画像を取得して視認し、1記事1分類で集計。ナビゲーション・広告・共通画像は除外。複数写真を並べた画像はコラージュ、受付日程などの案内を重ねた画像は告知を優先し、それ以外は主な被写体で分類。単なる文字やスタンプ装飾は被写体の分類を変えていません。月別は投稿日基準です。",
+  "limitations": [
+    "人物1人は写真の主被写体人数の分類で、顔や容姿から本人を識別したものではありません。直接の文字情報で確認できた場合のみ個別に明記しています。",
+    "背景の通行人、端に写る手、印刷パネルの人物、ぬいぐるみ・着ぐるみキャラクターは主被写体人数に含めません。顔が一部でも別人物として明確に写る場合は複数人に含めます。",
+    "コラージュは同じ人物の反復を顔で判定せず、画像全体の人数を未確定としています。",
+    "件数・割合は記事を母数とします。同じ画像が別記事に使われても各記事を1件ずつ数え、画像実体の重複はSHA-256で別途確認しています。",
+    "公式ページの公開・更新により内容が変わる場合があります。撮影日・訪問日・人物の氏名を公開日や外見から推測していません。"
+  ],
+  "overview": {
+    "total_articles": 246,
+    "reviewed_images": 246,
+    "categories": [
+      {
+        "id": "solo_person",
+        "label": "人物1人",
+        "count": 229,
+        "percent": 93.09
+      },
+      {
+        "id": "multiple_people",
+        "label": "複数の人物",
+        "count": 14,
+        "percent": 5.69
+      },
+      {
+        "id": "landscape",
+        "label": "風景",
+        "count": 0,
+        "percent": 0.0
+      },
+      {
+        "id": "food_drink",
+        "label": "食べ物・飲み物",
+        "count": 0,
+        "percent": 0.0
+      },
+      {
+        "id": "objects",
+        "label": "物",
+        "count": 0,
+        "percent": 0.0
+      },
+      {
+        "id": "announcement",
+        "label": "告知",
+        "count": 1,
+        "percent": 0.41
+      },
+      {
+        "id": "collage",
+        "label": "コラージュ",
+        "count": 2,
+        "percent": 0.81
+      },
+      {
+        "id": "other",
+        "label": "その他",
+        "count": 0,
+        "percent": 0.0
+      },
+      {
+        "id": "no_image",
+        "label": "画像なし",
+        "count": 0,
+        "percent": 0.0
+      },
+      {
+        "id": "unconfirmed",
+        "label": "未確認",
+        "count": 0,
+        "percent": 0.0
+      }
+    ],
+    "unique_first_images": 246
+  },
+  "months": [
+    {
+      "month": "2025-04",
+      "total_articles": 2,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 2
+        },
+        {
+          "id": "multiple_people",
+          "count": 0
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 0
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2025-05",
+      "total_articles": 3,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 3
+        },
+        {
+          "id": "multiple_people",
+          "count": 0
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 0
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2025-06",
+      "total_articles": 3,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 3
+        },
+        {
+          "id": "multiple_people",
+          "count": 0
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 0
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2025-07",
+      "total_articles": 3,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 3
+        },
+        {
+          "id": "multiple_people",
+          "count": 0
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 0
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2025-08",
+      "total_articles": 4,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 4
+        },
+        {
+          "id": "multiple_people",
+          "count": 0
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 0
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2025-09",
+      "total_articles": 3,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 3
+        },
+        {
+          "id": "multiple_people",
+          "count": 0
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 0
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2025-10",
+      "total_articles": 20,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 19
+        },
+        {
+          "id": "multiple_people",
+          "count": 1
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 0
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2025-11",
+      "total_articles": 21,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 19
+        },
+        {
+          "id": "multiple_people",
+          "count": 2
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 0
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2025-12",
+      "total_articles": 18,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 18
+        },
+        {
+          "id": "multiple_people",
+          "count": 0
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 0
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2026-01",
+      "total_articles": 18,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 16
+        },
+        {
+          "id": "multiple_people",
+          "count": 2
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 0
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2026-02",
+      "total_articles": 17,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 16
+        },
+        {
+          "id": "multiple_people",
+          "count": 1
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 0
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2026-03",
+      "total_articles": 16,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 15
+        },
+        {
+          "id": "multiple_people",
+          "count": 1
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 0
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2026-04",
+      "total_articles": 17,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 16
+        },
+        {
+          "id": "multiple_people",
+          "count": 1
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 0
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2026-05",
+      "total_articles": 18,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 18
+        },
+        {
+          "id": "multiple_people",
+          "count": 0
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 0
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2026-06",
+      "total_articles": 16,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 15
+        },
+        {
+          "id": "multiple_people",
+          "count": 1
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 0
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2026-07",
+      "total_articles": 19,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 18
+        },
+        {
+          "id": "multiple_people",
+          "count": 0
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 1
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2026-08",
+      "total_articles": 18,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 15
+        },
+        {
+          "id": "multiple_people",
+          "count": 2
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 1
+        },
+        {
+          "id": "collage",
+          "count": 0
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2026-09",
+      "total_articles": 19,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 16
+        },
+        {
+          "id": "multiple_people",
+          "count": 2
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 1
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "month": "2026-10",
+      "total_articles": 11,
+      "categories": [
+        {
+          "id": "solo_person",
+          "count": 10
+        },
+        {
+          "id": "multiple_people",
+          "count": 1
+        },
+        {
+          "id": "landscape",
+          "count": 0
+        },
+        {
+          "id": "food_drink",
+          "count": 0
+        },
+        {
+          "id": "objects",
+          "count": 0
+        },
+        {
+          "id": "announcement",
+          "count": 0
+        },
+        {
+          "id": "collage",
+          "count": 0
+        },
+        {
+          "id": "other",
+          "count": 0
+        },
+        {
+          "id": "no_image",
+          "count": 0
+        },
+        {
+          "id": "unconfirmed",
+          "count": 0
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.hinatazaka46.com/s/official/diary/member/list?ct=39",
+  "coverage_note": "2026年10月17日までの246記事。最新ブログ索引247記事とは確認対象が1記事異なる。10月18日記事のトップ画像は未分類としてこの母数には入れない。"
+}

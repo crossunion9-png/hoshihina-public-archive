@@ -1,0 +1,2125 @@
+{
+  "schema_version": 1,
+  "title": "片山紗希の公式動画・公式投稿目録",
+  "source_snapshot_revision": 368,
+  "records": [
+    {
+      "id": "soredemo-itsuka-mv",
+      "title": "日向坂46『それでもいつか』MUSIC VIDEO",
+      "url": "https://www.youtube.com/watch?v=uVgPrRdq4QU",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-09-28",
+      "source_date": null,
+      "category": "公式（MV）",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 279,
+      "published_at": "2026-09-27T08:00:03-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=uVgPrRdq4QU",
+        "https://www.hinatazaka46.com/s/official/news/detail/R00597?ima=0000",
+        "https://www.hinatazaka46.com/s/official/page/18th_single",
+        "https://www.hinatazaka46.com/s/official/diary/member/list?dy=20260928&ima=0000"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式公開ニュース、18thフォーメーションの本人名、本人9月28日ブログのMVリンク・撮影感想を照合。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "emergency-livestream-september",
+      "title": "【アーカイブ期限:次回のひなたフェス開催まで】日向坂46 緊急生配信",
+      "url": "https://www.youtube.com/watch?v=OAM2ulVoa4Y",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-09-06",
+      "source_date": "2026-09-06",
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "本人の9月6日・7日ブログで確認した生配信日。アーカイブ掲載日とは区別。",
+      "duration_seconds": 2954,
+      "published_at": "2026-09-06T05:29:28-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=OAM2ulVoa4Y",
+        "https://www.hinatazaka46.com/s/official/diary/detail/70887?cd=member&ima=0000",
+        "https://www.hinatazaka46.com/s/official/diary/detail/70911?cd=member&ima=0000"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "本人9月6日ブログが公式チャンネルと配信URLを案内。翌9月7日ブログが出演・披露曲・アーカイブを明記。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "ichaicha-mushi-mv",
+      "title": "日向坂46『イチャイチャ虫』MUSIC VIDEO",
+      "url": "https://www.youtube.com/watch?v=mgFUz_c4ToM",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-09-01",
+      "source_date": null,
+      "category": "公式（MV）",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 277,
+      "published_at": "2026-08-31T08:00:07-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=mgFUz_c4ToM",
+        "https://www.hinatazaka46.com/s/official/news/detail/R00575?ima=0000&link=ROBO004",
+        "https://www.hinatazaka46.com/s/official/page/18th_single",
+        "https://www.hinatazaka46.com/s/official/diary/detail/70887?cd=member&ima=0000"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式公開告知・18th特設サイトの表題曲フォーメーション・本人ブログの直接動画リンクを照合。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "volleyball-first-external-match",
+      "title": "【待望】初の対外試合で大波乱!?勝てるか？日向坂バレー部！！【部員増員しました】",
+      "url": "https://www.youtube.com/watch?v=qipTRYOqYHo",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2026-06-21",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 1596,
+      "published_at": "2026-06-20T20:00:33-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=qipTRYOqYHo",
+        "https://www.hinatazaka46.com/s/official/news/detail/O100280",
+        "https://www.hinatazaka46.com/s/official/diary/detail/69888?ima=0000&cd=member"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式ニュースで動画と公開日を確認。本人の2026年6月23日「日向坂バレー部に入部したよ」が加入と同じ動画リンクを明記。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "sanrio-puroland-with-rio",
+      "title": "【トキメキ】大好きな先輩とのサンリオピューロランドデートでかわいいが止まらない！！【グッズ購入】",
+      "url": "https://www.youtube.com/watch?v=bNTCUWPzPJE",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2026-06-15",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 1317,
+      "published_at": "2026-06-15T04:00:25-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=bNTCUWPzPJE",
+        "https://www.hinatazaka46.com/s/official/news/detail/O100279?ima=0000&link=ROBO004"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式ニュースとYouTube概要が片山紗希・清水理央の出演、撮影協力サンリオピューロランドを明記。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "kind-of-love-rehearsal",
+      "title": "日向坂46「ひなリハ」～Kind of love～",
+      "url": "https://www.youtube.com/watch?v=MITHnz-KHLM",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-05-26",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 335,
+      "published_at": "2026-05-26T06:00:05-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=MITHnz-KHLM",
+        "https://www.hinatazaka46.com/s/official/news/detail/R00550?ima=0000",
+        "https://www.hinatazaka46.com/s/official/contents/MITHnz-KHLM?ima=0000&link=ROBO004",
+        "https://www.hinatazaka46.com/s/official/diary/detail/69526?cd=member&ima=0000&link=ROBO004"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式公開ニュース、公式動画ページ、本人5月28日ブログの参加明記と動画リンクを照合。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "enshuritsu-mv",
+      "title": "日向坂46『円周率』MUSIC VIDEO",
+      "url": "https://www.youtube.com/watch?v=5lBX4kt4eUI",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-05-18",
+      "source_date": null,
+      "category": "公式（MV）",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 251,
+      "published_at": "2026-05-18T06:00:06-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=5lBX4kt4eUI",
+        "https://www.hinatazaka46.com/s/official/news/list?cd=release&ima=0000&link=ROBO009",
+        "https://www.hinatazaka46.com/s/official/page/17th_single",
+        "https://www.hinatazaka46.com/s/official/diary/member/list?cd=member&ct=39&ima=0000&link=ROBO004&page=3"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式ニュース一覧でMVの公開日を確認。17th公式特設サイトの歌唱メンバー欄に片山名があり、本人5月23日ブログが動画URLを掲載。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "shinzanmono-live-digest",
+      "title": "日向坂46 17thシングル「Kind of love」特典映像～日向坂46 五期生「新参者 二〇二五 LIVE at THEATER MILANO-Za」～ダイジェスト映像",
+      "url": "https://www.youtube.com/watch?v=TpJVbd7J2pw",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-05-12",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 174,
+      "published_at": "2026-05-12T02:00:40-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=TpJVbd7J2pw",
+        "https://www.hinatazaka46.com/s/official/contents/TpJVbd7J2pw?ima=0000",
+        "https://www.hinatazaka46.com/s/official/news/list?cd=release&ima=0000&link=ROBO009",
+        "https://www.hinatazaka46.com/s/official/page/shinzanmono2025"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式動画ページとリリースニュース一覧で同じタイトル・公開日を確認。公演公式特設サイトの出演者欄に片山名がある。特定の登場秒数は未確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "kind-of-love-mv",
+      "title": "日向坂46『Kind of love』MUSIC VIDEO",
+      "url": "https://www.youtube.com/watch?v=W5AGk8Cc7zg",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-05-06",
+      "source_date": null,
+      "category": "公式（MV）",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 332,
+      "published_at": "2026-05-06T06:00:06-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=W5AGk8Cc7zg",
+        "https://www.hinatazaka46.com/s/official/contents/W5AGk8Cc7zg?ima=0000",
+        "https://www.hinatazaka46.com/s/official/page/17th_single",
+        "https://www.hinatazaka46.com/s/official/diary/detail/69164?cd=member&ima=0000&link=ROBO004",
+        "https://www.hinatazaka46.com/s/official/diary/detail/69263"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式動画ページの動画IDと17th特設サイトの歌唱メンバーで片山紗希の参加を確認。公開日時・同一動画リンクは佐藤優羽の5月6日ブログ（69164）、片山本人の表題曲MV参加の説明は5月9日ブログ（69263）で照合。",
+        "checked_at": "2026-10-04"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "ishindenshin-game",
+      "title": "【以心伝心ゲーム】同期なら一致させて当たり前！ご褒美を賭けた究極の心理戦！【楽屋シリーズ】",
+      "url": "https://www.youtube.com/watch?v=qsr3UmhE3-E",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2026-05-02",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 1506,
+      "published_at": "2026-05-02T05:01:29-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=qsr3UmhE3-E",
+        "https://www.hinatazaka46.com/s/official/contents_list?cd=132&ima=0000&link=ROBO004&page=1"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "YouTube公式チャンネルの概要に出演者5名のハッシュタグがあり、本人名を含む。公式サイトの動画一覧にも同じタイトルが掲載。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "voice-pv-preview",
+      "title": "日向坂46 片山紗希『Voice まだ名前のない声』",
+      "url": "https://www.youtube.com/watch?v=tLcx7Lh9ASc",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-04-27",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 112,
+      "published_at": "2026-04-27T02:01:32-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=tLcx7Lh9ASc",
+        "https://www.hinatazaka46.com/s/official/contents/tLcx7Lh9ASc?ima=0000&link=ROBO004",
+        "https://www.hinatazaka46.com/s/official/diary/member/list?ct=39&dy=20260428&ima=0000&link=ROBO004"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "YouTube公式チャンネル結果と公式動画ページで本人名・タイトル・予告編であることを確認。本人4月28日ブログでも照合。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "sukininaru-crescendo-katayama-short",
+      "title": "日向坂46『好きになるクレッシェンド』#片山紗希 #日向坂46_好きになるクレッシェンド",
+      "url": "https://www.youtube.com/shorts/uqPjFrxllDY",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-02-08",
+      "source_date": null,
+      "category": "公式（short）",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 34,
+      "published_at": "2026-02-08T03:30:46-08:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=uqPjFrxllDY"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "YouTube検索結果の動画タイトル、公式チャンネル名、公開日を確認。タイトルに本人名が明記。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "sukininaru-crescendo-mv",
+      "title": "日向坂46『好きになるクレッシェンド』MUSIC VIDEO",
+      "url": "https://www.youtube.com/watch?v=MlNNxI0MNDI",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-01-26",
+      "source_date": null,
+      "category": "公式（MV）",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 268,
+      "published_at": "2026-01-25T07:00:41-08:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=MlNNxI0MNDI",
+        "https://www.hinatazaka46.com/s/official/news/detail/R00505",
+        "https://www.hinatazaka46.com/s/official/page/16th_single",
+        "https://www.hinatazaka46.com/s/official/diary/member/list?cd=member&ct=45&ima=0000&link=ROBO004&page=5"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式ニュースで公開日を確認。16th特設サイトのセンター配置と、鶴崎仁香の公式ブログによるセンター明記を照合。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "kimi-to-ikiru-mv",
+      "title": "日向坂46『君と生きる』MUSIC VIDEO",
+      "url": "https://www.youtube.com/watch?v=2WEOnuwvoXE",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-01-15",
+      "source_date": null,
+      "category": "公式（MV）",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 251,
+      "published_at": "2026-01-14T07:00:05-08:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=2WEOnuwvoXE",
+        "https://www.hinatazaka46.com/s/official/news/detail/R00495?ima=0000",
+        "https://www.hinatazaka46.com/s/official/page/16th_single",
+        "https://www.hinatazaka46.com/s/official/diary/member/list?dy=20260115&ima=0000&link=ROBO004"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式ニュースのiframe先が2WEOnuwvoXE。16th公式特設サイトのフォーメーションに片山名があり、本人ブログにも撮影の言及。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "shinzanmono-double-show-backstage",
+      "title": "【新参者】初の1日2公演！日向坂五期生の奮闘劇をお届けします【好きを超えろ】",
+      "url": "https://www.youtube.com/watch?v=6EvLm3VcDzU",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2025-11-25",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 1314,
+      "published_at": "2025-11-25T04:00:22-08:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=6EvLm3VcDzU",
+        "https://www.hinatazaka46.com/s/official/contents/6EvLm3VcDzU?ima=0000&link=ROBO004",
+        "https://www.hinatazaka46.com/s/official/news/list?dy=202511&ima=0000&link=ROBO004",
+        "https://www.hinatazaka46.com/s/official/diary/member/list?dy=20251126&ima=0000&link=ROBO004"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式動画ページと11月ニュース一覧でタイトル・公開日を確認。本人の11月26日ブログが前日公開の当該密着を紹介。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "soratobu-kuruma-mv",
+      "title": "日向坂46『空飛ぶ車』MUSIC VIDEO",
+      "url": "https://www.youtube.com/watch?v=YyGPXrzvfYk",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2025-09-08",
+      "source_date": null,
+      "category": "公式（MV）",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 302,
+      "published_at": "2025-09-08T05:01:08-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=YyGPXrzvfYk",
+        "https://www.hinatazaka46.com/s/official/news/detail/R00463",
+        "https://www.hinatazaka46.com/s/official/contents/YyGPXrzvfYk?ima=0000",
+        "https://www.hinatazaka46.com/s/official/diary/detail/65660"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式ニュースと公式動画ページで公開日・動画IDを照合。片山本人ブログに五期生参加曲としての言及あり。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "kawaii-mashimashi-pv-preview",
+      "title": "日向坂46 片山紗希『カワイイマシマシアザトコイメ』",
+      "url": "https://www.youtube.com/watch?v=kaqqrw0ijEo",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2025-09-05",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 98,
+      "published_at": "2025-09-04T20:01:11-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=kaqqrw0ijEo",
+        "https://www.hinatazaka46.com/s/official/news/detail/M02513?ima=0000",
+        "https://www.hinatazaka46.com/s/official/contents/kaqqrw0ijEo?ima=0000&link=ROBO004",
+        "https://www.hinatazaka46.com/s/official/diary/detail/65660"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式ニュースと公式動画ページが本人名・タイトルを掲載。本人ブログでもYouTube版が予告編であると明記。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "documentary-omotenashi",
+      "title": "日向坂46「五期生ドキュメンタリー」〜おもてなし会への道のり〜",
+      "url": "https://www.youtube.com/watch?v=CiA5Qv2qYsA",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2025-06-16",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 2110,
+      "published_at": "2025-06-15T19:59:59-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=CiA5Qv2qYsA",
+        "https://www.hinatazaka46.com/s/official/news/detail/O100180",
+        "https://www.hinatazaka46.com/s/official/diary/detail/60829"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式ニュースのリンク先動画IDを確認。本人6月22日ブログが同じ映像と自分たちの歩みを紹介。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "katayama-relay-livestream",
+      "title": "【アーカイブ】日向坂46五期生・片山紗希【リレー生配信9人目】",
+      "url": "https://www.youtube.com/watch?v=YZlwURgNNZY",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2025-06-14",
+      "source_date": "2025-06-14",
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "YouTube視聴ページの展開した概要に「2025/06/14 にライブ配信」と表示。",
+      "duration_seconds": 1795,
+      "published_at": "2025-06-14T05:33:30-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=YZlwURgNNZY",
+        "https://www.hinatazaka46.com/s/official/media/detail/10384?ima=0000",
+        "https://www.hinatazaka46.com/s/official/diary/detail/60829"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式スケジュールが本人名・配信日時・動画URLを明記。本人ブログにアーカイブへのリンクあり。 00:18〜00:43、05:18〜05:36、19:16〜19:44の発言内容を画面内自動字幕で確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "自動字幕の3区間を確認。全編未確認。saki-public-video-analysis.json参照。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "hirao-catering-fifth-gen",
+      "title": "【BRAND NEW LIVE】日向坂46五期生に差し入れしてみた！【出張！平尾食堂】",
+      "url": "https://www.youtube.com/watch?v=dHniiKkgPk8",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2025-06-04",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 1105,
+      "published_at": "2025-06-04T04:01:09-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=dHniiKkgPk8",
+        "https://www.hinatazaka46.com/s/official/news/detail/O100178",
+        "https://www.hinatazaka46.com/s/official/diary/detail/60526"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式ニュースが動画リンクと概要を掲載。本人の6月12日ブログが出演とリンクを明記。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "german-iris-mv",
+      "title": "日向坂46『ジャーマンアイリス』MUSIC VIDEO",
+      "url": "https://www.youtube.com/watch?v=F-16wnHQLLw",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2025-05-15",
+      "source_date": null,
+      "category": "公式（MV）",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 262,
+      "published_at": "2025-05-15T06:00:07-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=F-16wnHQLLw",
+        "https://www.hinatazaka46.com/s/official/news/detail/R00413",
+        "https://www.hinatazaka46.com/s/official/diary/detail/60209"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式公開告知で公開日時を確認。片山本人の2025年5月23日ブログに参加位置と撮影の説明、同じ動画リンクがある。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "documentary-sixth-anniversary",
+      "title": "日向坂46「五期生ドキュメンタリー」〜6回目のひな誕祭への道のり〜",
+      "url": "https://www.youtube.com/watch?v=OX49NzoSKJY",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2025-04-12",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 1371,
+      "published_at": "2025-04-11T20:00:23-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=OX49NzoSKJY",
+        "https://www.hinatazaka46.com/s/official/news/list?cd=other&dy=2025&ima=0000",
+        "https://www.hinatazaka46.com/s/official/news/detail/O100180",
+        "https://www.hinatazaka46.com/s/official/diary/member/list?cd=member&ima=0000&link=ROBO004&page=133"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式ニュース一覧で公開日、公式ニュース記事でリンクを確認。五期生公式ブログは片山にダンスを教わる場面にも言及。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "katayama-introduction",
+      "title": "日向坂46 五期生 「はじめまして、片山 紗希です。」",
+      "url": "https://www.youtube.com/watch?v=WQuKs-yYWaI",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2025-03-16",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "元の収録日・放送日は未確認。",
+      "duration_seconds": 45,
+      "published_at": "2025-03-15T20:00:34-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=WQuKs-yYWaI",
+        "https://www.hinatazaka46.com/s/official/page/5th_generation",
+        "https://nogi46p.com/article/209141"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式お披露目特設サイトの本人名の欄とYouTube動画IDをHTMLで照合。公開日は同日の紹介記事で補足。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "x-relay-katayama-recap",
+      "title": "公式X｜片山紗希リレー配信と46秒紹介の案内",
+      "url": "https://x.com/hinatazaka46/status/1933868823595397608",
+      "platform": "x",
+      "publisher": "日向坂46（@hinatazaka46）",
+      "publication_kind": "official",
+      "upload_date": "2025-06-14",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "related_post",
+      "source_date_note": "撮影・収録日は未確認。",
+      "source_urls": [
+        "https://x.com/hinatazaka46/status/1933868823595397608",
+        "https://www.hinatazaka46.com/s/official/media/detail/10384?ima=0000"
+      ],
+      "appearance_confirmation": {
+        "level": "official_post",
+        "basis": "認証済み @hinatazaka46、本人名、2025年6月14日の表示、46秒紹介 oJzNOwI1pvI と配信 YZlwURgNNZY のリンクを直接確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "x-crescendo-million-message",
+      "title": "公式X｜好きになるクレッシェンド100万回へのメッセージ",
+      "url": "https://x.com/hinatazaka46/status/2021120757942874379",
+      "platform": "x",
+      "publisher": "日向坂46（@hinatazaka46）",
+      "publication_kind": "official",
+      "upload_date": null,
+      "source_date": null,
+      "category": "公式",
+      "record_type": "related_post",
+      "source_date_note": "撮影・収録日は未確認。",
+      "source_urls": [
+        "https://x.com/hinatazaka46/status/2021120757942874379"
+      ],
+      "appearance_confirmation": {
+        "level": "official_post",
+        "basis": "Xの公開ページで認証済み公式アカウント、by 片山紗希、2点の写真リンク、MVリンクを直接確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "x-voice-pv-preview-announcement",
+      "title": "公式X｜Voice まだ名前のない声 予告編公開",
+      "url": "https://x.com/hinatazaka46/status/2048689295318516221",
+      "platform": "x",
+      "publisher": "日向坂46（@hinatazaka46）",
+      "publication_kind": "official",
+      "upload_date": "2026-04-27",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "related_post",
+      "source_date_note": "撮影・収録日は未確認。",
+      "source_urls": [
+        "https://x.com/hinatazaka46/status/2048689295318516221",
+        "https://www.hinatazaka46.com/s/official/contents/tLcx7Lh9ASc?ima=0000&link=ROBO004"
+      ],
+      "appearance_confirmation": {
+        "level": "official_post",
+        "basis": "公式X本文で本人名・予告編タイトル・同じYouTube ID・4月27日の投稿表示を確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "x-ishindenshin-game-announcement",
+      "title": "公式X｜五期生の以心伝心ゲーム公開",
+      "url": "https://x.com/hinatazaka46/status/2050546324979007852",
+      "platform": "x",
+      "publisher": "日向坂46（@hinatazaka46）",
+      "publication_kind": "official",
+      "upload_date": "2026-05-02",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "related_post",
+      "source_date_note": "撮影・収録日は未確認。",
+      "source_urls": [
+        "https://x.com/hinatazaka46/status/2050546324979007852"
+      ],
+      "appearance_confirmation": {
+        "level": "official_post",
+        "basis": "X投稿の公式認証、タイトル、qsr3UmhE3-Eへのリンク、5月2日の表示を直接確認。出演者はYouTube公式概要に片山紗希の名前を含む。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "x-volleyball-first-match-announcement",
+      "title": "公式X｜日向坂バレー部・初の対外試合",
+      "url": "https://x.com/hinatazaka46/status/2068529617246519619",
+      "platform": "x",
+      "publisher": "日向坂46（@hinatazaka46）",
+      "publication_kind": "official",
+      "upload_date": "2026-06-21",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "related_post",
+      "source_date_note": "撮影・収録日は未確認。",
+      "source_urls": [
+        "https://x.com/hinatazaka46/status/2068529617246519619",
+        "https://www.hinatazaka46.com/s/official/news/detail/O100280",
+        "https://www.hinatazaka46.com/s/official/diary/detail/69888?ima=0000&cd=member"
+      ],
+      "appearance_confirmation": {
+        "level": "official_post",
+        "basis": "X投稿で公式アカウント、動画タイトル、qipTRYOqYHoへのリンクを確認。公式ニュースの2026-06-21公開日と本人の入部ブログを照合。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "x-tereto-music-fifth-gen",
+      "title": "公式X｜テレ東音楽祭2026初夏・五期生出演後の動画",
+      "url": "https://x.com/hinatazaka46/status/2071146331717149024",
+      "platform": "x",
+      "publisher": "@hinatazaka46",
+      "publication_kind": "official",
+      "upload_date": null,
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "撮影日・元番組の放送日は未確認。",
+      "duration_seconds": 15.696688,
+      "source_urls": [
+        "https://x.com/hinatazaka46/status/2071146331717149024"
+      ],
+      "appearance_confirmation": {
+        "level": "一部映像と投稿本文",
+        "basis": "公式本文に五期生出演。公式スケジュール・本人ブログで同日の出演を照合済み。サムネイルに五期生集合映像が表示。本人の位置特定は未実施。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "katayama-46-second-introduction",
+      "title": "【#46秒リレー紹介 】片山紗希編 #shorts #日向坂46 #日向坂ちゃんねる  #片山紗希 #高井俐香  #五期生リレー生配信 #日向坂五期生 #46秒リレー紹介",
+      "url": "https://www.youtube.com/shorts/oJzNOwI1pvI",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2025-06-14",
+      "source_date": null,
+      "category": "公式（short）",
+      "record_type": "video",
+      "source_date_note": "紹介ショートの撮影日・収録日は未確認。生配信本編の日付と同じとは扱っていません。",
+      "duration_seconds": 48,
+      "published_at": "2025-06-14T05:39:51-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://youtube.com/shorts/oJzNOwI1pvI",
+        "https://x.com/hinatazaka46/status/1933868823595397608"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式Xに本人名付きタイトルとyoutube.com/shorts/oJzNOwI1pvIへのリンクがある。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-lqvmiybhtf0",
+      "title": "Setlogでイチャイチャ虫❤️☺️#日向坂46_イチャイチャ虫 #日向坂46#森本茉莉 #片山紗希",
+      "url": "https://www.youtube.com/shorts/lQVMiYbhtF0",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-10-02",
+      "source_date": null,
+      "category": "公式（short）",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 15,
+      "published_at": "2026-10-02T05:30:03-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=lQVMiYbhtF0",
+        "https://www.youtube.com/@46officialyoutubechannel99/shorts",
+        "https://kasumizaka46.com/hinata/youtube/videos"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式Shorts一覧のタイトルが森本茉莉・片山紗希を明記。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-loo_1qjst2s",
+      "title": "#イチャイチャカメラロール で#片山紗希 &#佐藤優羽 を覗き見👀❤️#日向坂46_イチャイチャ虫 #日向坂46",
+      "url": "https://www.youtube.com/shorts/LOO_1QJST2s",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-10-01",
+      "source_date": null,
+      "category": "公式（short）",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 19,
+      "published_at": "2026-10-01T03:00:10-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=LOO_1QJST2s",
+        "https://www.youtube.com/@46officialyoutubechannel99/shorts",
+        "https://kasumizaka46.com/hinata/youtube/videos"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "YouTube本体で公式アーティストチャンネル、タイトル、公開日2026/10/01、19秒、公式Shortsタブの同IDを確認。 公開メタ日時・尺を最終値として採用。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-qgabh2hboai",
+      "title": "#日向坂46_イチャイチャ虫#大野愛実 #片山紗希 ver.❤️#日向坂46",
+      "url": "https://www.youtube.com/shorts/QgABh2HbOaI",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-09-14",
+      "source_date": null,
+      "category": "公式（short）",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 24,
+      "published_at": "2026-09-14T05:16:49-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=QgABh2HbOaI",
+        "https://www.youtube.com/@46officialyoutubechannel99/shorts",
+        "https://kasumizaka46.com/hinata/youtube/videos"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式Shorts一覧で大野愛実・片山紗希のペア動画として掲載。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-hbd-qwgcc_e",
+      "title": "7回目のひな誕祭 BD&DVD発売記念#片山紗希  ライブソロカットを公開🐰 #日向坂46 #hinatazaka46 # #七回目のひな誕祭",
+      "url": "https://www.youtube.com/shorts/Hbd-Qwgcc_E",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-08-06",
+      "source_date": null,
+      "category": "公式（short）",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 40,
+      "published_at": "2026-08-06T07:30:00-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=Hbd-Qwgcc_E",
+        "https://www.youtube.com/@46officialyoutubechannel99/shorts",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=4"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式Shorts一覧で「片山紗希 ライブソロカット」と明示。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-stv0peb4kgs",
+      "title": "褒められる(?)キャプテン🌈 #shorts #日向坂46 #日向坂ちゃんねる #清水理央 #片山紗希",
+      "url": "https://www.youtube.com/shorts/sTV0pEB4kGs",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2026-06-23",
+      "source_date": null,
+      "category": "公式（short）",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 51,
+      "published_at": "2026-06-23T03:00:01-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=sTV0pEB4kGs",
+        "https://www.youtube.com/@hinatazakachannel/shorts",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=5"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "日向坂ちゃんねるの公式Shorts一覧が清水理央・片山紗希を明記。検索カードの尺51秒。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-eo92rkg_xk0",
+      "title": "日向坂46『Kind of love』#片山紗希  #日向坂46_Kindoflove",
+      "url": "https://www.youtube.com/shorts/eO92rKg_XK0",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-05-18",
+      "source_date": null,
+      "category": "公式（short）",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 38,
+      "published_at": "2026-05-18T02:01:17-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=eO92rKg_XK0",
+        "https://www.youtube.com/@46officialyoutubechannel99/shorts",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=6"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式Shorts一覧で本人単独名を明示。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-hxxdeavv76o",
+      "title": "日向坂46『Kind of love』#片山紗希 #松尾桜 #日向坂46_Kindoflove",
+      "url": "https://www.youtube.com/shorts/hxXDeAvv76o",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-05-13",
+      "source_date": null,
+      "category": "公式（short）",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 39,
+      "published_at": "2026-05-13T04:02:00-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=hxXDeAvv76o",
+        "https://www.youtube.com/@46officialyoutubechannel99/shorts",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=6"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式Shorts一覧が片山紗希・松尾桜を明示。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-2a90lxe5lv4",
+      "title": "無敵の片山🐰🍋 #shorts #日向坂46 #日向坂ちゃんねる",
+      "url": "https://www.youtube.com/shorts/2A90lxE5lV4",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2026-05-10",
+      "source_date": null,
+      "category": "公式（short）",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 69,
+      "published_at": "2026-05-09T21:00:02-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=2A90lxE5lV4",
+        "https://www.youtube.com/@hinatazakachannel/shorts",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=6"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "日向坂ちゃんねるのShorts一覧・チャンネル内検索で「無敵の片山」を確認。検索カードの尺1分9秒。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-4c6p6sb-m6o",
+      "title": "カタヤマズスペシャル✨ #shorts #日向坂46 #日向坂ちゃんねる #片山紗希  #コストコ",
+      "url": "https://www.youtube.com/shorts/4c6P6SB-M6o",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2025-11-06",
+      "source_date": null,
+      "category": "公式（short）",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 52,
+      "published_at": "2025-11-05T22:00:09-08:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=4c6P6SB-M6o",
+        "https://www.youtube.com/@hinatazakachannel/shorts",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=12"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "日向坂ちゃんねるのShorts一覧が片山紗希・コストコを明記。検索カードの尺52秒。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-qxet6dnrk80",
+      "title": "【切り抜き】片山 紗希、こんなことしてました【五期生リレー生配信】#shorts  #片山 紗希 #日向坂ちゃんねる #日向坂46",
+      "url": "https://www.youtube.com/shorts/qXet6DNRk80",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2025-06-24",
+      "source_date": null,
+      "category": "公式（short）",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 42,
+      "published_at": "2025-06-23T23:00:40-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=qXet6DNRk80",
+        "https://www.youtube.com/@hinatazakachannel/shorts",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=15"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "日向坂ちゃんねるの公式Shorts一覧・詳細ページを確認。「切り抜き」と題されるが投稿者は公式。 公開メタ日時・尺を最終値として採用。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-uz7_154eviq",
+      "title": "【#46秒リレー紹介 】佐藤優羽編 #shorts #日向坂46 #日向坂ちゃんねる #佐藤優羽  #片山紗希   #五期生リレー生配信 #日向坂五期生 #46秒リレー紹介",
+      "url": "https://www.youtube.com/shorts/UZ7_154eVIQ",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2025-06-13",
+      "source_date": null,
+      "category": "公式（short）",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 48,
+      "published_at": "2025-06-13T05:35:08-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=UZ7_154eVIQ",
+        "https://www.youtube.com/@hinatazakachannel/shorts",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=16"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式Shorts一覧が佐藤優羽・片山紗希を明記。本人の画面内登場位置は未確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-i2uawspru3o",
+      "title": "【コストコ】購入品紹介！◯◯を使った絶品アレンジレシピ✨【美味しさマシマシ🐰】",
+      "url": "https://www.youtube.com/watch?v=i2uAwSPru3o",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2025-10-27",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 1247,
+      "published_at": "2025-10-27T04:01:18-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=i2uAwSPru3o",
+        "https://www.hinatazaka46.com/s/official/news/detail/O100222",
+        "https://www.hinatazaka46.com/s/official/diary/detail/66377",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=12"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式ニュースO100222が本人の購入品紹介を明記。本人ブログ66377でも出演・料理作りを報告。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-l62qu0jg8lk",
+      "title": "【まだまだあるよ！ひなたの冬休み】五期生の年末年始を自由に撮ってもらいました！【2026年ver】",
+      "url": "https://www.youtube.com/watch?v=L62qu0jg8lk",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2026-01-24",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 1403,
+      "published_at": "2026-01-24T03:00:36-08:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=L62qu0jg8lk",
+        "https://www.hinatazaka46.com/s/official/diary/detail/67659",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=10"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "本人ブログ67659が自身を含む出演5名と初日の出の場面を明記。前編xwLxNarbuzkとは別動画。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-kgkgdjznnau",
+      "title": "【ほっこり】五期生LIVEにメンバーカメラが潜入！表も裏も全部見せます！【4K画質】",
+      "url": "https://www.youtube.com/watch?v=KGkGDjzNNAU",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2026-07-26",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 1356,
+      "published_at": "2026-07-26T05:00:06-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=KGkGDjzNNAU",
+        "https://www.hinatazaka46.com/s/official/diary/detail/70355",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=5"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "本人ブログ70355が同動画を直接リンクし、映像中の自身の早口・声の高さについて振り返っている。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-vxb9-ag2lwu",
+      "title": "【メンバー目線カメラ】山口陽世が16th Single ひなた坂46LIVEでカメラ回してみた！",
+      "url": "https://www.youtube.com/watch?v=vxB9-AG2LwU",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2026-02-28",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 1589,
+      "published_at": "2026-02-28T05:01:41-08:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=vxB9-AG2LwU",
+        "https://www.hinatazaka46.com/s/official/diary/detail/68124",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=8"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "本人ブログ68124が冒頭に自分が映ると明記し、髪で顔を隠した理由を説明。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-wa_lovpt5c4",
+      "title": "【コール動画】どんどんどんどん声出せ〜！これを観て日向坂46をもっと好きになる🏟️🩵【好きになるクレッシェンド】",
+      "url": "https://www.youtube.com/watch?v=wA_lovpT5C4",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2026-03-21",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 251,
+      "published_at": "2026-03-21T03:01:30-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=wA_lovpT5C4",
+        "https://www.hinatazaka46.com/s/official/diary/detail/68485",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=8"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式YouTube概要が五期生による実演と明記。本人ブログ68485で同動画を案内。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-l5npgfes-3e",
+      "title": "【アーカイブ】夏休み特別企画！日向坂46と過ごす大納涼会！【全員集合】",
+      "url": "https://www.youtube.com/watch?v=l5nPGFeS-3E",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2026-07-27",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 7655,
+      "published_at": "2026-07-27T05:00:19-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=l5nPGFeS-3E",
+        "https://www.hinatazaka46.com/s/official/diary/detail/70355",
+        "https://www.hinatazaka46.com/s/official/diary/detail/70404",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=4"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式チャンネルのアーカイブとして公開。本人ブログ70355で全員集合配信として参加を案内、70404で終了後の礼を記載。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-36ecj35zv-0",
+      "title": "【アーカイブ】へいらっしゃい！みく寿司開店🍣〜ひなたフェス2026 公式パンフレットの中身大発表生配信〜",
+      "url": "https://www.youtube.com/watch?v=36EcJ35Zv-0",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2026-07-19",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 5536,
+      "published_at": "2026-07-19T06:32:50-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=36EcJ35Zv-0",
+        "https://www.hinatazaka46.com/s/official/diary/detail/70230",
+        "https://www.hinatazaka46.com/s/official/diary/detail/70246",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=5"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "本人ブログ70230・70246でみく寿司配信への出演を案内。公式チャンネル検索にも該当動画を確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-ys4zcd_gpkk",
+      "title": "【完全密着】7回目のひな誕祭、晴れの日も雨の日も丸ごとお届けします！",
+      "url": "https://www.youtube.com/watch?v=yS4zcD_gPKk",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2026-04-21",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 2176,
+      "published_at": "2026-04-21T04:01:42-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=yS4zcD_gPKk",
+        "https://www.hinatazaka46.com/s/official/diary/member/list?cd=member&dy=2011231&ima=0000&link=ROBO004&page=38",
+        "https://www.hinatazaka46.com/s/official/diary/detail/68863",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=7"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式ブログで「メンバー全員登場回」と明記。本人も同公演への参加を自身のブログ68863に記録。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-hc19huwgkti",
+      "title": "【全メンバー大集合☀️】食欲の秋！手打蕎麦このか開店！【YouTubeおちゃのまスペシャル】",
+      "url": "https://www.youtube.com/watch?v=Hc19hUwgkTI",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2025-11-05",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 8783,
+      "published_at": "2025-11-05T04:00:07-08:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=Hc19hUwgkTI",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=12"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式YouTube説明欄の出演チャプターが01:06開始の1組目に片山紗希を明記。次の2組目は36:28。公開日2025/11/05、尺2:26:23を直接確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-xd0razz2bce",
+      "title": "【ガチ検証】日向坂でわらしべ長者やってみたら、最終的に何に変わる？",
+      "url": "https://www.youtube.com/watch?v=XD0RAZz2BcE",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2026-02-10",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 2049,
+      "published_at": "2026-02-10T05:01:05-08:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=XD0RAZz2BcE",
+        "https://www.hinatazaka46.com/s/official/page/16th_single",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=8"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式YouTube概要が16thひなた坂46メンバー14名の企画と明記。公式16th特設サイトの同メンバー欄に片山紗希を確認。公開日2026/02/10、尺34:08をYouTube画面で確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-npqbd4tgzoo",
+      "title": "【コール動画】アリーナツアー2025、おひさま盛り上がっていくぞ〜！🎤【愛はこっちのものだ 2025】",
+      "url": "https://www.youtube.com/watch?v=nPqbd4Tgzoo",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2025-09-18",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 249,
+      "published_at": "2025-09-18T03:01:33-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=nPqbd4Tgzoo",
+        "https://www.hinatazaka46.com/s/official/diary/detail/65793",
+        "https://hinatazaka46.u-ff.com/y-hinatazakachannel2025/",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=13"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式動画概要の出演6名に片山紗希。本人ブログ65793でも同コール動画を案内。 公開ページのog:descriptionでも本人名を直接確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-o3jt_42trha",
+      "title": "【鬼ミッションも余裕？】五期生冠番組発表会見に潜入したのワシやないかい！【日向坂になりましょう】",
+      "url": "https://www.youtube.com/watch?v=O3jt_42tRHA",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2025-08-11",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 1009,
+      "published_at": "2025-08-11T04:00:49-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=O3jt_42tRHA",
+        "https://www.hinatazaka46.com/s/official/news/detail/O100200",
+        "https://www.hinatazaka46.com/s/official/diary/detail/61082",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=14"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "公式ニュースO100200が五期生の冠番組リニューアル発表会見への密着と明記。本人ブログ61082で同会見への参加を記述。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-ovuxhtklyus",
+      "title": "【謹賀新年】メンバーそれぞれの2026年の抱負を発表します🐴",
+      "url": "https://www.youtube.com/watch?v=oVUXhTkLYus",
+      "platform": "youtube",
+      "publisher": "日向坂ちゃんねる",
+      "publication_kind": "official",
+      "upload_date": "2026-01-03",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "撮影日・元放送日は未確認。",
+      "duration_seconds": 849,
+      "published_at": "2026-01-03T03:01:27-08:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=oVUXhTkLYus",
+        "https://www.hinatazaka46.com/s/official/diary/member/list?ct=28&dy=202601&ima=0000&link=ROBO004",
+        "https://kasumizaka46.com/hinata/youtube/videos?page=11"
+      ],
+      "appearance_confirmation": {
+        "level": "official_metadata",
+        "basis": "清水理央の2026年1月5日公式ブログが、メンバー全員がそれぞれ抱負を発表する動画と明記。YouTube公開metaのタイトル・概要・尺14:09を照合。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube--6rze_cg0gc",
+      "title": "【無料独占公開】日向坂になりましょう -五期生成長バラエティ- #0",
+      "url": "https://www.youtube.com/watch?v=-6rze_Cg0gc",
+      "platform": "youtube",
+      "publisher": "Lemino",
+      "publication_kind": "official",
+      "upload_date": "2025-07-07",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "番組本編の配信日とYouTube冒頭先行公開日を混同しない。元の収録日は未確認。",
+      "duration_seconds": 907,
+      "published_at": "2025-07-06T20:00:00-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=-6rze_Cg0gc",
+        "https://lemino.docomo.ne.jp/leminonews/articles/1074585684871741440"
+      ],
+      "appearance_confirmation": {
+        "level": "official_episode_cast",
+        "basis": "番組リニューアル発表会見に片山紗希を含む五期生10人が登壇。本人ブログでも会見特別編の無料公開を案内。 当該会見への本人登壇を公式資料で確認。公開動画内の登場位置は未確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "元番組回の出演は公式記事で確認。リンク先の無料予告・先行部分に本人が映るかは未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-20g5zubyvui",
+      "title": "【五期生の魅力を届けましょう！！】日向坂になりましょう -五期生成長バラエティ- #1 冒頭先行公開",
+      "url": "https://www.youtube.com/watch?v=20G5ZUBYvuI",
+      "platform": "youtube",
+      "publisher": "Lemino",
+      "publication_kind": "official",
+      "upload_date": "2025-07-07",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "番組本編の配信日とYouTube冒頭先行公開日を混同しない。元の収録日は未確認。",
+      "duration_seconds": 619,
+      "published_at": "2025-07-06T20:01:12-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=20G5ZUBYvuI",
+        "https://www.hinatazaka46.com/s/official/diary/detail/61082"
+      ],
+      "appearance_confirmation": {
+        "level": "official_episode_cast",
+        "basis": "本人の公式ブログが第1話と当該YouTube冒頭先行URLを直接案内。 当該回の出演を公式資料で確認、プレビュー内の登場位置は未確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "元番組回の出演は公式記事で確認。リンク先の無料予告・先行部分に本人が映るかは未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-ojqgpos3pdq",
+      "title": "【五期生の魅力を届けましょう！！後半戦】日向坂になりましょう -五期生成長バラエティ-#2　冒頭先行公開",
+      "url": "https://www.youtube.com/watch?v=ojqGPOs3pDQ",
+      "platform": "youtube",
+      "publisher": "Lemino",
+      "publication_kind": "official",
+      "upload_date": "2025-07-21",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "番組本編の配信日とYouTube冒頭先行公開日を混同しない。元の収録日は未確認。",
+      "duration_seconds": 571,
+      "published_at": "2025-07-20T20:00:53-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=ojqGPOs3pDQ",
+        "https://lemino.docomo.ne.jp/leminonews/articles/1079385463623516162"
+      ],
+      "appearance_confirmation": {
+        "level": "official_episode_cast",
+        "basis": "Lemino公式記事で第2回の自己紹介後編に片山が登場し、直角好きやマラカスの特技を披露したことを確認。 当該回の出演を公式資料で確認、プレビュー内の登場位置は未確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "元番組回の出演は公式記事で確認。リンク先の無料予告・先行部分に本人が映るかは未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-pexhz3bfve4",
+      "title": "【持ちネタ開発で武装しよう！】日向坂になりましょう-五期生成長バラエティ-#5 冒頭先行公開",
+      "url": "https://www.youtube.com/watch?v=PeXhz3bfve4",
+      "platform": "youtube",
+      "publisher": "Lemino",
+      "publication_kind": "official",
+      "upload_date": "2025-09-01",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "番組本編の配信日とYouTube冒頭先行公開日を混同しない。元の収録日は未確認。",
+      "duration_seconds": 599,
+      "published_at": "2025-09-01T02:00:44-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=PeXhz3bfve4",
+        "https://lemino.docomo.ne.jp/leminonews/articles/1093509249734017026",
+        "https://x.com/Lemino_official/status/1962447846432481438"
+      ],
+      "appearance_confirmation": {
+        "level": "official_episode_cast",
+        "basis": "Lemino公式記事で第5回の出演者を大田美月・片山紗希・坂井新奈・高井俐香と明記。 当該回の出演を公式資料で確認、プレビュー内の登場位置は未確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "元番組回の出演は公式記事で確認。リンク先の無料予告・先行部分に本人が映るかは未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-z1hqycixywc",
+      "title": "【リアクション力を強制的に引き上げましょう！】日向坂になりましょう-五期生成長バラエティ-#8 冒頭先行公開",
+      "url": "https://www.youtube.com/watch?v=Z1hqYcIXywc",
+      "platform": "youtube",
+      "publisher": "Lemino",
+      "publication_kind": "official",
+      "upload_date": "2025-10-13",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "番組本編の配信日とYouTube冒頭先行公開日を混同しない。元の収録日は未確認。",
+      "duration_seconds": 587,
+      "published_at": "2025-10-13T02:00:48-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=Z1hqYcIXywc",
+        "https://lemino.docomo.ne.jp/leminonews/articles/1109385572050272257"
+      ],
+      "appearance_confirmation": {
+        "level": "official_episode_cast",
+        "basis": "Lemino公式記事で第8回の出演者を大野愛実・片山紗希・高井俐香・松尾桜と明記。 当該回の出演を公式資料で確認、プレビュー内の登場位置は未確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "元番組回の出演は公式記事で確認。リンク先の無料予告・先行部分に本人が映るかは未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-d5-aqin_d4w",
+      "title": "【ボイトレで歌唱力を強化しましょう！】日向坂になりましょう-五期生成長バラエティ-#9 冒頭先行公開",
+      "url": "https://www.youtube.com/watch?v=D5-AQin_d4w",
+      "platform": "youtube",
+      "publisher": "Lemino",
+      "publication_kind": "official",
+      "upload_date": "2025-10-27",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "番組本編の配信日とYouTube冒頭先行公開日を混同しない。元の収録日は未確認。",
+      "duration_seconds": 588,
+      "published_at": "2025-10-27T02:00:17-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=D5-AQin_d4w",
+        "https://lemino.docomo.ne.jp/leminonews/articles/1118012927501139969",
+        "https://x.com/Lemino_official/status/1982741560883138917"
+      ],
+      "appearance_confirmation": {
+        "level": "official_episode_cast",
+        "basis": "Lemino公式記事で第9話の歌唱参加者を片山紗希・蔵盛妃那乃・下田衣珠季・高井俐香と明記。 当該回の出演を公式資料で確認、プレビュー内の登場位置は未確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "元番組回の出演は公式記事で確認。リンク先の無料予告・先行部分に本人が映るかは未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-osqgjerruum",
+      "title": "【表現の幅を広げましょう！！】日向坂になりましょう-五期生成長バラエティ- #11 冒頭先行公開",
+      "url": "https://www.youtube.com/watch?v=OsQgjErrUuM",
+      "platform": "youtube",
+      "publisher": "Lemino",
+      "publication_kind": "official",
+      "upload_date": "2025-11-24",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "番組本編の配信日とYouTube冒頭先行公開日を混同しない。元の収録日は未確認。",
+      "duration_seconds": 564,
+      "published_at": "2025-11-24T01:00:39-08:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=OsQgjErrUuM",
+        "https://lemino.docomo.ne.jp/leminonews/articles/1124245013073494016"
+      ],
+      "appearance_confirmation": {
+        "level": "official_episode_cast",
+        "basis": "Lemino公式記事で第11回の出演者を片山紗希・蔵盛妃那乃・坂井新奈・佐藤優羽・松尾桜と明記。 当該回の出演を公式資料で確認、プレビュー内の登場位置は未確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "元番組回の出演は公式記事で確認。リンク先の無料予告・先行部分に本人が映るかは未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-w-6vnijfdae",
+      "title": "【年末総決算！激動の1年をみんなで振り返りましょう！】日向坂になりましょう-五期生成長バラエティ-#13 冒頭先行公開",
+      "url": "https://www.youtube.com/watch?v=w-6VnijfdaE",
+      "platform": "youtube",
+      "publisher": "Lemino",
+      "publication_kind": "official",
+      "upload_date": "2025-12-22",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "番組本編の配信日とYouTube冒頭先行公開日を混同しない。元の収録日は未確認。",
+      "duration_seconds": 602,
+      "published_at": "2025-12-22T01:01:35-08:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=w-6VnijfdaE",
+        "https://lemino.docomo.ne.jp/leminonews/articles/1133660688380592130"
+      ],
+      "appearance_confirmation": {
+        "level": "official_episode_cast",
+        "basis": "Lemino公式記事で五期生10人による年末トーク回と確認。片山本人の辛さ・冷たさ耐性の発言も記載。 当該回の出演を公式資料で確認、プレビュー内の登場位置は未確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "元番組回の出演は公式記事で確認。リンク先の無料予告・先行部分に本人が映るかは未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-wuguvihwpcm",
+      "title": "【お正月なのでバラエティ対決で盛り上がろう！】日向坂になりましょう-五期生成長バラエティ-#14 冒頭先行公開",
+      "url": "https://www.youtube.com/watch?v=WugUvihWPCM",
+      "platform": "youtube",
+      "publisher": "Lemino",
+      "publication_kind": "official",
+      "upload_date": "2025-12-29",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "番組本編の配信日とYouTube冒頭先行公開日を混同しない。元の収録日は未確認。",
+      "duration_seconds": 589,
+      "published_at": "2025-12-29T01:00:59-08:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=WugUvihWPCM",
+        "https://lemino.docomo.ne.jp/leminonews/articles/1134356940919406592"
+      ],
+      "appearance_confirmation": {
+        "level": "official_episode_cast",
+        "basis": "Lemino公式記事で五期生10人出演のお正月回と確認し、片山の抗議シーンを紹介。 当該回の出演を公式資料で確認、プレビュー内の登場位置は未確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "元番組回の出演は公式記事で確認。リンク先の無料予告・先行部分に本人が映るかは未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-mgeoeasmxwc",
+      "title": "【心を掴む文章力を身につけよう！】日向坂になりましょう-五期生成長バラエティ- #15 冒頭先行公開",
+      "url": "https://www.youtube.com/watch?v=MGeoEasmXwc",
+      "platform": "youtube",
+      "publisher": "Lemino",
+      "publication_kind": "official",
+      "upload_date": "2026-01-19",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "番組本編の配信日とYouTube冒頭先行公開日を混同しない。元の収録日は未確認。",
+      "duration_seconds": 579,
+      "published_at": "2026-01-19T01:00:27-08:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=MGeoEasmXwc",
+        "https://lemino.docomo.ne.jp/leminonews/articles/1144284469818032128"
+      ],
+      "appearance_confirmation": {
+        "level": "official_episode_cast",
+        "basis": "Lemino公式記事で第15回の出演者を片山紗希・坂井新奈・鶴崎仁香・松尾桜と明記。 当該回の出演を公式資料で確認、プレビュー内の登場位置は未確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "元番組回の出演は公式記事で確認。リンク先の無料予告・先行部分に本人が映るかは未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-okfnqe8ny4y",
+      "title": "【五期生の盛り上げ隊長になりましょう！】日向坂になりましょう-五期生成長バラエティ- #17 冒頭先行公開",
+      "url": "https://www.youtube.com/watch?v=OKFNQE8nY4Y",
+      "platform": "youtube",
+      "publisher": "Lemino",
+      "publication_kind": "official",
+      "upload_date": "2026-02-16",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "番組本編の配信日とYouTube冒頭先行公開日を混同しない。元の収録日は未確認。",
+      "duration_seconds": 577,
+      "published_at": "2026-02-16T01:00:37-08:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=OKFNQE8nY4Y",
+        "https://lemino.docomo.ne.jp/leminonews/articles/1154670585314279426",
+        "https://www.hinatazaka46.com/s/official/diary/detail/68013"
+      ],
+      "appearance_confirmation": {
+        "level": "official_episode_cast",
+        "basis": "Lemino公式記事で第17回の出演者を片山紗希・蔵盛妃那乃・高井俐香・松尾桜と明記。 当該回の出演を公式資料で確認、プレビュー内の登場位置は未確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "元番組回の出演は公式記事で確認。リンク先の無料予告・先行部分に本人が映るかは未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-r_50e9lw9fy",
+      "title": "【横浜DeNAベイスターズに詳しくなって ひな誕祭を盛り上げましょう!】日向坂になりましょう-五期生成長バラエティ-#19 冒頭先行公開",
+      "url": "https://www.youtube.com/watch?v=R_50e9lW9fY",
+      "platform": "youtube",
+      "publisher": "Lemino",
+      "publication_kind": "official",
+      "upload_date": "2026-03-16",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "番組本編の配信日とYouTube冒頭先行公開日を混同しない。元の収録日は未確認。",
+      "duration_seconds": 571,
+      "published_at": "2026-03-16T02:00:48-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=R_50e9lW9fY",
+        "https://lemino.docomo.ne.jp/leminonews/articles/1164480199471923202",
+        "https://www.hinatazaka46.com/s/official/diary/member/list?dy=20260320&ima=0000&link=ROBO004"
+      ],
+      "appearance_confirmation": {
+        "level": "official_episode_cast",
+        "basis": "Lemino公式記事で第19回に大田美月・大野愛実・片山紗希・蔵盛妃那乃・高井俐香・鶴崎仁香が出演と明記。 当該回の出演を公式資料で確認、プレビュー内の登場位置は未確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "元番組回の出演は公式記事で確認。リンク先の無料予告・先行部分に本人が映るかは未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-gq2s6tiists",
+      "title": "【料理スキルを向上させましょう！】日向坂になりましょう-五期生成長バラエティ- #21 冒頭先行公開",
+      "url": "https://www.youtube.com/watch?v=GQ2S6tiists",
+      "platform": "youtube",
+      "publisher": "Lemino",
+      "publication_kind": "official",
+      "upload_date": "2026-04-13",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "番組本編の配信日とYouTube冒頭先行公開日を混同しない。元の収録日は未確認。",
+      "duration_seconds": 569,
+      "published_at": "2026-04-13T03:25:17-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=GQ2S6tiists",
+        "https://lemino.docomo.ne.jp/leminonews/articles/1174644684132188160"
+      ],
+      "appearance_confirmation": {
+        "level": "official_episode_cast",
+        "basis": "Lemino公式記事で第21回の出演者を片山紗希・蔵盛妃那乃・坂井新奈・松尾桜と明記。料理企画。 当該回の出演を公式資料で確認、プレビュー内の登場位置は未確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "元番組回の出演は公式記事で確認。リンク先の無料予告・先行部分に本人が映るかは未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-5tvn8gjubcm",
+      "title": "【1年間の全てを出しつくしましょう！】日向坂になりましょう-五期生成長バラエティ-#25 冒頭先行公開",
+      "url": "https://www.youtube.com/watch?v=5tVN8gJubcM",
+      "platform": "youtube",
+      "publisher": "Lemino",
+      "publication_kind": "official",
+      "upload_date": "2026-06-08",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "番組本編の配信日とYouTube冒頭先行公開日を混同しない。元の収録日は未確認。",
+      "duration_seconds": 572,
+      "published_at": "2026-06-08T02:00:14-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=5tVN8gJubcM",
+        "https://lemino.docomo.ne.jp/leminonews/articles/1195260519150256129",
+        "https://www.hinatazaka46.com/s/official/diary/detail/69888?cd=member&ima=0000&link=ROBO004"
+      ],
+      "appearance_confirmation": {
+        "level": "official_episode_cast",
+        "basis": "Lemino公式記事で五期生全員参加と確認。片山は大野・坂井・下田・鶴崎とチーム度胸。本人ブログにも出演案内あり。 当該回の出演を公式資料で確認、プレビュー内の登場位置は未確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "元番組回の出演は公式記事で確認。リンク先の無料予告・先行部分に本人が映るかは未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-rblbwatolsu",
+      "title": "【1年間の全てを出しつくしましょう！完結編】日向坂になりましょう-五期生成長バラエティ-#26冒頭先行公開",
+      "url": "https://www.youtube.com/watch?v=RBLbWATOLsU",
+      "platform": "youtube",
+      "publisher": "Lemino",
+      "publication_kind": "official",
+      "upload_date": "2026-06-22",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "番組本編の配信日とYouTube冒頭先行公開日を混同しない。元の収録日は未確認。",
+      "duration_seconds": 579,
+      "published_at": "2026-06-22T02:00:32-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=RBLbWATOLsU",
+        "https://lemino.docomo.ne.jp/leminonews/articles/1200352467242450944"
+      ],
+      "appearance_confirmation": {
+        "level": "official_episode_cast",
+        "basis": "Lemino公式記事で五期生全員参加の最終回と確認。片山はチーム度胸で大喜利やホームラン競争に参加。 当該回の出演を公式資料で確認、プレビュー内の登場位置は未確認。",
+        "checked_at": "2026-10-03"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "元番組回の出演は公式記事で確認。リンク先の無料予告・先行部分に本人が映るかは未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "x-lemino-saki-launch",
+      "title": "公式X｜片山紗希から「日向坂になりましょう」開始メッセージ",
+      "url": "https://x.com/Lemino_official/status/1943837769052119271",
+      "platform": "x",
+      "publisher": "@Lemino_official",
+      "publication_kind": "official",
+      "upload_date": null,
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "撮影日・元番組の放送日は未確認。",
+      "duration_seconds": 39.722666,
+      "source_urls": [
+        "https://x.com/Lemino_official/status/1943837769052119271"
+      ],
+      "appearance_confirmation": {
+        "level": "一部映像と投稿本文",
+        "basis": "公式投稿が単独の本人メッセージと説明し、画面の名札にも片山紗希と表示。約11秒・21秒は±2秒の目安、23.506秒は一時停止で時刻を確認。",
+        "checked_at": "2026-10-03T09:09:45.247Z"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "x-brody-saki-sakura-revolution",
+      "title": "公式X｜片山紗希×松尾桜「革命前夜」告知動画",
+      "url": "https://x.com/brody20150821/status/2047301229873905867",
+      "platform": "x",
+      "publisher": "@brody20150821",
+      "publication_kind": "official",
+      "upload_date": null,
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "撮影日・元番組の放送日は未確認。",
+      "duration_seconds": 14.67501,
+      "source_urls": [
+        "https://x.com/brody20150821/status/2047301229873905867"
+      ],
+      "appearance_confirmation": {
+        "level": "一部映像と投稿本文",
+        "basis": "公式投稿は片山紗希と松尾桜の2人を明記。約6秒は±2秒、約14秒は±1秒の目安で実際の映像表示を確認。",
+        "checked_at": "2026-10-03T09:09:45.247Z"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-zg9tdd6olem",
+      "title": "日向坂46「ひなリハ」～イチャイチャ虫～",
+      "url": "https://www.youtube.com/watch?v=zg9Tdd6oleM",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-10-03",
+      "source_date": null,
+      "category": "公式",
+      "record_type": "video",
+      "source_date_note": "収録日は未確認。",
+      "duration_seconds": 267,
+      "published_at": "2026-10-03T02:00:27-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=zg9Tdd6oleM",
+        "https://www.hinatazaka46.com/s/official/news/detail/R00599?ima=0000",
+        "https://www.hinatazaka46.com/s/official/page/18th_single?ima=0000",
+        "https://www.hinatazaka46.com/s/official/diary/detail/71242"
+      ],
+      "appearance_confirmation": {
+        "level": "official_blog_direct_link",
+        "basis": "2026年10月4日の本人公式ブログが当該公式動画URLを直接案内。",
+        "checked_at": "2026-10-15T12:08:15+09:00"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-zzxxpxjv0sk",
+      "title": "手の正体は…❤️💐 #日向坂46_イチャイチャ虫 #日向坂46 #片山紗希 #金村美玖",
+      "url": "https://www.youtube.com/shorts/zzxXpXJV0Sk",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-10-05",
+      "source_date": null,
+      "category": "公式（short）",
+      "record_type": "video",
+      "source_date_note": "収録日は未確認。",
+      "duration_seconds": 18,
+      "published_at": "2026-10-05T05:00:38-07:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/shorts/zzxXpXJV0Sk",
+        "https://www.youtube.com/watch?v=zzxXpXJV0Sk",
+        "https://www.youtube.com/@46officialyoutubechannel99/shorts"
+      ],
+      "appearance_confirmation": {
+        "level": "official_hashtag",
+        "basis": "公式アーティストチャンネルと当該投稿の #片山紗希・#金村美玖 を確認。",
+        "checked_at": "2026-10-15T12:08:15+09:00"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    },
+    {
+      "id": "youtube-fedhdmebtvg",
+      "title": "#イチャイチャハートダンス 片山紗希ver.♥️ #日向坂46_イチャイチャ虫 #日向坂46 #片山紗希",
+      "url": "https://www.youtube.com/shorts/fedHDMeBTvg",
+      "platform": "youtube",
+      "publisher": "日向坂46 OFFICIAL YouTube CHANNEL",
+      "publication_kind": "official",
+      "upload_date": "2026-10-18",
+      "source_date": null,
+      "category": "公式（short）",
+      "record_type": "video",
+      "source_date_note": "収録日未確認。",
+      "duration_seconds": 49,
+      "published_at": "2026-10-18T20:00:37+09:00",
+      "publication_timezone": "Asia/Tokyo",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=fedHDMeBTvg",
+        "https://www.youtube.com/@46officialyoutubechannel99/shorts"
+      ],
+      "appearance_confirmation": {
+        "level": "official_hashtag",
+        "basis": "公式アーティストチャンネルの当該ページに片山紗希ver.および #片山紗希 を直接確認。",
+        "checked_at": "2026-10-19T03:05:03+09:00"
+      },
+      "content_analysis_status": "未完了。メタデータ掲載と内容分析済みガイドの完成は別。",
+      "appearance_scope": "公式情報に基づく出演・関連投稿の確認。映像内の登場位置は未確認。",
+      "availability_note": "公式公開URLへの案内。現在の再生可否・期限・地域制限は未検証。元番組の有料本編を再配布しない。"
+    }
+  ],
+  "note": "公式投稿の本人名、本人ブログの直接リンク、番組公式の出演情報などを根拠とする。無料予告編は元番組本編と区別する。内容未確認を分析済みにしない。",
+  "excluded_nonofficial_or_unverified_count": 41
+}

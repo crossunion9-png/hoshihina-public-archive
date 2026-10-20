@@ -1,0 +1,263 @@
+{
+  "id": "saved-counts",
+  "question": "観測した保存ファイルの件数と集計条件は？",
+  "kind": "運営者による非公式の独自集計",
+  "url": "https://hoshihina-editable-archive.labrat3.chatgpt.site/answers/saved-counts",
+  "json_url": "https://hoshihina-editable-archive.labrat3.chatgpt.site/answers/saved-counts.json",
+  "publisher": "サイト運営者による非公式の独自集計。公式配信者の公認・集計ではありません。",
+  "answer": "観測した保存範囲の合計は5898ファイル。メッセージ送信数や全配信数を意味しません。",
+  "period": {
+    "start": "2025-11-01",
+    "end": "2026-10-18",
+    "time_basis": "元記録のファイル名に含まれる日時raw（TZ未確定）。ダウンロード日・アップロード日・ファイル更新日時ではない。月境界では分類が変わり得る。"
+  },
+  "verified_at": "2026-10-19T19:20:00+09:00",
+  "unit": "saved_file_count_not_message_count",
+  "definitions": {
+    "text": "本文の保存ファイル",
+    "photo": "写真の保存ファイル",
+    "video": "動画の保存ファイル（無音動画を含む）",
+    "voice": "音声の保存ファイル",
+    "total": "text+photo+video+voice。本文と添付は別ファイル。",
+    "video_silent": "videoの内数。totalには重ねて加算しない。",
+    "media_percentages": "各媒体ファイル件数÷当月total×100。丸めにより合計100%とならない場合がある。"
+  },
+  "totals": {
+    "text": 3687,
+    "photo": 1438,
+    "video": 749,
+    "voice": 24,
+    "total": 5898
+  },
+  "months": [
+    {
+      "month": "2025-11",
+      "counts": {
+        "text": 143,
+        "photo": 58,
+        "video": 17,
+        "voice": 7,
+        "total": 225,
+        "video_silent": 9
+      },
+      "status": "collected",
+      "denominator": 225,
+      "media_percentages": {
+        "text": 63.56,
+        "photo": 25.78,
+        "video": 7.56,
+        "voice": 3.11
+      }
+    },
+    {
+      "month": "2025-12",
+      "counts": {
+        "text": 290,
+        "photo": 115,
+        "video": 36,
+        "voice": 2,
+        "total": 443,
+        "video_silent": 21
+      },
+      "status": "collected",
+      "denominator": 443,
+      "media_percentages": {
+        "text": 65.46,
+        "photo": 25.96,
+        "video": 8.13,
+        "voice": 0.45
+      }
+    },
+    {
+      "month": "2026-01",
+      "counts": null,
+      "status": "missing",
+      "denominator": null,
+      "media_percentages": null
+    },
+    {
+      "month": "2026-02",
+      "counts": {
+        "text": 377,
+        "photo": 126,
+        "video": 66,
+        "voice": 5,
+        "total": 574,
+        "video_silent": 33
+      },
+      "status": "collected",
+      "denominator": 574,
+      "media_percentages": {
+        "text": 65.68,
+        "photo": 21.95,
+        "video": 11.5,
+        "voice": 0.87
+      }
+    },
+    {
+      "month": "2026-03",
+      "counts": {
+        "text": 454,
+        "photo": 135,
+        "video": 116,
+        "voice": 1,
+        "total": 706,
+        "video_silent": 69
+      },
+      "status": "collected",
+      "denominator": 706,
+      "media_percentages": {
+        "text": 64.31,
+        "photo": 19.12,
+        "video": 16.43,
+        "voice": 0.14
+      }
+    },
+    {
+      "month": "2026-04",
+      "counts": {
+        "text": 434,
+        "photo": 153,
+        "video": 83,
+        "voice": 5,
+        "total": 675,
+        "video_silent": 76
+      },
+      "status": "collected",
+      "denominator": 675,
+      "media_percentages": {
+        "text": 64.3,
+        "photo": 22.67,
+        "video": 12.3,
+        "voice": 0.74
+      }
+    },
+    {
+      "month": "2026-05",
+      "counts": {
+        "text": 437,
+        "photo": 164,
+        "video": 97,
+        "voice": 1,
+        "total": 699,
+        "video_silent": 87
+      },
+      "status": "collected",
+      "denominator": 699,
+      "media_percentages": {
+        "text": 62.52,
+        "photo": 23.46,
+        "video": 13.88,
+        "voice": 0.14
+      }
+    },
+    {
+      "month": "2026-06",
+      "counts": {
+        "text": 362,
+        "photo": 157,
+        "video": 85,
+        "voice": 1,
+        "total": 605,
+        "video_silent": 56
+      },
+      "status": "collected",
+      "denominator": 605,
+      "media_percentages": {
+        "text": 59.83,
+        "photo": 25.95,
+        "video": 14.05,
+        "voice": 0.17
+      }
+    },
+    {
+      "month": "2026-07",
+      "counts": {
+        "text": 335,
+        "photo": 125,
+        "video": 83,
+        "voice": 0,
+        "total": 543,
+        "video_silent": 53
+      },
+      "status": "collected",
+      "denominator": 543,
+      "media_percentages": {
+        "text": 61.69,
+        "photo": 23.02,
+        "video": 15.29,
+        "voice": 0
+      }
+    },
+    {
+      "month": "2026-08",
+      "counts": {
+        "text": 326,
+        "photo": 150,
+        "video": 68,
+        "voice": 2,
+        "total": 546,
+        "video_silent": 45
+      },
+      "status": "collected",
+      "denominator": 546,
+      "media_percentages": {
+        "text": 59.71,
+        "photo": 27.47,
+        "video": 12.45,
+        "voice": 0.37
+      }
+    },
+    {
+      "month": "2026-09",
+      "counts": {
+        "text": 335,
+        "photo": 162,
+        "video": 53,
+        "voice": 0,
+        "total": 550,
+        "video_silent": 43
+      },
+      "status": "collected",
+      "denominator": 550,
+      "media_percentages": {
+        "text": 60.91,
+        "photo": 29.45,
+        "video": 9.64,
+        "voice": 0
+      }
+    },
+    {
+      "month": "2026-10",
+      "counts": {
+        "text": 194,
+        "photo": 93,
+        "video": 45,
+        "voice": 0,
+        "total": 332,
+        "video_silent": 24
+      },
+      "status": "partial",
+      "denominator": 332,
+      "media_percentages": {
+        "text": 58.43,
+        "photo": 28.01,
+        "video": 13.55,
+        "voice": 0
+      }
+    }
+  ],
+  "limitations": [
+    "観測した保存範囲であり、全配信・全購読期間の網羅を保証しない。",
+    "2026年1月は欠測。0件ではない。2026年10月は途中月。",
+    "写真の初期1,357ファイル中、異なるSHA256は1,343種類。同一内容の差分14はファイル件数から除外していない。全期間の一意写真数は未確定。",
+    "件数は親密さ、活動評価、発信意図を示さない。",
+    "原文・画像・動画・個別メッセージ識別子は提供しない。"
+  ],
+  "provenance": {
+    "source_url": "https://hoshihina-editable-archive.labrat3.chatgpt.site/data/message-statistics.json",
+    "revision": 0,
+    "content_updated_at": null
+  },
+  "time_note": "verified_atは確認日時。periodは観測期間。欠測月と途中月を含むため単純比較はできません。"
+}

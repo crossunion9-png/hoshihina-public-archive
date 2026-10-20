@@ -1,0 +1,204 @@
+{
+  "id": "hobbies",
+  "question": "片山紗希が公表している趣味・好きなものは？",
+  "kind": "公開資料に基づく事実整理",
+  "url": "https://hoshihina-editable-archive.labrat3.chatgpt.site/answers/hobbies",
+  "json_url": "https://hoshihina-editable-archive.labrat3.chatgpt.site/answers/hobbies.json",
+  "publisher": "ホシヒナRadio資料室（非公式）",
+  "answer": "カプセルトイ、シルバニアファミリー、サンリオなど、可愛い小物やキャラクターを集めるのが好き。\n\nぬいぐるみに名前をつけて大切にする。最近の公開インタビューでは、ふわりんましゅやしろたんと出かける楽しみを話している。\n\n子どもの頃、ぬいぐるみの服を手縫いし、その後ミシンでも作っていたと語る。\n\nピアノを習っていた経験があり、クラシックも聴く。My Hair is Bad、RADWIMPS、SEKAI NO OWARIをよく聴くと2025年に回答。\n\nミステリー小説が好きで、題名から選ぶことが多いと説明。凪良ゆう作品も好きで、『滅びの前のシャングリラ』を読んだと2025年9月に紹介。\n\n中学ではテニス、高校ではチアリーディング。チームで喜びや悔しさを共有するスポーツが好きだと話す。",
+  "evidence": [
+    {
+      "id": "collecting",
+      "label": "集める楽しみ",
+      "value": "カプセルトイ、シルバニアファミリー、サンリオなど、可愛い小物やキャラクターを集めるのが好き。",
+      "source_ids": [
+        "blog-59618",
+        "blog-68485"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/59618",
+        "https://www.hinatazaka46.com/s/official/diary/detail/68485"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "plush",
+      "label": "ぬい活",
+      "value": "ぬいぐるみに名前をつけて大切にする。最近の公開インタビューでは、ふわりんましゅやしろたんと出かける楽しみを話している。",
+      "source_ids": [
+        "blog-61187",
+        "interview-shueisha-20261002"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/61187",
+        "https://shueisha.online/articles/-/258547"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "sewing",
+      "label": "裁縫",
+      "value": "子どもの頃、ぬいぐるみの服を手縫いし、その後ミシンでも作っていたと語る。",
+      "source_ids": [
+        "interview-shueisha-20261002"
+      ],
+      "source_urls": [
+        "https://shueisha.online/articles/-/258547"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "music",
+      "label": "音楽",
+      "value": "ピアノを習っていた経験があり、クラシックも聴く。My Hair is Bad、RADWIMPS、SEKAI NO OWARIをよく聴くと2025年に回答。",
+      "source_ids": [
+        "blog-59618",
+        "blog-60209"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/59618",
+        "https://www.hinatazaka46.com/s/official/diary/detail/60209"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "reading",
+      "label": "読書",
+      "value": "ミステリー小説が好きで、題名から選ぶことが多いと説明。凪良ゆう作品も好きで、『滅びの前のシャングリラ』を読んだと2025年9月に紹介。",
+      "source_ids": [
+        "blog-65793"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/65793"
+      ],
+      "confidence": "本人明言"
+    },
+    {
+      "id": "sports",
+      "label": "スポーツ",
+      "value": "中学ではテニス、高校ではチアリーディング。チームで喜びや悔しさを共有するスポーツが好きだと話す。",
+      "source_ids": [
+        "blog-69888",
+        "interview-shueisha-20261002"
+      ],
+      "source_urls": [
+        "https://www.hinatazaka46.com/s/official/diary/detail/69888",
+        "https://shueisha.online/articles/-/258547"
+      ],
+      "confidence": "本人明言"
+    }
+  ],
+  "sources": [
+    {
+      "id": "blog-59618",
+      "title": "君らしく僕らしく  片山紗希",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/59618",
+      "date": "2025-04-13",
+      "type": "公式ブログ",
+      "summary": "最初の自己紹介。趣味、得意・苦手の自己評価、好きな音楽、ファンから加入に至った思いを知る入口。",
+      "tags": [
+        "自己紹介",
+        "加入",
+        "音楽"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-60209",
+      "title": "意地でも未来を信じる 片山紗希",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/60209",
+      "date": "2025-05-23",
+      "type": "公式ブログ",
+      "summary": "表現の課題、自主練習、ひとり時間、好きなアーティスト、メイクのこだわりを語る。",
+      "tags": [
+        "成長",
+        "音楽",
+        "メイク"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-61187",
+      "title": "目が合うね😉 片山紗希",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/61187",
+      "date": "2025-07-22",
+      "type": "公式ブログ",
+      "summary": "ぬいぐるみに名前をつける習慣やクマへの愛着、好きな野菜などを回答。",
+      "tags": [
+        "ぬい活",
+        "Q&A"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-65793",
+      "title": "永遠なんてない 片山紗希",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/65793",
+      "date": "2025-09-20",
+      "type": "公式ブログ",
+      "summary": "初ツアー前の案内と、読書・好きなキャラクターの話。ミステリー小説と凪良ゆう作品を挙げる。",
+      "tags": [
+        "読書",
+        "キャラクター"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-68485",
+      "title": "カタヤマサキ",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/68485",
+      "date": "2026-03-23",
+      "type": "公式ブログ",
+      "summary": "図鑑風の自己紹介。好奇心、計画好き、即決と相手への配慮、収集や料理など多くの好みを説明。",
+      "tags": [
+        "自己紹介",
+        "行動",
+        "趣味"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "blog-69888",
+      "title": "日向坂バレー部に入部したよ🏐",
+      "url": "https://www.hinatazaka46.com/s/official/diary/detail/69888",
+      "date": "2026-06-23",
+      "type": "公式ブログ",
+      "summary": "日向坂バレー部への加入。チーム競技が好きな理由、自主練用のボール購入、手作り弁当の話。",
+      "tags": [
+        "スポーツ",
+        "チーム",
+        "料理"
+      ],
+      "checked_at": "2026-10-03"
+    },
+    {
+      "id": "interview-shueisha-20261002",
+      "title": "集英社オンライン｜ぬい活、手縫いの服作り、チア経験",
+      "url": "https://shueisha.online/articles/-/258547",
+      "date": "2026-10-02",
+      "type": "公開インタビュー",
+      "summary": "ぬいぐるみの服を縫っていた経験、ふわりんましゅやしろたんへの愛着を紹介。続く2ページでは高校のチアと、人を応援する喜びを語る。",
+      "tags": [
+        "ぬい活",
+        "チア",
+        "アイドル観"
+      ],
+      "checked_at": "2026-10-03"
+    }
+  ],
+  "limitations": [
+    "本人の公表した自己説明と分析者の解釈を区別する。私的な本心、臨床的特性、親密さや不仲の判定ではない。",
+    "各出典の公開日・確認日を保持。全ブログ本文の完全な精読、最新の全映像を視聴済みという意味ではない。",
+    "同じ公演の事前・事後記事、同じ取材の転載は独立した実証として重複計上しない。",
+    "公開写真は選定された6記事12画像の確認に限る。現在地や非公開施設の推定に用いない。",
+    "動画由来の分析は検証済み自動字幕の区間に限定し、誤認可能性を残す。",
+    "この公開文章版は公開一次資料で裏付け可能な記述を採用。限定配信のみの個別内容は含めない。"
+  ],
+  "provenance": {
+    "source_url": "https://hoshihina-editable-archive.labrat3.chatgpt.site/data/saki-public-profile.json",
+    "revision": 0,
+    "content_updated_at": null,
+    "exported_at": "2026-10-19T19:32:00+09:00"
+  },
+  "time_note": "exported_atはデータ書き出し日時。情報の対象時点は各出典のdate・checked_atと本文を参照。"
+}
